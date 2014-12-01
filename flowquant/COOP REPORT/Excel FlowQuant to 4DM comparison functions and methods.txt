@@ -1,0 +1,141 @@
+function comparisonTest(excelFile)
+
+[typ, desc] = xlsfinfo(excelFile);
+for i=1:length(desc)
+sheet=desc{i};
+compareExcelResults(excelFile,sheet,'h3:h22','d3:d22','4DM','FQ','EDV (ml)',['EDV Correlation (' sheet ' Rings)']);
+compareExcelResults(excelFile,sheet,'i3:i22','e3:e22','4DM','FQ','ESV (ml)',['ESV Correlation (' sheet ' Rings)']);
+compareExcelResults(excelFile,sheet,'k3:k22','g3:g22','4DM','FQ','EF (%)',['EF Correlation ('  sheet ' Rings)']);
+end
+
+
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+function compareExcelResults (excelFile,sheet,range1,range2,xID,yID,label,tit)
+
+data1=xlsread(excelFile,sheet,range1);
+data2=xlsread(excelFile,sheet,range2);
+if isempty(data1) ||isempty(data2)
+	return;
+end
+[cr Fig corXLABEL corYLABEL SUPTIT]=BlandAltman(data1,data2,label,tit); % my own updated BlandAltman has 3 more handles as output
+set(corXLABEL,'String',[xID ' ' get(corXLABEL,'String')]);
+set(corYLABEL,'String',[yID ' ' get(corYLABEL,'String')]);
+
+[file path] = uiputfile({'*.jpg','Joint Photographic Experts Group (*.jpg)'},'Save snapshot to...');
+if ~isequal(file,0)
+snapshot=getframe(Fig);
+I = frame2im(snapshot);
+saveFile= [path file];
+imwrite(I,saveFile,'jpg')
+end
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+function [cr fig corXLABEL corYLABEL SUPTIT] = BlandAltman(data1, data2,label,tit,gnames,varargin)
+colors = 'rbgmc';
+symb = 'sodp^v';
+
+s = size(data1);
+if ~isequal(s,size(data2));
+	error('data1 and data2 must have the same size');
+end
+
+switch length(s)
+	case 1
+		s = [s 1 1];
+	case 2
+		s = [s 1];
+	case 3
+	otherwise
+		error('Data have too many dimension');
+end
+n = s(1); % number of elements in each group
+groups = numel(data1)/n;
+data1 = reshape(data1, [numel(data1),1]);
+data2 = reshape(data2, [numel(data2),1]);
+
+fig = figure;
+set(fig,'units','centimeters','position',[5 5 20 10],'color','w');
+
+%% Correlation
+cah = subplot(121);
+hold(cah,'on');
+for i=1:groups
+	marker = [colors(floor((i-1)/s(2))+1) symb(rem(i-1,s(2))+1)];
+	ph=plot(cah,data1((i-1)*n+(1:n)),data2((i-1)*n+(1:n)),marker);
+end
+% Linear regression
+[p, S] = polyfit(data1,data2,1);
+r = corrcoef(data1,data2); r=r(1,2);
+a = axis(cah); a(1)=min(a(1),a(3)); a(3)=a(1); a(2) = max(a(2),a(4)); a(4)=a(2);
+axis(cah,a); axis(cah,'square');
+plot(cah,a(1:2), polyval(p,a(1:2)),'-k');
+text(a(1)+0.01*(a(2)-a(1)),a(1)+0.9*(a(2)-a(1)),{['r^2=' num2str(r^2)];['y=' num2str(p(1)) 'x+' num2str(p(2))]});
+corXLABEL= xlabel(label); corYLABEL= ylabel(label);
+
+%% Differences
+dah = subplot(122);
+set(dah,'units','normalized');
+hold(dah,'on');
+for i=1:groups
+	marker = [colors(floor((i-1)/s(2))+1) symb(rem(i-1,s(2))+1)];
+	d1 = data1((i-1)*n+(1:n));
+	d2 = data2((i-1)*n+(1:n));
+	dif = d2-d1;
+	plot(dah,mean([d1,d2],2),dif,marker);
+	a = axis(dah);
+end
+lh = legend('show');
+axis(dah,'square')
+xlabel(['Mean ' label]); ylabel(['\Delta ' label]);
+
+% add std-dev lines
+st = std(data2-data1);
+mn = mean(data2-data1);
+cr = 1.96*st;
+plot(a(1:2),mn+[0 0],'k')
+plot(a(1:2),mn+st*[1 1],'k')
+plot(a(1:2),mn-st*[1 1],'k')
+plot(a(1:2),mn+2*st*[1 1],':k')
+plot(a(1:2),mn-2*st*[1 1],':k')
+text(a(2),mn,'mean','HorizontalAlignment','left','VerticalAlignment','middle');
+text(a(2),mn+2*st,'+2SD','HorizontalAlignment','left','VerticalAlignment','middle');
+text(a(2),mn-2*st,'-2SD','HorizontalAlignment','left','VerticalAlignment','middle');
+text(a(2),mn+2*st,['RPC: ' num2str(cr,2)],'fontweight','bold','HorizontalAlignment','right','VerticalAlignment','Bottom');
+if exist('tit','var')
+	SUPTIT=suptitle(tit);
+end
+
+% Add legend
+if exist('gnames','var')
+	if iscell(gnames)
+		if length(gnames)==2 
+			if iscell(gnames{1}) 
+			temp = cell(1,groups);
+				for i=1:length(gnames{1})
+					for j=1:length(gnames{2})
+						temp{i+(j-1)*length(gnames{1})} = [gnames{1}{i} '-' gnames{2}{j}];
+					end
+				end	
+				gnames = temp;
+			elseif iscell(gnames{2})
+				gnames = strcat(gnames{1}, '-', gnames{2});
+			end
+		end
+	end
+	cpos = get(cah,'Position');
+	dpos = get(dah,'Position');
+	set(cah,'Position',cpos+[0 0.07 0 0]);
+	set(dah,'Position',dpos+[0 0.07 0 0]);
+	pos = [cpos(1) 0.02 (dpos(1)+dpos(3)-cpos(1)) 0.05];
+	set(lh,'string',gnames,'units','normalized','position',pos,'orientation','horizontal');
+end
