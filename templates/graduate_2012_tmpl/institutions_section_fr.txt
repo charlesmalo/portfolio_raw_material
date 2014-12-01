@@ -1,0 +1,35 @@
+<div id="institutions_list"> 
+
+
+<a  class="panel_title_link" href="http://www.engineering.uottawa.ca/fr/research/">
+
+<h4 style= "line-height:0.5em"><b>Institution offrant des recherches supérieures</b> </h4>
+</a>
+<!-- ^^TO CHANGE THE SECTION LABEL, CHANGE THE TEXT THAT IS BETWEEN <b> and </b> ABOVE ^^ -->
+
+<ul>	<!-- do not delete this tag-->
+
+
+		  
+<li><a href="http://www.ociene.ca/index.shtml" class="readmore">Ottawa-Carleton Institute for Environmental Engineering (OCIENE)</a></li>
+<li><a href="http://www.ocice.ca/index.shtml" class="readmore">Ottawa-Carleton Institute for Civil Engineering (OCICE)</a></li>            
+<li><a href="http://www.ociece.ca/bi_ling/index.php?lang=1" class="readmore">Ottawa-Carleton Institute for Electrical and Computer Engineering (OCIECE)</a></li>
+<li><a href="https://ocics.site.uottawa.ca/french/index.php" class="readmore">Ottawa-Carleton Institute for Computer Science (OCICS)</a></li>						
+<li><a href="https://ocics.site.uottawa.ca/french/index.php" class="readmore">Ottawa-Carleton Institute for Biomedical Engineering (OCIBME)</a></li>			
+<li><a href="http://www.ocimae.ca/" class="readmore">Ottawa-Carleton Institute for Mechanical and Aerospace Engineering (OCIMAE)</a></li>								
+
+
+
+
+
+
+	
+</ul>			
+
+
+
+
+
+
+
+</div>

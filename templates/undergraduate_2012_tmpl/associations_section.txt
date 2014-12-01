@@ -1,0 +1,30 @@
+<div id="associations_list"> 
+
+
+<a  class="panel_title_link" href="http://www.engineering.uottawa.ca/en/S=c54abedb3b0dbb4883e3d61ab25f6eb4a319c534/student_groups/">
+
+<h4 style= "line-height:0.5em"><b>Student Associations and Clubs</b> </h4>
+</a>
+<!-- To change the section title,  simply change the word between <b> ... </b>  above-->
+<ul>	<!-- do not delete this tag-->
+
+		  
+<li><a href="http://www.ieeeuottawa.ca/" class="readmore">IEEE uOttawa Student Branch</a></li>
+<li><a href="http://www.sfuo.ca" class="readmore">SFUO - Student Federation of the University of Ottawa</a></li>	
+<li><a href="http://www.uottawaess.ca/" class="readmore">Engineering Students Society (ESS)</a></li>
+<li><a href="http://www.ariserobotics.ca/" class="readmore">Advanced Robotics Innovations Society in Engineering (ARISE)</a></li>            
+<li><a href="http://www.uottawa.ewb.ca/?page_id=31" class="readmore">Engineers Without Borders (EWB)</a></li>						
+		
+	
+
+
+	
+</ul>			
+
+
+
+
+
+
+
+</div>

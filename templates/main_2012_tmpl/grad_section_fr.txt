@@ -1,0 +1,43 @@
+<div id="grad_list"> 
+
+
+<a  class="panel_title_link" href="http://www.engineering.uottawa.ca/en/graduate_2012/">
+
+<h4 style= "line-height:0.5em"><b> Étudiants des cycles supérieurs</b> </h4>
+</a>
+<!-- To change the section title,  simply change the word between <b> ... </b>  above-->
+<ul>	<!-- do not delete this tag-->
+
+
+
+<!-- 
+just below this is a layout example of how to add items
+
+<li><a href= "THIS IS WHERE YOU PUT A COMPLETE URL LINK IN THE DOUBLE QUOTATIONS"  class="readmore">   THIS IS WHERE YOUR TEXT OR LABEL GOES.</a> </li>
+<li><a href= "THIS IS WHERE YOU PUT A COMPLETE URL LINK IN THE DOUBLE QUOTATIONS"  class="readmore">   THIS IS WHERE YOUR TEXT OR LABEL GOES.</a> </li>
+<li><a href= "THIS IS WHERE YOU PUT A COMPLETE URL LINK IN THE DOUBLE QUOTATIONS"  class="readmore">   THIS IS WHERE YOUR TEXT OR LABEL GOES.</a> </li>
+<li><a href= "THIS IS WHERE YOU PUT A COMPLETE URL LINK IN THE DOUBLE QUOTATIONS"  class="readmore">   THIS IS WHERE YOUR TEXT OR LABEL GOES.</a> </li>
+ end of example-->
+
+
+		  
+<li><a href="http://www.engineering.uottawa.ca/fr/graduate/" class="readmore">Programmes d’études supérieures</a></li>
+<li><a href="http://www.engineering.uottawa.ca/fr/institutes_offering_graduate_studies" class="readmore">Instituts offrant des études supérieures</a></li>            
+<li><a href="http://www.etudesup.uottawa.ca/Default.aspx?tabid=1559" class="readmore">Bourses et appui financier</a></li>
+<li><a href="http://www.uottawa.ca/recherche/" class="readmore">Recherche</a></li>	
+<li><a href="http://www.etudesup.uottawa.ca/Default.aspx?tabid=3781" class="readmore">Étudiants internationaux</a></li>						
+<li><a href="http://www.etudesup.uottawa.ca/Default.aspx?tabid=1337" class="readmore">Thèses et mémoires</a></li>			
+						
+
+
+
+	
+</ul>			
+
+
+
+
+
+
+
+</div>

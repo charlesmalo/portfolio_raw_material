@@ -1,0 +1,31 @@
+<div id="grad_list"> 
+
+
+<a  class="panel_title_link" href="http://www.engineering.uottawa.ca/en/graduate_2012/"> 
+<h4 style= "line-height:0.5em"><b> Graduate Students </b> </h4>
+</a>
+<!-- To change the section title,  simply change the word between <b> ... </b>  above-->
+
+<ul>	<!-- do not delete this tag-->
+
+		  
+<li><a href="http://www.engineering.uottawa.ca/en/graduate/" class="readmore">Graduate Programs</a></li>
+<li><a href="http://www.engineering.uottawa.ca/en/institutes_offering_graduate_studies/" class="readmore">Institutes offering Graduate Studies</a></li>            
+<li><a href="http://www.grad.uottawa.ca/Default.aspx?tabid=1458" class="readmore">Scholarships and Funding</a></li>
+<li><a href="http://www.uottawa.ca/research/" class="readmore">Research</a></li>	
+<li><a href="http://www.grad.uottawa.ca/Default.aspx?tabid=3783" class="readmore">International Students</a></li>						
+<li><a href="http://www.grad.uottawa.ca/Default.aspx?tabid=1372" class="readmore">Thesis and Research Papers</a></li>				
+					
+
+
+
+	
+</ul>			
+
+
+
+
+
+
+
+</div>

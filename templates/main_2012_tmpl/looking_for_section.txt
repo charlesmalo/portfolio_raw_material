@@ -1,0 +1,32 @@
+<div id="looking_for_list"> 
+
+
+<a  class="panel_title_link" href="http://www.engineering.uottawa.ca/en/search/">
+
+<h4 style= "line-height:0.5em"><b> What are you looking for? </b> </h4>
+</a>
+<!-- To change the section title,  simply change the word between <b> ... </b>  above-->
+<ul>	<!-- do not delete this tag-->
+
+
+<li><a href="http://www.engineering.uottawa.ca/en/entrepreneurship/prizes" class="readmore">Prizes in Entrepreneurship and Innovation Student Competitions</a></li>		  
+<li><a href="http://www.engineering.uottawa.ca/engineering_events_uocal" class="readmore">Upcoming Events</a></li>     
+<li><a href="http://www.engineering.uottawa.ca/en/computing_facilities/about_ecf/" class="readmore">Computing Services</a></li>
+<li><a href="http://www.engineering.uottawa.ca/en/computing_facilities/about_ecf/" class="readmore">Laboratory Hours</a></li>						
+<li><a href="http://www.engineering.uottawa.ca/en/health_and_safety/" class="readmore">Health & Safety Forms</a></li>			
+<li><a href="http://www.engineering.uottawa.ca/en/undergraduate/programs/" class="readmore">Course Sequences</a></li>								
+<li><a href="http://www.sass.uottawa.ca/careers/" class="readmore">Career Services</a></li>	
+<li><a href="http://www.admission.uottawa.ca/Default.aspx?tabid=3205" class="readmore">Want to study in engineering or in computer science? Come meet with us!</a></li>	
+
+
+
+	
+</ul>			
+
+
+
+
+
+
+
+</div>

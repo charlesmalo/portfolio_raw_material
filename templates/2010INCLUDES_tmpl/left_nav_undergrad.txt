@@ -1,0 +1,24 @@
+<ul id="local-nav">
+
+<!-- home -->
+<li>
+	<h3 class="home"><a class="home" href="{site_url}">Home</a> </h3>	
+</li>
+		
+<!-- undergrad-->
+
+<li><h3 class="home"><a href="{path="prospective"}">Prospective Students</a> </h3>	</li>
+<li><h3 class="home"><a class="home" href="{path="undergraduate/current_students"}">Current Students</a> </h3>	</li>
+<li><h3 class="home"><a class="home" href="{path="undergraduate/academic_success"}">Academic Success</a> </h3>	</li>
+<li><h3 class="home"><a class="home" href="#">Scholarships and Finance</a> </h3>	</li>
+
+<li><h3 class="home"><a class="home" href="{path="undergraduate/view/policy_on_special_student_registration"}">Special Students</a> </h3>	</li>
+	
+	
+
+		
+</ul>
+
+
+	
+	

@@ -1,0 +1,34 @@
+<div id="classroom_list"> 
+
+
+<a  class="panel_title_link" href="http://www.engineering.uottawa.ca/fr/contact/view/contact_-_engineering_in_your_classroom/">
+
+<h4 style= "line-height:0.5em"><b> Contact dans votre classe </b> </h4>
+</a>
+<!-- To change the section title,  simply change the word between <b> ... </b>  above-->
+<ul>	<!-- do not delete this tag-->
+
+
+
+<!-- 
+just below this is a layout example of how to add items
+
+<li><a href= "THIS IS WHERE YOU PUT A COMPLETE URL LINK IN THE DOUBLE QUOTATIONS"  class="readmore">   THIS IS WHERE YOUR TEXT OR LABEL GOES.</a> </li>
+<li><a href= "THIS IS WHERE YOU PUT A COMPLETE URL LINK IN THE DOUBLE QUOTATIONS"  class="readmore">   THIS IS WHERE YOUR TEXT OR LABEL GOES.</a> </li>
+<li><a href= "THIS IS WHERE YOU PUT A COMPLETE URL LINK IN THE DOUBLE QUOTATIONS"  class="readmore">   THIS IS WHERE YOUR TEXT OR LABEL GOES.</a> </li>
+<li><a href= "THIS IS WHERE YOU PUT A COMPLETE URL LINK IN THE DOUBLE QUOTATIONS"  class="readmore">   THIS IS WHERE YOUR TEXT OR LABEL GOES.</a> </li>
+ end of example-->
+
+
+<li  class = "panel_picture"><a href="http://www.engineering.uottawa.ca/fr/contact/view/contact_-_engineering_in_your_classroom/" class="readmore"><img src="http://www.engineering.uottawa.ca/images/uploads/contact_FR.jpg" alt="site panel" width="231" height="70"></a></li>			  
+<li><a href="http://www.engineering.uottawa.ca/fr/contact/view/contact_-_engineering_in_your_classroom/" class="readmore">Le programme CONTACT offre des activités distinctes qui permettront aux élèves d’en apprendre davantage sur le génie</a></li>
+
+</ul>			
+
+
+
+
+
+
+
+</div>

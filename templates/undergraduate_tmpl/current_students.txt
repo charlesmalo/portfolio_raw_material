@@ -1,0 +1,91 @@
+{embed="960/head" title="
+
+	{if country_code != "en"}
+		Étudiants actuels
+	{if:else}
+		Current Students
+	{/if}
+"
+}
+
+<div id="main-content" class="span-18">
+  <h1 class="genie-subsection-title">{if country_code !="en"}Ressources pour étudiants{if:else}Resources for students{/if}</h1>
+  <div class="span-6 section ">
+    <h2 class="title">{if country_code !="en"}Coin étudiant{if:else}Student's Corner{/if}</h2>
+    <ul>
+      {exp:weblog:entries weblog="undergraduate" status="students corner" dynamic="off"}
+      <li> {if en_page_link == ""} <a href="{title_permalink="undergraduate/view"} "> {if country_code != "en"}{{country_code}_page_title}{if:else}{title}{/if}</a> {if:else} <a href="{{country_code}_page_link}"> {if country_code != "en"}{{country_code}_page_title}{if:else}{title}{/if}</a> {/if} </li>
+      {/exp:weblog:entries}
+    </ul>
+  </div>
+<div class="span-6 section ">
+
+    <h2 class="title">{if country_code !="en"}Inscriptions{if:else}Apply{/if}</h2>
+    <ul>
+				{exp:weblog:entries weblog="undergraduate" status="apply" sort="asc" dynamic="off"}
+				<li>
+					{if en_page_link == ""}
+					<a href="{title_permalink="undergraduate/view"} ">
+					{if country_code != "en"}{{country_code}_page_title}{if:else}{title}{/if}</a>
+					{if:else}
+					<a href="{{country_code}_page_link}">
+					{if country_code != "en"}{{country_code}_page_title}{if:else}{title}{/if}</a>
+					{/if}
+					</li>
+				{/exp:weblog:entries}
+			</ul>
+  </div>
+  <div class="span-6 last section ">
+
+    <h2 class="title">{if country_code !="en"}Programmes d'études{if:else}Programs of Study{/if}</h2>
+  {if country_code !="en"}
+			<ul>
+		        <li><a href="{site_url}/undergraduate/programs">Programmes d'études et séquences de cours</a></li>
+				
+				<li><a href="{site_url}/undergraduate/complementary_electives">Cours aux choix</a></li>
+
+				<li><a href="{site_url}/undergraduate/engineering_electives">Cours de sciences au choix pour les programmes de génie</a></li>
+				<li><a href="http://www.coop.uottawa.ca/en/welcome_en.asp?Regi=lang">Option Co-op</a></li>
+				<li><a href="http://www.international.uottawa.ca/en/index.html">Programme d'échange</a></li>
+				{exp:weblog:entries weblog="undergraduate" status="open | program information" limit="10" dynamic="off"}
+			<li><a href="{en_page_link}">{if country_code != "en"}{{country_code}_page_title}{if:else}{title}{/if}</a></li>
+				{/exp:weblog:entries}
+    		</ul>
+
+<!-- english -->
+{if:else}
+	<ul>
+        <li><a href="{site_url}/undergraduate/programs">Course Calendars and Proposed Course Sequence</a></li>
+		<li><a href="{site_url}/undergraduate/complementary_electives">Complementary Electives</a></li>
+		
+		<li><a href="{site_url}/undergraduate/engineering_electives">Science electives for Engineering Students</a></li>
+		<li><a href="http://www.coop.uottawa.ca/fr/welcome_fr.asp?Enre=lang">Coop Options</a></li>
+		<li><a href="http://www.international.uottawa.ca/en/index.html">Exchange programs</a></li>
+		{exp:weblog:entries weblog="undergraduate" status="open | program information" limit="10" dynamic="off"}
+	<li><a href="{en_page_link}">{if country_code != "en"}{{country_code}_page_title}{if:else}{title}{/if}</a></li>
+		{/exp:weblog:entries}
+	</ul>
+{/if}
+
+  </div>
+  
+  <div class="span-6 section ">
+
+    <h2 class="title">{if country_code !="en"}Liens d'intérêt{if:else}Important Links{/if}</h2>
+  <ul>
+				{exp:weblog:entries weblog="undergraduate" status="links" sort="asc" dynamic="off"}
+				<li><a href="{en_page_link}">
+					{if country_code != "en"}{{country_code}_page_title}{if:else}{title}{/if}</a></li>
+				{/exp:weblog:entries}
+			</ul>
+  </div>
+  
+</div>
+{if country_code !="fr"} <?php echo file_get_contents("http://web5.uottawa.ca/assets-templates/inc/footer-en.html"); ?> {if:else} <?php echo file_get_contents("http://web5.uottawa.ca/assets-templates/inc/footer-fr.html"); ?> {/if}
+</div>
+</div>
+<div id="section-closure"></div>
+</div>
+<!-- /#main-container -->
+<?php include("../assets/inc/body-bottom.html"); ?>
+</body></html>

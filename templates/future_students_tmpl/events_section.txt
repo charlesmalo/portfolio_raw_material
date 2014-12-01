@@ -1,0 +1,42 @@
+<div id="events_list"> 
+
+
+<a  class="panel_title_link" href="http://uocal.uottawa.ca/en">
+
+<h4 style= "line-height:0.5em"><b>Events </b> </h4>
+</a>
+<!-- To change the section title,  simply change the word between <b> ... </b>  above-->
+<ul>	<!-- do not delete this tag-->
+
+
+
+<!-- 
+just below this is a layout example of how to add items
+
+<li><a href= "THIS IS WHERE YOU PUT A COMPLETE URL LINK IN THE DOUBLE QUOTATIONS"  class="readmore">   THIS IS WHERE YOUR TEXT OR LABEL GOES.</a> </li>
+<li><a href= "THIS IS WHERE YOU PUT A COMPLETE URL LINK IN THE DOUBLE QUOTATIONS"  class="readmore">   THIS IS WHERE YOUR TEXT OR LABEL GOES.</a> </li>
+<li><a href= "THIS IS WHERE YOU PUT A COMPLETE URL LINK IN THE DOUBLE QUOTATIONS"  class="readmore">   THIS IS WHERE YOUR TEXT OR LABEL GOES.</a> </li>
+<li><a href= "THIS IS WHERE YOU PUT A COMPLETE URL LINK IN THE DOUBLE QUOTATIONS"  class="readmore">   THIS IS WHERE YOUR TEXT OR LABEL GOES.</a> </li>
+ end of example-->
+
+
+		  
+<li><a href="http://www.admission.uottawa.ca/Default.aspx?tabid=3205" class="readmore">uOttawa Day</a></li>
+<li><a href="http://www.admission.uottawa.ca/Default.aspx?tabid=3205" class="readmore">Ontario Universities’ Fair (OUF)</a></li>            
+<li><a href="http://www.engineering.uottawa.ca/en/engineering_events_uocal" class="readmore">Engineering Events</a></li>
+<li><a href="http://uocal.uottawa.ca/en" class="readmore">University Events</a></li>
+						
+
+
+
+	
+</ul>			
+
+
+
+
+
+
+
+
+</div>

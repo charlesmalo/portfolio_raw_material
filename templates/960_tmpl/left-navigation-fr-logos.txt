@@ -1,0 +1,202 @@
+<ul id="left-nav">
+
+<li id="left-nav-overview"><a href="/" rel="home">Accueil</a></li>
+<li>
+	<a  class="head" href="/#">Futurs étudiants</a>
+	<ul class="subnav">
+		<li><a href="http://www.engineering.uottawa.ca/futures/fr/">Le génie en bref</a></li>
+		<li><a href="http://www.admission.uottawa.ca/Default.aspx?tabid=2539">Admissions </a></li>
+	</ul> 
+</li>
+
+<li>
+	<a  class="head" href="/#">Étudiants de premier cycle</a>
+	<ul class="subnav">
+		<li><a href="{path="/undergraduate/current_students/"}">Étudiants actuels</a></li>
+		<li><a href="{path="/undergraduate/view/2010-2011_Registration_for_newly_admitted_students"}">Nouveaux étudiants</a></li>
+        <li><a href="{path="/undergraduate/view/policy_on_special_student_registration"}">Étudiants spéciaux</a></li>
+        <li><a href="http://www.admission.uottawa.ca/Default.aspx?tabid=2587">Étudiants étrangers</a></li>
+        <li><a href="http://www.engineering.uottawa.ca/fr/undergraduate/programs/">Programmes de premier cycle</a></li>
+	</ul> 
+</li>
+
+<li>
+	<a  class="head" href="/#">Étudiants des cycles supérieurs</a>
+	<ul class="subnav">
+		<li><a href="/fr/current">Étudiants actuels</a></li>
+		<li><a href=" http://www.engineering.uottawa.ca/fr/undergraduate/view/2010-2011_Registration_for_newly_admitted_students/">Nouveaux étudiants</a></li>
+        <li><a href="http://www.grad.uottawa.ca/Default.aspx?tabid=3783">Étudiants étrangers</a></li>
+        <li><a href="http://www.engineering.uottawa.ca/en/graduate/">Programmes d’études supérieures</a></li>
+	</ul> 
+</li>
+
+<li>
+	<a  class="head" href="/#">Anciens </a>
+	<ul class="subnav">
+		<li><a href="http://www.engineering.uottawa.ca/fr/engineering">Génie</a></li>
+	</ul> 
+</li>
+
+<li>
+	<a  class="head" href="/#">Corps professoral</a>
+	<ul class="subnav">
+		 <li><a href="http://www.engineering.uottawa.ca/fr/S=0fd151eda05ebcefa9ced80d4dede2646cddff76/departments/chemical_engineering_directory/">Département de génie chimique et biologique</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/fr/departments/people_cvg/">Département de génie civil</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/fr/departments/mechanical_engineering_directory/">Département de génie mécanique</a></li>
+         <li><a href="http://www.site.uottawa.ca/fra/ecole/personnel/professeurs.html">École de science informatique et de génie électrique</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/fr/computing_facilities/professor/">Ressources pour professeurs</a></li>
+	</ul> 
+</li>
+
+<li>
+	<a  class="head" href="/#">Unités scolaires</a>
+	<ul class="subnav">
+		 <li><a href="http://www.engineering.uottawa.ca/fr/departments/chemical_engineering/">Département de génie chimique et biologique</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/fr/civil_engineering/overview/">Département de génie civil</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/fr/departments/mechanical_engineering/">Département de génie mécanique</a></li>
+         <li><a href="http://www.sige.uottawa.ca/">École de science informatique et de génie électrique</a></li>
+	</ul> 
+</li>
+
+<li>
+	<a  class="head" href="/#">Recherche</a>
+	<ul class="subnav">
+		<!-- <li><a href="http://www.engineering.uottawa.ca/fr/office_of_research">Bureau de la recherche </a></li>
+         <li><a href="http://www.engineering.uottawa.ca/fr/research_chairs">Chaires de recherche</a></li>-->
+         <li><a href="http://www.engineering.uottawa.ca/fr/departments/chemical_engineering_research/">Département de génie chimique et biologique</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/fr/civil_engineering/research/">Département de génie civil</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/fr/departments/mechanical_engineering_research/">Département de génie mécanique</a></li>
+         <li><a href="http://www.sige.uottawa.ca/fra/recherche/">École de science informatique et de génie électrique</a></li>
+	</ul> 
+</li>
+
+<li>
+	<a  class="head" href="/#">Entrepreneuriat</a>
+	<ul class="subnav">
+    	 <li><a href="http://www.engineering.uottawa.ca/fr/entrepreneurship/centre/">Le Centre Brunsfield</a></li>
+		 <li><a href="http://www.engineering.uottawa.ca/fr/entrepreneurship/overview/">What is the Entrepreneurship Competition?</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/fr/entrepreneurship/prizes/">Prix et bourses</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/fr/entrepreneurship/resources/">Ressources</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/fr/entrepreneurship/advisory_committee/">Comité directeur</a></li>
+	</ul> 
+   
+</li>
+
+<li>
+	<a  class="head" href="/#">Services informatiques</a>
+	<ul class="subnav">
+		 <li><a href="http://www.engineering.uottawa.ca/fr/computing_facilities/about_ecf/">Computing Facilities</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/fr/computing_facilities/account_information/">Comptes informatiques</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/fr/computing_facilities/printing/">Impression</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/fr/computing_facilities/plotter/">Traceur</a></li>
+         <li><a href="http://www.sic.uottawa.ca/">Services informatiques généraux</a></li>
+	</ul> 
+   
+</li>
+
+<li>
+	<a  class="head" href="/#">Santé et sécurité</a>
+	<ul class="subnav">
+		 <li><a href="http://www.engineering.uottawa.ca/fr/health_and_safety/">Nouveau à la faculté</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/fr/training/">Formation</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/fr/facilities/">Installations et gestion du risque</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/fr/emergency/">Installations et gestion du risque</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/fr/newlinks/">Liens pour la santé et sécurité au travail</a></li>
+	</ul> 
+   
+</li>
+
+<li>
+	<a  class="head" href="/#">Nouvelles</a>
+	<ul class="subnav">
+		 <li><a href="http://www.engineering.uottawa.ca/fr/news_articles/long_list/">Dernières nouvelles</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/fr/in_the_news/view_list/">La Faculté dans les médias</a></li>
+	</ul> 
+   
+</li>
+
+<li>
+	<a  class="head" href="/#">Événements à venir</a>
+	<ul class="subnav">
+		 <li><a href="http://www.engineering.uottawa.ca/futures/fr/events">Futurs étudiants</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/fr/events_calendar/big_calendar/">Calendrier d’activités</a></li>
+	</ul> 
+   
+</li>
+
+<li>
+	<a  class="head" href="/#">À propos de la Faculté</a>
+	<ul class="subnav">
+		 <li><a href="http://www.engineering.uottawa.ca/fr/mission_vision_values/">Mission, Vision &amp; Valeurs</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/fr/directory/executive_committee/">Comité exécutif</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/fr/faculty_updates/">Comptes rendus</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/fr/accreditation/">Agréments </a></li>
+         <li><a href="http://www.engineering.uottawa.ca/fr/message_from_the_dean/">Message du doyen</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/fr/historical_note/">Historique</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/fr/directory/staff/">Personnel de soutien</a></li>
+	</ul> 
+   
+</li>
+
+
+</ul>
+
+<div id="contact-info">
+<h2 id="contact-info-title">Contact information</h2>
+
+<p>
+<strong><a href="http://www.engineering.uottawa.ca/en/directory/staff" class="fn org url"> Office of the Dean</a><br/><br/>
+CBY A306 </strong><br>
+161 Louis Pasteur<br>
+Ottawa ON Canada<br>
+K1N 6N5
+</p>
+
+<p>
+<strong>Tel.</strong> 613-562-5682<br>
+<strong>Fax.</strong> 613-562-5174
+</p>
+
+
+<br/>
+
+<p>
+<strong><a href="http://www.engineering.uottawa.ca/en/directory/staff" class="fn org url"> Undergraduate Office</a><br/><br/>
+SITE 1020 </strong><br>
+800 King Edward Ave.<br>
+Ottawa ON Canada<br>
+K1N 6N5
+</p>
+
+<p>
+
+<strong>Tel.</strong> 613-562-5918<br>
+<strong>Fax.</strong> 613-562-5174
+</p>
+<p>
+<a href="mailto:bacinfo@genie.uOttawa.ca">bacinfo@genie.uOttawa.ca</a>
+</p>
+
+<br/>
+
+<p>
+<strong><a href="http://www.engineering.uottawa.ca/en/directory/staff" class="fn org url"> Undergraduate Office</a><br/><br/>
+CBY B111 </strong><br>
+161 Louis Pasteur<br>
+Ottawa ON Canada<br>
+K1N 6N5
+</p>
+
+<p>
+
+<strong>Tel.</strong> 613-562-5347<br>
+<strong>Fax.</strong> 613-562-5129
+</p>
+<br/>
+<a href="/accreditation/">
+				<img src="/assets/images/Engineers_Canada_Fr.jpg" width="173" height="65.8">
+</a>
+<a href="/accreditation/"><img src="/assets/images/CIPS-logo.jpg" width="171" height="49"></a>   
+<img src="/assets/images/CEMF.jpg" width="170" height="85">      
+
+</div>

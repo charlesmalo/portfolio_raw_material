@@ -1,0 +1,32 @@
+<div id="p_and_p_list"> 
+
+
+<a  class="panel_title_link" href="http://web5.uottawa.ca/admingov/policies-procedures.html">
+
+<h4 style= "line-height:0.5em"><b> Policies and Procedures</b> </h4>
+</a>
+<!-- To change the section title,  simply change the word between <b> ... </b>  above-->
+<ul>	<!-- do not delete this tag-->
+
+
+
+
+		  
+<li><a href="http://www.engineering.uottawa.ca/en/undergraduate/view/exam_information/" class="readmore">Final, Supplemental and Deferred Exams</a></li>
+<li><a href="http://www.engineering.uottawa.ca/downloads/pdf/Formulaire_dexemption_du_pr%C3%A9alable.pdf" class="readmore">Academic Regulations</a></li>            
+<li><a href="http://www.engineering.uottawa.ca/en/undergraduate/view/regulations/" class="readmore">Code of Ethics of Professional Engineers in ONTARIO (PEO)</a></li>
+<li><a href="http://www.engineering.uottawa.ca/en/undergraduate/view/code_de_deontologie/" class="readmore">Code of Ethics of Professional Engineers in QUEBEC (OIQ)</a></li>						
+		
+	
+
+
+	
+</ul>			
+
+
+
+
+
+
+
+</div>

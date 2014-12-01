@@ -1,0 +1,75 @@
+<div id="rightCol"> 
+		 {if country_code !="en"}
+				{embed="search/searchform_fr"}
+			{if:else}
+				{embed="search/searchform_en"}
+			{/if}
+	<div class="clearHack">&nbsp;</div>
+
+
+
+	<div id="rightCol"> 
+
+
+
+
+<h2 class="titles">{if country_code !="en"}Ressources{if:else}Student resources{/if}</h2>
+
+{exp:weblog:entries weblog="resources" limit="6" status="open" dynamic="off"}
+<ul> 
+	<li><span><a href="{{country_code}_link_url}">{if country_code != "en"}{{country_code}_link_title}{if:else}{title}{/if}</a>
+		</span>
+	</li> 
+</ul> 
+{/exp:weblog:entries}
+
+<!--<a href="http://twitter.com/uottawa_genie">
+<img src="/images/content/universitybuttons/twitbutton.jpg" title="follow us" alt="twitter button" />
+</a>-->
+<!--buttons-->
+
+<div id="genie-sidebar">
+	{exp:weblog:entries weblog="sidebar_features" limit="5" status="top right" dynamic="off"}
+
+
+	{if {country_code}_feature_document !=''}
+	<a href="{{country_code}_feature_document}"><img class="features" src="{{country_code}_feature_button}" /></a>
+	{/if}
+
+	{if {country_code}_feature_url !=''}
+<p>	<a href="{{country_code}_feature_url}"><img class="features" src="{{country_code}_feature_button}" /></a> </p>
+	{/if}
+
+	{/exp:weblog:entries}
+
+	</div>	
+<!--buttonsEND-->
+{!-- embed="news_articles/short_list" --}
+
+
+{embed="events_calendar/short_list"}
+
+	<div class="clearHack">&nbsp;</div> 	
+
+
+
+ <!--<h2 class="titles">{if country_code !="en"}Calendrier des activités{if:else}Faculty Calendar{/if}</h2>-->
+	<!-- <span class="headerDate">{current_time format="%M %Y"} </span> 
+	<h2><span style="float:right">{current_time format="%M %Y"}</span> </h2>
+	<div id="sidebar_calendar"> 
+	{embed="events_calendar/mini_calendar"}
+	
+		<table class="navTable" cellspacing="0" cellpadding="0">  -->
+			<!-- <tr> 
+					<td align="left" width="33%"><a href="index.php?mo=6&amp;yr=2008" class="navTableText">Previous</a></td> 
+					<td align="center" width="34%"><a href="index.php?mo=07&amp;yr=2008" class="navTableText"></a></td> 
+					<td align="right" width="33%"><a href="index.php?mo=8&amp;yr=2008" class="navTableText">Next</a></td> 
+				</tr> -->
+	<!--	</table> -->
+		
+			<span class="readmore"><a href="{path="events_calendar/big_calendar"}">{if country_code !="en"}Grand calendrier{if:else}Full Calendar{/if}</a></span>
+		</div> 
+
+	
+</div><!-- END:rightCol -->
+

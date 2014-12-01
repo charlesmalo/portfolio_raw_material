@@ -1,0 +1,28 @@
+<div id="associations_list"> 
+
+
+<a  class="panel_title_link" href="http://www.engineering.uottawa.ca/en/student_groups/">
+
+<h4 style= "line-height:0.5em"><b>Student Groups</b> </h4>
+</a>
+<!-- To change the section title,  simply change the word between <b> ... </b>  above-->
+<ul>	<!-- do not delete this tag-->
+
+		  
+<li><a href="http://www.greenengineers.ca/" class="readmore">Green Engineers</a></li>
+<li><a href="http://www.ariserobotics.ca/en/" class="readmore">Advanced Robotics Innovations Society in Engineering (ARISE)</a></li>            
+<li><a href="http://www.eecs.uottawa.ca/school/eegsa/" class="readmore">Electrical Engineering Graduate Student Association (EEGSA)</a></li>
+<li><a href="http://www.uottawa.ewb.ca/?page_id=31" class="readmore">Informatics Graduate Association (IGADI)</a></li>
+	
+
+
+	
+</ul>			
+
+
+
+
+
+
+
+</div>

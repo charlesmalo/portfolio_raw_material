@@ -1,0 +1,43 @@
+<div id="services_list"> 
+
+
+<a  class="panel_title_link" href="http://www.uottawa.ca/services/">
+
+<h4 style= "line-height:0.5em"><b> Services for Students </b> </h4>
+</a>
+<!-- To change the section title,  simply change the word between <b> ... </b>  above-->
+<ul>	<!-- do not delete this tag-->
+
+
+
+<!-- 
+just below this is a layout example of how to add items
+
+<li><a href= "THIS IS WHERE YOU PUT A COMPLETE URL LINK IN THE DOUBLE QUOTATIONS"  class="readmore">   THIS IS WHERE YOUR TEXT OR LABEL GOES.</a> </li>
+<li><a href= "THIS IS WHERE YOU PUT A COMPLETE URL LINK IN THE DOUBLE QUOTATIONS"  class="readmore">   THIS IS WHERE YOUR TEXT OR LABEL GOES.</a> </li>
+<li><a href= "THIS IS WHERE YOU PUT A COMPLETE URL LINK IN THE DOUBLE QUOTATIONS"  class="readmore">   THIS IS WHERE YOUR TEXT OR LABEL GOES.</a> </li>
+<li><a href= "THIS IS WHERE YOU PUT A COMPLETE URL LINK IN THE DOUBLE QUOTATIONS"  class="readmore">   THIS IS WHERE YOUR TEXT OR LABEL GOES.</a> </li>
+ end of example-->
+
+
+		  
+<li><a href="http://www.engineering.uottawa.ca/en/undergraduate/view/mentorship_services/" class="readmore">Mentorship</a></li>
+<li><a href="http://www.registrar.uottawa.ca/Default.aspx?tabid=3619" class="readmore">University Fees</a></li>            
+<li><a href="http://www.registrar.uottawa.ca/Default.aspx?tabid=2654" class="readmore">Financial Aid and Awards</a></li>	
+<li><a href="http://www.sass.uottawa.ca/welcome.php" class="readmore">SASS - Student Academic Success Service</a></li>	
+<li><a href="http://www.engineering.uottawa.ca/en/entrepreneurship/overview/" class="readmore">Entrepreneurship at the Faculty</a></li>	
+<li><a href="http://www.uottawa.ca/futurestudents/" class="readmore">Why uOttawa?</a></li>		
+						
+
+
+
+	
+</ul>			
+
+
+
+
+
+
+
+</div>

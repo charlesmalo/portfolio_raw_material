@@ -1,0 +1,47 @@
+{embed="includes/document_header" title="
+{exp:weblog:entries weblog="mechanical_engineering|chemical_engineering" limit="1" status="open"}
+	{if country_code != "en"}
+		{{country_code}_title}
+	{if:else}
+		{title}
+	{/if}
+{/exp:weblog:entries}"
+}
+
+{embed="includes/document_subheader"}
+
+
+<div id="section-details">
+		{if country_code !="en"}{embed="includes/fr_left_nav"}{if:else}{embed="includes/left_nav"}{/if}
+		{embed="includes/left_features"}
+		{embed="includes/contact_info"}
+</div>
+	
+<div id="genie-main-content-no-sidebar">
+
+
+<div id="articles_list"> 
+	{exp:weblog:entries weblog="mechanical_engineering|chemical_engineering" limit="1" status="open "}       
+
+	
+<h1>{if country_code !="en"}{{country_code}_title}{if:else}{title}{/if}</h1>
+
+						<p>{{country_code}_intro}</p>
+						<p>{{country_code}_full}</p> 
+						<span class="readmore"><a title="Back to previous page" href="javascript:history.back();">{if country_code !="en"}Retour{if:else}Go Back{/if}</a></span>
+    
+						<h4 class="date">{if country_code !="en"}{entry_date format="%d %M %Y"}{if:else}{entry_date format="%F %d, %Y"}{/if}</h4> 
+	{/exp:weblog:entries}					
+
+</div><!-- END: #articles_list -->
+
+				
+	
+</div><!-- END:#main_content -->	
+
+
+	
+</div><!-- END: section-container -->
+</div><!-- END: #main-container -->
+
+{embed="includes/document_footer"}

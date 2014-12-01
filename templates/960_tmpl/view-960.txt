@@ -1,0 +1,44 @@
+{embed="960/head" title="
+{exp:weblog:entries weblog="events_calendar" limit="1" status="open | Archived | Annual" show_future_entries="yes" show_expired="yes"}
+	{if country_code != "en"}
+		{{country_code}_event_title}
+	{if:else}
+		{title}
+	{/if}
+{/exp:weblog:entries}"
+}
+
+
+
+<div id="main-content" class="span-18">
+	{exp:weblog:entries weblog="events_calendar" limit="1" status="open | Archived | Annual" show_future_entries="yes" show_expired="yes"}       
+
+	
+<h1>{if country_code !="en"}{{country_code}_event_title}{if:else}{title}{/if}</h1>
+	<p>{{country_code}_event_description}</p>
+
+		<span class="readmore"><a title="Back to previous page" href="javascript:history.back();">{if country_code !="en"}Retour{if:else}Go Back{/if}</a></span>
+    
+		<h4 class="date">{if country_code !="en"}{entry_date format="%d %M %Y"}{if:else}{entry_date format="%F %d, %Y"}{/if}</h4> 
+						
+				
+
+<br />
+<div id="gallery">
+			{embed="events_calendar/events_gallery" gallery_cat="{event_photos}"}
+</div>
+	
+	{/exp:weblog:entries}	
+						
+
+</div>
+
+{if country_code !="fr"} <?php echo file_get_contents("http://web5.uottawa.ca/assets-templates/inc/footer-en.html"); ?> {if:else} <?php echo file_get_contents("http://web5.uottawa.ca/assets-templates/inc/footer-fr.html"); ?> {/if}
+</div>
+</div>
+<div id="section-closure"></div>
+</div>
+<!-- /#main-container -->
+<?php include("../assets/inc/body-bottom.html"); ?>
+</body></html>
+

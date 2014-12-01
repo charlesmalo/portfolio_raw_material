@@ -1,0 +1,39 @@
+<div id="further_info_list"> 
+
+
+<a  class="panel_title_link" href="http://www.engineering.uottawa.ca/en/S=c54abedb3b0dbb4883e3d61ab25f6eb4a319c534/search/">
+
+<h4 style= "line-height:0.5em"><b> Further Information</b> </h4>
+</a>
+<!-- To change the section title,  simply change the word between <b> ... </b>  above-->
+<ul>	<!-- do not delete this tag-->
+
+
+
+<!-- 
+just below this is a layout example of how to add items
+
+<li><a href= "THIS IS WHERE YOU PUT A COMPLETE URL LINK IN THE DOUBLE QUOTATIONS"  class="readmore">   THIS IS WHERE YOUR TEXT OR LABEL GOES.</a> </li>
+<li><a href= "THIS IS WHERE YOU PUT A COMPLETE URL LINK IN THE DOUBLE QUOTATIONS"  class="readmore">   THIS IS WHERE YOUR TEXT OR LABEL GOES.</a> </li>
+<li><a href= "THIS IS WHERE YOU PUT A COMPLETE URL LINK IN THE DOUBLE QUOTATIONS"  class="readmore">   THIS IS WHERE YOUR TEXT OR LABEL GOES.</a> </li>
+<li><a href= "THIS IS WHERE YOU PUT A COMPLETE URL LINK IN THE DOUBLE QUOTATIONS"  class="readmore">   THIS IS WHERE YOUR TEXT OR LABEL GOES.</a> </li>
+ end of example-->
+
+
+		  
+<li><a href="http://www.international.uottawa.ca/en/students/current.html" class="readmore">International Students</a></li>
+<li><a href="http://www.registrar.uottawa.ca/Default.aspx?tabid=3949" class="readmore">ADD: New Students Guide</a></li>            
+<li><a href="http://www.engineering.uottawa.ca/en/undergraduate/view/2012_2013_registration_for_newly_admitted_students/" class="readmore">Newly admitted students</a></li>
+<li><a href="http://www.engineering.uottawa.ca/en//undergraduate/bridgeprogram" class="readmore">Program with Algonquin College and Cité Collegiale</a></li>			
+
+
+	
+</ul>			
+
+
+
+
+
+
+
+</div>

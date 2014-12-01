@@ -1,0 +1,42 @@
+{embed="960/head" title="
+{exp:weblog:entries weblog="in_the_news" category="93" limit="1" status="open"}
+	{if country_code != "en"}
+		{{country_code}_title}
+	{if:else}
+		{title}
+	{/if}
+{/exp:weblog:entries}"
+}
+
+	
+<div id="main-content" class="span-18">
+
+
+<div id="articles_list"> 
+	
+{if country_code !="en"}<h1>Dans les médias</h1>{if:else}<h1>In The News</h1>{/if}
+	{exp:weblog:entries weblog="in_the_news" category="93" limit="20" status="open" paginate="both"}       
+
+<ul>	
+<li>
+{if country_code !="en"}{entry_date format="%d %M %Y"}{if:else}{entry_date format="%F %d, %Y"}{/if} - <a href="{{country_code}_link_url}">{if country_code !="en"}{{country_code}_link_title}{if:else}{title}{/if}</a>			
+</li>					
+</ul>						
+					
+						
+	{/exp:weblog:entries}					
+
+</div><!-- END: #articles_list -->
+
+</div>
+
+
+{if country_code !="fr"} <?php echo file_get_contents("http://web5.uottawa.ca/assets-templates/inc/footer-en.html"); ?> {if:else} <?php echo file_get_contents("http://web5.uottawa.ca/assets-templates/inc/footer-fr.html"); ?> {/if}
+</div>
+</div>
+<div id="section-closure"></div>
+
+</div>
+<!-- /#main-container -->
+<?php include("../assets/inc/body-bottom.html"); ?>
+</body></html>

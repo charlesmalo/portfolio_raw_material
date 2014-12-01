@@ -1,0 +1,63 @@
+<ul id="left-nav">
+<li><a href="http://www.engineering.uottawa.ca/fr/departments/chemical_engineering" >Aper&ccedil;u</a></li>
+<li><a   href="http://www.engineering.uottawa.ca/fr/undergraduate/chemical_engineering">&Eacute;tudes au 1er cycle </a></li>
+<li><a   href="http://www.engineering.uottawa.ca/fr/departments/chemical_engineering_grad_info">&Eacute;tudes sup&eacute;rieures</a></li>
+<li><a   href="http://www.engineering.uottawa.ca/fr/departments/chemical_engineering_research">Recherche</a></li>
+<li><a   href="http://www.engineering.uottawa.ca/fr/departments/chemical_engineering_directory/"> Professeurs et personnel administratif  </a></li>
+</ul>
+</ul>
+
+<div id="contact-info">
+<h2 id="contact-info-title">Nous rejoindre</h2>
+
+<p>
+<strong><a href="http://www.engineering.uottawa.ca/fr/directory/staff" class="fn org url"> Bureau du doyen</a><br/><br/>
+CBY A306 </strong><br>
+161 Louis Pasteur<br>
+Ottawa ON Canada<br>
+K1N 6N5
+</p>
+
+<p>
+<strong>T&eacute;l</strong> 613-562-5682<br>
+<strong>T&eacute;lec</strong> 613-562-5174
+</p>
+
+
+<br/>
+
+<p>
+<strong><a href="http://www.engineering.uottawa.ca/fr/directory/staff" class="fn org url"> Bureau du premier cycle</a><br/><br/>
+SITE 1020 </strong><br>
+800 King Edward Ave.<br>
+Ottawa ON Canada<br>
+K1N 6N5
+</p>
+
+<p>
+
+<strong>T&eacute;l</strong> 613-562-5918<br>
+<strong>T&eacute;lec</strong> 613-562-5174
+</p>
+<p>
+<a href="mailto:bacinfo@genie.uOttawa.ca">bacinfo@genie.uOttawa.ca</a>
+</p>
+
+<br/>
+
+<p>
+<strong><a href="http://www.engineering.uottawa.ca/fr/directory/staff" class="fn org url"> &Eacute;tudes sup&eacute;rieures</a><br/><br/>
+CBY B111 </strong><br>
+161 Louis Pasteur<br>
+Ottawa ON Canada<br>
+K1N 6N5
+</p>
+
+<p>
+
+<strong>T&eacute;l</strong> 613-562-5347<br>
+<strong>T&eacute;lec</strong> 613-562-5129
+</p>
+
+
+</div>

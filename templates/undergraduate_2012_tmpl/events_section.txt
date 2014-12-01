@@ -1,0 +1,28 @@
+<div id="events_list"> 
+
+
+<a  class="panel_title_link" href="http://www.engineering.uottawa.ca/en/engineering_events_uocal">
+
+<h4 style= "line-height:0.5em"><b>Events </b> </h4>
+</a>
+
+<!-- To change the section title,  simply change the word between <b> ... </b>  above-->
+<ul>	<!-- do not delete this tag-->
+
+
+
+		  
+<li><a href="http://www.engineering.uottawa.ca/en/engineering_events_uocal" class="readmore">Engineering Events</a></li>
+
+
+	
+</ul>			
+
+
+
+
+
+
+
+
+</div>

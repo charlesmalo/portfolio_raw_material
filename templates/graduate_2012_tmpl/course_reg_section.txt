@@ -1,0 +1,33 @@
+<div id="course_reg_list"> 
+
+
+<a  class="panel_title_link" href="http://www.grad.uottawa.ca/Default.aspx?tabid=1613">
+
+<h4 style= "line-height:0.5em"><b> Course Registration</b> </h4>
+</a>
+<!-- ^^TO CHANGE THE SECTION LABEL, CHANGE THE TEXT THAT IS BETWEEN <b> and </b> ABOVE ^^ -->
+
+<ul>	<!-- do not delete this tag-->
+
+
+
+
+		  
+<li><a href="http://www.engineering.uottawa.ca/en/graduate/programs/" class="readmore">Programs of Study</a></li>
+<li><a href="http://www.grad.uottawa.ca/Default.aspx?tabid=1613" class="readmore">Register now</a></li>            
+<li><a href="http://www.registrar.uottawa.ca/Default.aspx?tabid=2613" class="readmore">Office of the Registrar</a></li>
+<li><a href="http://www.engineering.uottawa.ca/en/graduate/graduate_newly_admitted_students/" class="readmore">For Newly Admitted Students</a></li>						
+
+
+
+
+	
+</ul>			
+
+
+
+
+
+
+
+</div>

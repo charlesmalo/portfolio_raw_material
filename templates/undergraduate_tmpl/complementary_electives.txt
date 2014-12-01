@@ -1,0 +1,1673 @@
+{embed="960/head" title="
+{exp:weblog:entries weblog="undergraduate" limit="1" status="open | academic success | students corner | faq | apply" limit="1"}
+	{if country_code != "en"}
+		{{country_code}_page_title}
+	{if:else}
+		{title}
+	{/if}
+{/exp:weblog:entries}"
+}
+
+
+<div id="main-content-program">
+	<h1 class="prospective_title">{if country_code !="en"}Cours au choix{if:else}Complementary Electives{/if}</h1>
+
+<p class="prospective_body">{if country_code !="en"}Cours au choix sont offerts en français ou en anglais et peut être pris dans l'une des deux langues. Certains cours sont offerts dans une seule langue. Seuls les cours sur cette liste sont acceptables au choix complémentaires pour les étudiants de génie de premier cycle.
+{if:else}
+Complimentary electives are offered in both French or English and can be taken in either language. Some courses are only available in one language. Only the courses found on this list are acceptable complementary electives for undergraduate engineering students.{/if}</p>
+<ul id="directory-acc">
+	<li>
+	<h3 class="head"><a href="#">GESTION / ADMINISTRATION</a></h3>
+<table  class="programs_table" summary="This table describes a list of available complementary courses en francais">
+	<tr> 
+	 <th> Cote du cours </th>
+	  <th>Nom du cours</th>
+	  <th>Credits</th>
+	</tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/ADM.html#ADM1500">ADM1500</a></td>
+		    <td>Introduction à la gestion des affaires</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/ADM.html#ADM1501">ADM1501</a></td>
+		    <td>Le contexte social du monde des affaires</td>
+		    <td width="20%">3</td>
+	       </tr>
+	      
+	       
+	
+	<tr> 
+	 <th>Course code</th>
+	  <th>Course name</th>
+	  <th>Credits</th>
+	</tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/ADM.html#ADM1100">ADM1100</a></td>
+		    <td>Introduction to Business Management</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/ADM.html#ADM1101">ADM1101</a></td>
+		    <td>Social Context of Business</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       
+	      
+	</table>
+	</li>
+
+<li>
+	<h3 class="head"><a href="#">ALLEMAND / GERMAN</a></h3>
+	<table class="programs_table" summary="This table describes a list of available complementary courses">
+	
+<tr><th>Cote du cours</th>
+	  <th>Nom du cours</th>
+	  <th>Credits</th></tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/ALG.html#ALG2500">ALG2500</a></td>
+		    <td>Thèmes choisis en culture allemande</td>
+		    <td width="20%">3</td>
+	       </tr>
+           <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/ALG.html#ALG2534">ALG2534</a></td>
+		    <td>La culture allemande à travers les âges</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/ALG.html#ALG2700">ALG2700</a></td>
+		    <td>Les chefs-d'oeuvre de la littérature allemande en traduction</td>
+		    <td width="20%">3</td>
+	       </tr>
+           <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/ALG.html#ALG3500">ALG3500</a></td>
+		    <td>La culture allemande contemporaine</td>
+		    <td width="20%">3</td>
+	       </tr>
+
+  <tr><th>Course code</th>
+	  <th>Course name</th>
+	  <th>Credits</th></tr>
+                <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/ALG.html#ALG2100">ALG2100</a></td>
+		    <td>Special Topics in German Culture</td>
+		    <td width="20%">3</td>
+	       </tr>
+               <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/ALG.html#ALG2134">ALG2134</a></td>
+		    <td>German Culture through the Ages</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/ALG.html#ALG2300">ALG2300</a></td>
+		    <td>Masterpieces of German Literature in Translation</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/ALG.html#ALG3100">ALG3100</a></td>
+		    <td>Contemporary German Culture</td>
+		    <td width="20%">3</td>
+	       </tr>
+	</table>
+</li>
+
+<li>
+	<h3 class="head"><a href="#">ANTHROPOLOGIE / ANTHROPOLOGY</a></h3>
+		<table class="programs_table" summary="This table describes a list of available complementary courses">
+		  <tr><th>Cote du cours</th>
+		  <th>Nom du cours</th>
+		  <th>Credits</th></tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/ANT.html#ANT1501">ANT1501</a></td>
+		    <td>Anthropologie sociale et culturelle</td>
+		    <td width="20%">3</td>
+	       </tr>
+<tr><th>Course code</th>
+		  <th>Course name</th>
+		  <th>Credits</th></tr>
+		    <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/ANT.html#ANT1101">ANT1101</a></td>
+		    <td>Social and Cultural Anthropology</td>
+		    <td width="20%">3</td>
+	       </tr>
+	    </table>
+</li>
+<li>
+	<h3 class="head"><a href="#">ARABE / ARABIC</a></h3>
+	<table class="programs_table" summary="This table describes a list of available complementary courses">
+	  <tr><th>Cote du cours</th>
+	  <th>Nom du cours</th>
+	  <th>Credits</th></tr>
+      <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/ARB.html#ARB2501">ARB2501</a></td>
+		    <td>Culture arabe I</td>
+		    <td width="20%">3</td>
+        </tr>
+
+<tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/ARB.html#ARB2502">ARB2502</a></td>
+		    <td>Culture arabe II</td>
+		    <td width="20%">3</td>
+        </tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/ARB.html#ARB3901">ARB3901</a></td>
+		    <td>Introduction à la littérature arabe / Introduction to Arabic Literature</td>
+		    <td width="20%">3</td>
+	       </tr>
+           <tr><th>Course code</th>
+	  <th>Course name</th>
+	  <th>Credits</th></tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/ARB.html#ARB2101">ARB2101</a></td>
+		    <td>Arabic Culture I</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/ARB.html#ARB2102">ARB2102</a></td>
+		    <td>Arabic Culture II</td>
+		    <td width="20%">3</td>
+	       </tr>
+<tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/ARB.html#ARB3901">ARB3901</a></td>
+		    <td>Introduction Literature Arabe / Arabic Literature</td>
+		    <td width="20%">3</td>
+	       </tr>
+	    </table>
+</li>
+	
+		<li>
+			<h3 class="head"><a href="#">ÉTUDES ANCIENNES / CLASSICAL STUDIES</a></h3>
+
+	<table class="programs_table" summary="This table describes a list of available complementary courses">
+<tr> 
+	 <th> Cote du cours </th>
+	  <th>Nom du cours</th>
+	  <th>Credits</th>
+	</tr>
+	 <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/CLA.html#CLA1501">CLA1501</a></td>
+		    <td>La civilisation grecque</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/CLA.html#CLA1502">CLA1502</a></td>
+		    <td>La civilisation romaine</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/CLA.html#CLA2501">CLA2501</a></td>
+		    <td>Les débuts de la civilisation grecque</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/CLA.html#CLA2502">CLA2502</a></td>
+		    <td>Athènes, la Perse et Sparte</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+<tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/CLA.html#CLA2503">CLA2503</a></td>
+		    <td>La République</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/CLA.html#CLA2504">CLA2504</a></td>
+		    <td>Le Haut-empire</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/CLA.html#CLA2505">CLA2505</a></td>
+		    <td>Initiation à l'archéologie classique</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/CLA.html#CLA2510">CLA2510</a></td>
+		    <td>Méthodes et techniques en archéologie</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+<tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/CLA.html#CLA2520">CLA2520</a></td>
+		    <td>L'art grec</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/CLA.html#CLA2521">CLA2521</a></td>
+		    <td>L'art romain</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/CLA.html#CLA2522">CLA2522</a></td>
+		    <td>La sagesse grecque</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/CLA.html#CLA2530">CLA2530</a></td>
+		    <td>Introduction à la littérature grecque</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/CLA.html#CLA2531">CLA2531</a></td>
+		    <td>Introduction à la littérature latine</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/CLA.html#CLA2532">CLA2532</a></td>
+		    <td>Science et technologie dans l'antiquité</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/CLA.html#CLA2551">CLA2551</a></td>
+		    <td>L'art de l'âge du bronze autour de la méditerranée</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/CLA.html#CLA2552">CLA2552</a></td>
+		    <td>Les Grecs, les Italiens et les arts du Proche-Orient</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/CLA.html#CLA2553">CLA2553</a></td>
+		    <td>L'art classique et le monde hellénistique</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/CLA.html#CLA2554">CLA2554</a></td>
+		    <td>L'art de l'Empire romain</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/CLA.html#CLA2723">CLA2723</a></td>
+		    <td>La mythologie grecque</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/CLA.html#CLA2735">CLA2735</a></td>
+		    <td>L'occident du cinquième au quinzième siècle</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+
+	  <tr><th>Course code</th>
+	  <th>Course name</th>
+	  <th>Credits</th></tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/CLA.html#CLA1101">CLA1101</a></td>
+		    <td>Greek Civilization</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/CLA.html#CLA1102">CLA1102</a></td>
+		    <td>Roman Civilization</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/CLA.html#CLA2101">CLA2101</a></td>
+		    <td>The Beginnings of Greek Civilization</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/CLA.html#CLA2102">CLA2102</a></td>
+		    <td>Athens, Persia, and Sparta</td>
+		    <td width="20%">3</td>
+	       </tr>
+<tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/CLA.html#CLA2103">CLA2103</a></td>
+		    <td>The Republic</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/CLA.html#CLA2104">CLA2104</a></td>
+		    <td>The Early Empire</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/CLA.html#CLA2105">CLA2105</a></td>
+		    <td>Introduction to Classical Archaeology</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/CLA.html#CLA2110">CLA2110</a></td>
+		    <td>Archaeological Methods and Techniques </td>
+		    <td width="20%">3</td>
+	       </tr>
+ <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/CLA.html#CLA2120">CLA2120</a></td>
+		    <td>Greek Art</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+ <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/CLA.html#CLA2121">CLA2121</a></td>
+		    <td>Roman Art</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/CLA.html#CLA2122">CLA2122</a></td>
+		    <td>Greek Wisdom</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/CLA.html#CLA2130">CLA2130</a></td>
+		    <td>Introduction to Greek Literature</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/CLA.html#CLA2131">CLA2131</a></td>
+		    <td>Introduction to Latin Literature</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/CLA.html#CLA2132">CLA2132</a></td>
+		    <td>Ancient Science and Technology</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/CLA.html#CLA2151">CLA2151</a></td>
+		    <td>Bronze Age Art in the Mediterranean</td>
+		    <td width="20%">3</td>
+	       </tr>       
+		   <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/CLA.html#CLA2152">CLA2152</a></td>
+		    <td>Greeks, Italians, and the Arts of the Near East</td>
+		    <td width="20%">3</td>
+	       </tr>       
+		   <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/CLA.html#CLA2153">CLA2153</a></td>
+		    <td>Classical Art and the Hellenistic World</td>
+		    <td width="20%">3</td>
+	       </tr>       
+		   <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/CLA.html#CLA2154">CLA2154</a></td>
+		    <td>Art in the Roman Empire</td>
+		    <td width="20%">3</td>
+	       </tr>       
+		   <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/CLA.html#CLA2323">CLA2323</a></td>
+		    <td>Greek Mythology</td>
+		    <td width="20%">3</td>
+	       </tr>
+		   <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/CLA.html#CLA2335">CLA2335</a></td>
+		    <td>Western Europe from the 5th to the 15th Century</td>
+		    <td width="20%">3</td>
+	       </tr>
+		 </table>
+	</li>
+
+		<li>
+			<h3 class="head"><a href="#">CELTIC STUDIES</a></h3>
+
+	<table class="programs_table" summary="This table describes a list of available complementary courses">
+	  <tr><th>Course code</th>
+	  <th>Course name</th>
+	  <th>Credits</th></tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/crs/0203/coursesEN/CLT.html#CLT1100">CLT1100</a></td>
+		    <td>Scottish Gaelic Language and Culture I</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/CLT.html#CLT2130">CLT2130</a></td>
+		    <td>Early Celtic Literature</td>
+		    <td width="20%">3</td>
+	       </tr>
+	    </table>
+	</li>
+	
+		<li>
+			<h3 class="head"><a href="#">COMMUNICATION</a></h3>
+
+	<table class="programs_table" summary="This table describes a list of available complementary courses">
+<tr> 
+	 <th> Cote du cours </th>
+	  <th>Nom du cours</th>
+	  <th>Credits</th>
+	</tr>	  
+<tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/CMN.html#CMN1548">CMN1548</a></td>
+		    <td>Introduction à la communication organisationnelle</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/CMN.html#CMN1560">CMN1560</a></td>
+		    <td>Introduction à l'étude des médias</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+<!-- cccccccccccccc  --> <!-- cccccccccccccc  -->
+<tr><th>Course code</th>
+	  <th>Course name</th>
+	  <th>Credits</th></tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/CMN.html#CMN1148">CMN1148</a></td>
+		    <td>Introduction to Organizational Communication</td>
+		    <td width="20%">3</td>
+	       </tr>
+<tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/CMN.html#CMN1160">CMN1160</a></td>
+		    <td>Introduction to Media Studies</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+	    </table>
+	</li>
+	
+		<li>
+			<h3 class="head"><a href="#">CRIMINOLOGIE / CRIMINOLOGY</a></h3>
+
+	<table class="programs_table" summary="This table describes a list of available complementary courses">
+<tr> 
+	 <th> Cote du cours </th>
+	  <th>Nom du cours</th>
+	  <th>Credits</th>
+	</tr>
+  <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/CRM.html#CRM1700">CRM1700</a></td>
+		    <td>Introduction à la criminologie</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/CRM.html#CRM1701">CRM1701</a></td>
+		    <td>Histoire du savoir criminologique</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->	 
+
+ <!-- cccccccccccccc  --> 
+<tr><th>Course code</th>
+	  <th>Course name</th>
+	  <th>Credits</th></tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/CRM.html#CRM1300">CRM1300</a></td>
+		    <td>Introduction to Criminology</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/CRM.html#CRM1301">CRM1301</a></td>
+		    <td>History of Criminological Thought</td>
+		    <td width="20%">3</td>
+	       </tr>
+	    </table>
+	</li>
+	
+		<li>
+			<h3 class="head"><a href="#">DROIT</a></h3>
+
+	<table class="programs_table" summary="This table describes a list of available complementary courses">
+	  <tr><th>Course code</th>
+	  <th>Course name</th>
+	  <th>Credits</th></tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/DCC.html#DCC1500">DCC1500</a></td>
+		    <td>Introduction et mthodologie</td>
+		    <td width="20%">3</td>
+	       </tr>
+	        <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/DCC.html#DCC1501">DCC1501</a></td>
+		    <td>Thorie gnrale des obligations</td>
+		    <td width="20%">3</td>
+	       </tr>
+<tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/DCC.html#DCC1701">DCC1701</a></td>
+		    <td>Introduction à l'autonomie gouvernementale</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->	     
+	      
+	   </table>
+	</li>
+	
+		<li>
+			<h3 class="head"><a href="#">SCIENCE ÉCONOMIQUE / ECONOMICS</a></h3>
+
+	<table class="programs_table" summary="This table describes a list of available complementary courses">
+<tr> 
+	 <th> Cote du cours </th>
+	  <th>Nom du cours</th>
+	  <th>Credits</th>
+	</tr>	 
+<tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/ECO.html#ECO1502">ECO1502</a></td>
+		    <td>Introduction à la macroéconomie</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/ECO.html#ECO1504">ECO1504</a></td>
+		    <td>Introduction à la microéconomie</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/ECO.html#ECO2513">ECO2513</a></td>
+		    <td>Le Canada et l'économie mondiale</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/ECO.html#ECO2521">ECO2521</a></td>
+		    <td>Économie et mondialisation</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+<tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/ECO.html#ECO2522">ECO2522</a></td>
+		    <td>Dimensions économiques des relations Canada- Etats-Unis</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/ECO.html#ECO2546">ECO2546</a></td>
+		    <td>Introduction à l'histoire économique canadienne</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+
+
+ <tr>
+          <th>Course code</th>
+	  <th>Course name</th>
+	  <th>Credits</th>
+</tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/ECO.html#ECO1102">ECO1502</a></td>
+		    <td>Introduction to Macroeconomics</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/ECO.html#ECO1104">ECO1104</a></td>
+		    <td>Introduction to Microeconomics</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/ECO.html#ECO2113">ECO2113</a></td>
+		    <td>Canada and the World Economy</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/ECO.html#ECO2121">ECO2121</a></td>
+		    <td>Economics of Globalization</td>
+		    <td width="20%">3</td>
+	       </tr>
+               <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/ECO.html#ECO2146">ECO2146</a></td>
+		    <td>Economic Dimensions of Canada-United States Relations</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/ECO.html#ECO2146">ECO2146</a></td>
+		    <td>Introduction to Canadian Economic History</td>
+		    <td width="20%">3</td>
+	       </tr>
+	    </table>
+	</li>
+	
+		<li>
+			<h3 class="head"><a href="#">ÉTUDES DES FEMMES / WOMEN'S STUDIES</a></h3>
+	<table class="programs_table" summary="This table describes a list of available complementary courses">
+<tr> 
+	 <th> Cote du cours </th>
+	  <th>Nom du cours</th>
+	  <th>Credits</th>
+	</tr>	
+               <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/FEM.html#FEM1500">FEM1500</a></td>
+		    <td>Introduction aux études des femmes</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->  
+
+<tr><th>Course code</th>
+	  <th>Course name</th>
+	  <th>Credits</th></tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/FEM.html#FEM1100">FEM1100</a></td>
+		    <td>Introduction to Women's Studies</td>
+		    <td width="20%">3</td>
+	       </tr>
+	    </table>
+	</li>
+	
+		<li>
+			<h3 class="head"><a href="#">GÉOGRAPHIE / GEOGRAPHY</a></h3>
+
+	<table class="programs_table" summary="This table describes a list of available complementary courses">
+	<tr> 
+	 <th> Cote du cours </th>
+	  <th>Nom du cours</th>
+	  <th>Credits</th>
+	</tr>	 
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/GEG.html#GEG1701">GEG1701</a></td>
+		    <td>L'environnement physique</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/GEG.html#GEG1702">GEG1702</a></td>
+		    <td>Société et environnement</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/GEG.html#GEG2509">GEG2509</a></td>
+		    <td>Le Canada et ses régions</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+
+ <tr><th>Course code</th>
+	  <th>Course name</th>
+	  <th>Credits</th></tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/GEG.html#GEG1301">GEG1301</a></td>
+		    <td>The Physical Environment</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/GEG.html#GEG1302">GEG1302</a></td>
+		    <td>Society and Environment</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/GEG.html#GEG2109">GEG2109</a></td>
+		    <td>Canada and its regions</td>
+		    <td width="20%">3</td>
+	       </tr>
+	      
+	    </table>
+	</li>
+	
+		<li>
+			<h3 class="head"><a href="#">GÉNIE GÉNÉRAL / GENERAL ENGINEERING</a></h3>
+
+	<table class="programs_table" summary="This table describes a list of available complementary courses">
+	<tr> 
+	 <th> Cote du cours </th>
+	  <th>Nom du cours</th>
+	  <th>Credits</th>
+	</tr> 
+              <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/GNG.html#GNG4570">GNG4570</a></td>
+		    <td>Droit pour les ingénieurs</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/GNG.html#GNG4571">GNG4571</a></td>
+		    <td>Propriété intellectuelle et droit des technologies pour les ingénieurs</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->	
+
+  <tr><th>Course code</th>
+	  <th>Course name</th>
+	  <th>Credits</th></tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/crs/0203/coursesEN/GNG.html#GNG4170">GNG4170</a></td>
+		    <td>Engineering Law</td>
+		    <td width="20%">3</td>
+	       </tr>
+               <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/GNG.html#GNG4171">GNG4171</a></td>
+		    <td>Intellectual Property and Technology Law for Engineers</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+	    </table>
+	</li>
+	
+		<li>
+			<h3 class="head"><a href="#">G&Eacute;RONTOLOGIE /  GERINTOLOGY</a></h3>
+
+	<table class="programs_table" summary="This table describes a list of available complementary courses">
+<tr> 
+	 <th> Cote du cours </th>
+	  <th>Nom du cours</th>
+	  <th>Credits</th>
+	</tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/GRT.html#GRT2500">GRT2500</a></td>
+		    <td>Dimensions psychosociales du vieillissement</td>
+		    <td width="20%">3</td>
+	       </tr>
+	  
+<tr><th>Course code</th>
+	  <th>Course name</th>
+	  <th>Credits</th></tr>
+               <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/GRT.html#GRT2100">GRT2100</a></td>
+		    <td>Psychosocial Aspects of Aging</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+	    </table>
+	</li>
+	
+		<li>
+			<h3 class="head"><a href="#">HISTOIRE / HISTORY</a></h3>
+	<table class="programs_table" summary="This table describes a list of available complementary courses">
+	<tr> 
+	 <th> Cote du cours </th>
+	  <th>Nom du cours</th>
+	  <th>Credits</th>
+	</tr>
+               <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/HIS.html#HIS1501">HIS1501</a></td>
+		    <td>La formation du Canada</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/HIS.html#HIS1510">HIS1510</a></td>
+		    <td>Le monde au XXe siècle jusqu'en 1945</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/HIS.html#HIS1511">HIS1511</a></td>
+		    <td>Le monde au XXe siècle depuis 1945</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/HIS.html#HIS1520">HIS1520</a></td>
+		    <td>Histoire de l'Europe (XVIe-XXe siècle)</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+
+	  <tr><th>Course code</th>
+	  <th>Course name</th>
+	  <th>Credits</th></tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/crs/0203/coursesEN/HIS.html#HIS1101">HIS1101</a></td>
+		    <td>The Making of Canada</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/crs/0203/coursesEN/HIS.html#HIS1110">HIS1110</a></td>
+		    <td>The Twentieth-Century World to 1945</td>
+		    <td width="20%">3</td>
+	       </tr>       
+		   <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/crs/0203/coursesEN/HIS.html#HIS1111">HIS1111</a></td>
+		    <td>The Twentieth-Century World from 1945</td>
+		    <td width="20%">3</td>
+	       </tr>       
+		   <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/crs/0203/coursesEN/HIS.html#HIS1120">HIS1120</a></td>
+		    <td>The History of Europe (16th-20th Century) </td>
+		    <td width="20%">3</td>
+	       </tr>       
+		   <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/crs/0203/coursesEN/HIS.html#HIS2129">HIS2129</a></td>
+		    <td>Technology, Society and Environment since 1800</td>
+		    <td width="20%">3</td>
+	       </tr>    
+	       
+		 </table>
+	</li>
+
+		<li>
+			<h3 class="head"><a href="#">ITALIEN / ITALIAN</a></h3>
+	<table class="programs_table" summary="This table describes a list of available complementary courses">
+<tr> 
+	 <th> Cote du cours </th>
+	  <th>Nom du cours</th>
+	  <th>Credits</th>
+</tr>
+<tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/ITA.html#ITA1513">ITA1513</a></td>
+		    <td>Cinéma italien</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/ITA.html#ITA1514">ITA1514</a></td>
+		    <td>L'héritage italien en Amérique du nord</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+
+
+	  <tr><th>Course code</th>
+	  <th>Course name</th>
+	  <th>Credits</th></tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/ITA.html#ITA1113">ITA1113</a></td>
+		    <td>Italian Cinema</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/ITA.html#ITA1114">ITA1114</a></td>
+		    <td>Italian Heritage in North America </td>
+		    <td width="20%">3</td>
+	       </tr>
+	    </table>
+	</li>
+	
+		<li>
+			<h3 class="head"><a href="#">LINGUISTIQUE / LINGUISTICS</a></h3>
+	<table class="programs_table" summary="This table describes a list of available complementary courses">
+<tr> 
+	 <th> Cote du cours </th>
+	  <th>Nom du cours</th>
+	  <th>Credits</th>
+</tr>
+<tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/LIN.html#LIN1720">LIN1720</a></td>
+		    <td>Introduction à la linguistique II : Les sons du langage</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/LIN.html#LIN1700">LIN1700</a></td>
+		    <td>Qu'est-ce que le langage?</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/LIN.html#LIN1710">LIN1710</a></td>
+		    <td>Introduction à la linguistique I : Des mots aux énoncés</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+
+
+	  <tr><th>Course code</th>
+	  <th>Course name</th>
+	  <th>Credits</th></tr>
+	        <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/LIN.html#LIN1300">LIN1300</a></td>
+		    <td>What is Language?</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/LIN.html#LIN1310">LIN1310</a></td>
+		    <td>Introduction to Linguistics I: From Words to Utterances</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/LIN.html#LIN1320">LIN1320</a></td>
+		    <td>Introduction to Linguistics II: The Sounds of Language</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+	    </table>
+	</li>
+	
+		<li>
+			<h3 class="head"><a href="#">ÉTUDES MÉDIÉVALES ET DE LA RENAISSANCE / MEDIEVAL STUDIES</a></h3>
+
+	 <table class="programs_table" summary="This table describes a list of available complementary courses">
+<tr> 
+	 <th> Cote du cours </th>
+	  <th>Nom du cours</th>
+	  <th>Credits</th>
+	</tr>
+	  
+<tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/MDV.html#MDV2500">MDV2500</a></td>
+		    <td>Initiation à la civilisation médiévale et de la Renaissance</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+
+
+
+<tr><th>Course code</th>
+	  <th>Course name</th>
+	  <th>Credits</th></tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/MDV.html#MDV2100">MDV2100</a></td>
+		    <td>Introduction to Medieval Civilization</td>
+		    <td width="20%">3</td>
+	       </tr>
+	    </table>
+	</li>
+	
+		<li>
+			<h3 class="head"><a href="#">MUSIQUE / MUSIC</a></h3>
+	<table class="programs_table" summary="This table describes a list of available complementary courses">
+	 
+<tr> 
+	 <th> Cote du cours </th>
+	  <th>Nom du cours</th>
+	  <th>Credits</th>
+</tr>
+ <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/MUS.html#MUS2782">MUS2782</a></td>
+		    <td>Introduction aux musiques du monde</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+
+ <tr><th>Course code</th>
+	  <th>Course name</th>
+	  <th>Credits</th></tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/MUS.html#MUS2382">MUS2382</a></td>
+		    <td>Introduction to World Music</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+	    </table>
+	</li>
+	
+		<li>
+			<h3 class="head"><a href="#">ÉDUCATION / EDUCATION</a></h3>
+	<table class="programs_table" summary="This table describes a list of available complementary courses">
+	  <tr><th>Cote du cours</th>
+	  <th>Nom du cours</th>
+	  <th>Credits</th></tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/PED.html#PED2507">PED2507</a></td>
+		    <td>Ralits scolaires actuelles</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/PED.html#PED2508">PED2508</a></td>
+		    <td>La relation pdagogique</td>
+		    <td width="20%">3</td>
+	       </tr>
+	    </table>
+	</li>
+	
+		<li>
+			<h3 class="head"><a href="#">PHILOSOPHIE / PHILOSOPHY</a></h3>
+	 <table class="programs_table" summary="This table describes a list of available complementary courses">
+<tr> 
+	 <th> Cote du cours </th>
+	  <th>Nom du cours</th>
+	  <th>Credits</th>
+	</tr>
+ <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/PHI.html#PHI1501">PHI1501</a></td>
+		    <td>Raisonnement et pensée critique</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/PHI.html#PHI1502">PHI1502</a></td>
+		    <td>Raisonnement moral</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/PHI.html#PHI1503">PHI1503</a></td>
+		    <td>Les grandes questions philosophiques</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/PHI.html#PHI1504">PHI1504</a></td>
+		    <td>Les grands philosophes</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+	<tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/PHI.html#PHI2794">PHI2794</a></td>
+		    <td>Pensée scientifique et valeurs sociales</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/PHI.html#PHI2798">PHI2798</a></td>
+		    <td>L'éthique environnementale</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->  
+
+
+<tr><th>Course code</th>
+	  <th>Course name</th>
+	  <th>Credits</th></tr>
+ <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/PHI.html#PHI1101">PHI1101</a></td>
+		    <td>Reasoning and Critical Thinking</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/PHI.html#PHI1102">PHI1102</a></td>
+		    <td>Moral Reasoning</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/PHI.html#PHI1103">PHI1103</a></td>
+		    <td>Fundamental Philosophical Questions</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/PHI.html#PHI1104">PHI1104</a></td>
+		    <td>Great Philosophers</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+<tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/PHI.html#PHI2394">PHI2394</a></td>
+		    <td>Scientific Thought and Social Values</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/PHI.html#PHI2398">PHI2398</a></td>
+		    <td>Environmental Ethics</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+	    </table>
+	</li>
+	
+		<li>
+			<h3 class="head"><a href="#">SCIENCE POLITIQUE / POLITICAL SCIENCE</a></h3>
+	<table class="programs_table" summary="This table describes a list of available complementary courses">
+<tr> 
+	 <th> Cote du cours </th>
+	  <th>Nom du cours</th>
+	  <th>Credits</th>
+</tr>	  
+               <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/POL.html#POL1501">POL1501</a></td>
+		    <td>Introduction à la vie politique</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/POL.html#POL1502">POL1502</a></td>
+		    <td>Politique et mondialisation</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/POL.html#POL2501">POL2501</a></td>
+		    <td>Introduction à la politique canadienne</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/POL.html#POL2556">POL2556</a></td>
+		    <td>Fondements de la recherche en science politique</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+<tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/POL.html#POL2503">POL2503</a></td>
+		    <td>Introduction aux relations internationales et à la politique mondiale</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/POL.html#POL2504">POL2504</a></td>
+		    <td>Introduction à la politique comparée</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+<tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/POL.html#POL2507">POL2507</a></td>
+		    <td>Introduction à la pensée politique</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/POL.html#POL3526">POL3526</a></td>
+		    <td>Les femmes et la politique</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+
+
+<tr><th>Course code</th>
+	  <th>Course name</th>
+	  <th>Credits</th></tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/POL.html#POL1101">POL1101</a></td>
+		    <td>Understanding Politics</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/POL.html#POL1102">POL1102</a></td>
+		    <td>Politics and Globalization</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       
+	       
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/POL.html#POL2156">POL2156</a></td>
+		    <td>Foundations of Research in Political Science </td>
+		    <td width="20%">3</td>
+	       </tr>
+	       
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/POL.html#POL2101">POL2101</a></td>
+		    <td>Introduction to Canadian Politics</td>
+		    <td>6</td>
+	       </tr>
+
+ <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/POL.html#POL2104">POL2104</a></td>
+		    <td>Introduction to Comparative Politics</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/POL.html#POL2103">POL2103</a></td>
+		    <td>Introduction to International Relations and Global Politics</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/POL.html#POL2107">POL2107</a></td>
+		    <td>Introduction to Political Thought</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+
+	      
+	    </table>
+	</li>
+	
+		<li>
+			<h3 class="head"><a href="#">PSYCHOLOGIE / PSYCHOLOGY</a></h3>
+	<table class="programs_table" summary="This table describes a list of available complementary courses">
+<tr> 
+	 <th> Cote du cours </th>
+	  <th>Nom du cours</th>
+	  <th>Credits</th>
+</tr>	 
+
+<tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/PSY.html#PSY1501">PSY1501</a></td>
+		    <td>Introduction à la psychologie expérimentale</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/PSY.html#PSY1502">PSY1502</a></td>
+		    <td>Introduction à la psychologie appliquée</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+
+ <tr><th>Course code</th>
+	  <th>Course name</th>
+	  <th>Credits</th></tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/PSY.html#PSY1101">PSY1101</a></td>
+		    <td>Introduction to Experimental Psychology</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/PSY.html#PSY1102">PSY1102</a></td>
+		    <td>Introduction to Applied Psychology</td>
+		    <td width="20%">3</td>
+	       </tr>
+	    </table>
+	</li>
+	
+		<li>
+			<h3 class="head"><a href="#">RUSSE / RUSSIAN</a></h3>
+	<table class="programs_table" summary="This table describes a list of available complementary courses">
+<tr> 
+	 <th> Cote du cours </th>
+	  <th>Nom du cours</th>
+	  <th>Credits</th>
+	</tr>
+<tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/RUS.html#RUS2501">RUS2501</a></td>
+		    <td>Initiation à la culture russe</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/RUS.html#RUS2502">RUS2502</a></td>
+		    <td>Dostoïevski, Tolstoï et leur époque</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/RUS.html#RUS2503">RUS2503</a></td>
+		    <td>Culture russe contemporaine</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+	  
+
+<tr><th>Course code</th>
+	  <th>Course name</th>
+	  <th>Credits</th></tr>
+<tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/RUS.html#RUS2101">RUS2101</a></td>
+		    <td>Introduction to Russian Culture</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/RUS.html#RUS2102">RUS2102</a></td>
+		    <td>The Age of Dosteovsky and Tolstoy</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/RUS.html#RUS2103">RUS2103</a></td>
+		    <td>Contemporary Russian Culture</td>
+		    <td width="20%">3</td>
+	       </tr>
+		   
+	    </table>
+	</li>
+	
+		<li>
+			<h3 class="head"><a href="#">SOCIOLOGIE / SOCIOLOGY</a></h3>
+	 <table class="programs_table" summary="This table describes a list of available complementary courses">
+<tr> 
+	 <th> Cote du cours </th>
+	  <th>Nom du cours</th>
+	  <th>Credits</th>
+	</tr>	  
+ <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/SOC.html#SOC1501">SOC2503</a></td>
+		    <td>Éléments de sociologie</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/SOC.html#SOC2504">SOC2504</a></td>
+		    <td>Socio-anthropologie de la famille</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/RUS.html#RUS2503">RUS2503</a></td>
+		    <td>Femmes, hommes et société</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/SOC.html#SOC2506">SOC2506</a></td>
+		    <td>Introduction à l'étude de la déviance et des problèmes sociaux</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+<tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/SOC.html#SOC2507">SOC2507</a></td>
+		    <td>Démographie générale</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/SOC.html#SOC2509">SOC2509</a></td>
+		    <td>Psychologie sociale et vie quotidienne</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+
+<tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/SOC.html#SOC2551">SOC2551</a></td>
+		    <td>Mondialisation : aspects sociologiques et anthropologiques</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/SOC.html#SOC2700">SOC2700</a></td>
+		    <td>Analyse de la connaissance scientifique</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/SOC.html#SOC2709">SOC2709</a></td>
+		    <td>Société canadienne</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+
+
+
+
+<tr><th>Course code</th>
+	  <th>Course name</th>
+	  <th>Credits</th></tr>
+<tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/SOC.html#SOC1101">SOC1101</a></td>
+		    <td>Principles of Sociology</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/SOC.html#SOC2103">SOC2103</a></td>
+		    <td>Socio-anthropology of the Family</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/SOC.html#SOC2104">SOC2104</a></td>
+		    <td>Women, Men and Society</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+	        <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/crs/0203/coursesEN/SOC.html#SOC2105">SOC2105</a></td>
+		    <td>Introduction to Social Ecology</td>
+		    <td width="20%">3</td>
+	       </tr>       
+		   <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/SOC.html#SOC2106">SOC2106</a></td>
+		    <td>Introduction to Deviance and Social Problems</td>
+		    <td width="20%">3</td>
+	       </tr>       
+		   <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/SOC.html#SOC2107">SOC2107</a></td>
+		    <td>Principles of Demography</td>
+		    <td width="20%">3</td>
+	       </tr>       
+		   <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/SOC.html#SOC2109">SOC2109</a></td>
+		    <td>Social Psychology and Everyday Life</td>
+		    <td width="20%">3</td>
+	       </tr>
+    <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/SOC.html#SOC2151">SOC2151</a></td>
+		    <td>Globalization: Sociological and Anthropological Aspects</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+		   <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/SOC.html#SOC2300">SOC2300</a></td>
+		    <td>Analysis of Scientific Thought</td>
+		    <td width="20%">3</td>
+	       </tr>	   
+		   <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/SOC.html#SOC2309">SOC2309</a></td>
+		    <td>Canadian Society</td>
+		    <td width="20%">3</td>
+	       </tr>	   
+		   
+		  </table>
+	</li>
+
+		<li>
+			<h3 class="head"><a href="#">SCIENCES DES RELIGIONS / RELIGIOUS STUDIES</a></h3>
+
+	<table class="programs_table" summary="This table describes a list of available complementary courses">
+	<tr> 
+	 <th> Cote du cours </th>
+	  <th>Nom du cours</th>
+	  <th>Credits</th>
+	</tr>
+               <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/SRS.html#SRS1591">SRS1591</a></td>
+		    <td>Religion et culture au Canada</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/SRS.html#SRS2512">SRS2512</a></td>
+		    <td>Les religions du monde I</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/SRS.html#SRS2513">SRS2513</a></td>
+		    <td>Les religions du monde II</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/SRS.html#SRS2514">SRS2514</a></td>
+		    <td>Religions et sexualité</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+<tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/SRS.html#SRS2591">SRS2591</a></td>
+		    <td>La femme et les religions</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/SRS.html#SRS2594">SRS2594</a></td>
+		    <td>Anthropologie de la religion</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/SRS.html#SRS2611">SRS2611</a></td>
+		    <td>La femme et les religions</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+
+
+	  <tr><th>Course code</th>
+	  <th>Course name</th>
+	  <th>Credits</th></tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/SRS.html#SRS1191">SRS1191</a></td>
+		    <td>Religion and Culture in Canada</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/SRS.html#SRS2112">SRS2112</a></td>
+		    <td>The Religions of the World I</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/SRS.html#SRS2113">SRS2113</a></td>
+		    <td>The Religions of the World II</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/SRS.html#SRS2114">SRS2114</a></td>
+		    <td>Religion and Sexuality</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/SRS.html#SRS1191">SRS2191</a></td>
+		    <td>The Sociology of Religion</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/SRS.html#SRS2194">SRS2194</a></td>
+		    <td>Anthropology of religion</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/SRS.html#SRS2211">SRS2211</a></td>
+		    <td>Women and Religions</td>
+		    <td>6</td>
+	       </tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/SRS.html#SRS2351">SRS2351</a></td>
+		    <td>Psychology of Religion</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/SRS.html#SRS2393">SRS2393</a></td>
+		    <td>On Death and Dying</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/SRS.html#SRS2396">SRS2396</a></td>
+		    <td>Contemporary Religious Movements</td>
+		    <td width="20%">3</td>
+	       </tr>
+	    </table>
+	</li>
+	
+		<li>
+			<h3 class="head"><a href="#">THÉÂTRE / THEATRE</a></h3>
+	<table class="programs_table" summary="This table describes a list of available complementary courses">
+
+	<tr> 
+	 <th> Cote du cours </th>
+	  <th>Nom du cours</th>
+	  <th>Credits</th>
+	</tr>
+               <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/THE.html#THE1500">THE1500</a></td>
+		    <td>Introduction à la pratique théâtrale</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/THE.html#THE2500">The2500</a></td>
+		    <td>L'événement théâtral</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+
+	  <tr><th>Course code</th>
+	  <th>Course name</th>
+	  <th>Credits</th></tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/THE.html#THE1100">THE1100</a></td>
+		    <td>Introduction to the Practice of Theatre</td>
+		    <td>3</td>
+	       </tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/THE.html#THE2100">THE2100</a></td>
+		    <td>The Theatrical Event</td>
+		    <td width="20%">3</td>
+	       </tr>
+	    </table>
+	</li>
+	
+		<li>
+			<h3 class="head"><a href="#">ÉTUDES CANADIENNES / CANADIAN STUDIES</a></h3>
+			<table class="programs_table" summary="This table describes a list of available complementary courses">
+	<tr> 
+	 <th> Cote du cours </th>
+	  <th>Nom du cours</th>
+	  <th>Credits</th>
+	</tr>
+
+               <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/CDN.html#CDN1500">CDN1500</a></td>
+		    <td>Introduction aux études canadiennes</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->			 
+
+ <tr><th>Course code</th>
+			  <th>Course name</th>
+			  <th>Credits</th></tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/CDN.html#CDN1100">CDN1100</a></td>
+		    <td>Introduction to Canadian Studies </td>
+		    <td width="20%">3</td>
+	       </tr>
+	    </table>
+	</li>
+	
+</ul>
+
+</div>
+
+
+
+
+{if country_code !="fr"} <?php echo file_get_contents("http://web5.uottawa.ca/assets-templates/inc/footer-en.html"); ?> {if:else} <?php echo file_get_contents("http://web5.uottawa.ca/assets-templates/inc/footer-fr.html"); ?> {/if}
+</div>
+</div>
+<div id="section-closure"></div>
+</div>
+<!-- /#main-container -->
+<?php include("../assets/inc/body-bottom.html"); ?>
+</body></html>

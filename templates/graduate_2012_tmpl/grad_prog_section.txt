@@ -1,0 +1,44 @@
+<div id="grad_prog_list"> 
+
+
+<a  class="panel_title_link" href="http://www.engineering.uottawa.ca/en/graduate/">
+
+<h4 style= "line-height:0.5em"><b>Graduate Programs and Certificates</b> </h4>
+</a>
+<!-- ^^TO CHANGE THE SECTION LABEL, CHANGE THE TEXT THAT IS BETWEEN <b> and </b> ABOVE ^^ -->
+
+<ul>	<!-- do not delete this tag-->
+
+
+
+		  
+<li><a href="http://www.engineering.uottawa.ca/en/graduate/view/chemical_and_biological_engineering/" class="readmore">Chemical Engineering M.Eng./M.A.Sc./PhD</a></li>
+<li><a href="http://www.grad.uottawa.ca/Default.aspx?tabid=1727&monControl=Renseignements&ProgId=532" class="readmore">Civil Engineering M.Eng./M.A.Sc./PhD</a></li>                    
+<li><a href="http://www.engineering.uottawa.ca/en/graduate/view/civil_engineering/" class="readmore">Civil and Environmental Engineering M.Eng./M.A.Sc./PhD</a></li>
+<li><a href="http://www.grad.uottawa.ca/Default.aspx?tabid=1727&monControl=Programmes&ProgId=542" class="readmore">Mechanical Engineering M.Eng./M.A.Sc./PhD</a></li>						
+<li><a href="http://www.grad.uottawa.ca/Default.aspx?tabid=1727&monControl=Programmes&ProgId=1147" class="readmore">Advanced Materials and Manufacturing M.Eng./M.A.Sc./PhD</a></li>	
+<li><a href="http://www.grad.uottawa.ca/Default.aspx?tabid=1727&monControl=Programmes&ProgId=563" class="readmore">Biomedical Engineering M.A.Sc.</a></li>
+<li><a href="http://www.grad.uottawa.ca/Default.aspx?tabid=1727&monControl=Programmes&ProgId=561" class="readmore">Electrical and Computer Engineering M.Eng./M.A.Sc./PhD</a></li>            
+<li><a href="http://www.grad.uottawa.ca/Default.aspx?tabid=1727&monControl=Programmes&ProgId=534" class="readmore">Computer Science MCS/PhD</a></li>
+<li><a href="http://www.grad.uottawa.ca/Default.aspx?tabid=1727&monControl=Programmes&ProgId=591" class="readmore">Engineering Management M.Eng.</a></li>						
+<li><a href="http://www.grad.uottawa.ca/Default.aspx?tabid=1727&monControl=Programmes&ProgId=641" class="readmore">Internet Technologies Graduate Certicate</a></li>	
+<li><a href="http://www.grad.uottawa.ca/Default.aspx?tabid=1727&monControl=Programmes&ProgId=658" class="readmore">Modelling & Animation for Computer Games Tech Certicate</a></li>
+<li><a href="http://www.grad.uottawa.ca/Default.aspx?tabid=1727&monControl=Programmes&ProgId=636" class="readmore">Technology Project Management Certicate</a></li>
+<li><a href="http://www.grad.uottawa.ca/Default.aspx?tabid=1727&monControl=Programmes&ProgId=1324" class="readmore">Mobile Device Applications Certificate</a></li>
+
+
+	
+					
+
+
+
+	
+</ul>			
+
+
+
+
+
+
+
+</div>

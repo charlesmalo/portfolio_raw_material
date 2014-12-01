@@ -1,0 +1,55 @@
+
+{embed="includes/document_header" title="
+
+	{if country_code != "en"}
+		Étudiants actuels
+	{if:else}
+		Current Students
+	{/if}
+"
+}
+{embed="includes/document_subheader"}
+
+<div id="section-details">
+{if country_code !="en"}{embed="includes/fr_left_nav"}{if:else}{embed="includes/left_nav"}{/if}
+{embed="includes/left_features"}
+{embed="includes/contact_info"}
+</div>
+
+
+<div id="genie-main-content">
+<!-- <div id="view_content"> -->
+
+	<div class="grouped-links">
+	<div class="group first">
+	<h2 id="heading-students-corner">Student's Corner</h2>
+	<ul>
+		<li><a href="#">Undergraduate Research Scholarship</a></li>
+		<li><a href="#">Exam Deferral Form</a></li>
+		<li><a href="#">New bachelor's degree structure 2006</a></li>
+	</ul>
+	</div>
+	<div class="group">
+	<h2 id="heading-events">Events</h2>
+	<ul>
+		<li><a href="#">Stroll for Liver Walk in Memory of Trisha Naqpal</a></li>
+		<li><a href="#">New Professors Lecture Program</a></li>
+	</ul>
+	</div>
+	</div><!-- /#grouped-links -->
+
+<!-- </div> -->
+<!-- end view_content -->
+</div><!-- end main-content -->
+
+
+
+
+<div id="sidebar" class="secondary">
+	{embed="includes/side_bar"}	
+</div>
+
+</div><!-- END: section-container -->
+</div><!-- END: #main-container -->
+
+{embed="includes/document_footer"}

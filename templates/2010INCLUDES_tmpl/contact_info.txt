@@ -1,0 +1,232 @@
+{if country_code != "en"}
+<div id="contact_panel" class="vcard">
+		<h3>Nous rejoindre</h3>
+		<a name="contact"></a>
+
+		
+		<dl>
+			<dt class="hidden">Company</dt>
+			<dd class="hidden org extended-address">Faculty de génie - </dd>
+			<dd class=""><a href="http://www.engineering.uottawa.ca/en/directory/staff" class="fn org url"> Bureau du doyen</a></dd>
+		
+		
+			<dt class="accessibility">Address</dt>
+			<dd class="nodt adr">
+				<div class="extended-address">CBY A306</div>
+				<div class="street-address">161 Louis Pasteur</div>
+				<span class="locality">Ottawa</span>,
+				<abbr title="Ontario" class="region">ON</abbr>,
+				<span class="postal-code">K1N6N5</span>
+
+			</dd>
+			
+			<dt><abbr title="Telephone">Tél</abbr></dt>
+			<dd class="tel">613-562-5682 <span class="hidden">(<span class="type">work</span>)</span></dd>
+
+			
+			<dt>Télec</dt>
+			<dd class="fax">613-562-5174 <span class="hidden">(<span class="type">fax</span>)</span></dd>
+
+			
+			<dt class="accessibility">Email</dt>
+			<dd class="nodt hidden"><a href="mailto:info@engineering.uottawa.ca" class="email">info@engineering.uottawa.ca</a></dd>
+			<!-- <dd><a href="http://www.technorati.com/contact/http://www.engineering.uottawa.ca" class="download"><span>
+            {if country_code !="en"}Ajouter à votre carnet d'adresse{if:else} Download vCard{/if}
+            </span></a></dd> -->
+			
+		</dl>
+		
+		
+</div>
+
+<div id="contact_panel" class="vcard">
+
+	
+	
+		<dl>
+			<dt class="hidden">Company</dt>
+			<dd class="hidden org extended-address">Faculté de  génie - </dd>
+			<dd class=""><a href="http://www.engineering.uottawa.ca/en/directory/staff" class="fn org url"> Bureau du premier cycle</a></dd>
+		
+		
+			<dt class="accessibility">Address</dt>
+			<dd class="nodt adr">
+				<div class="extended-address">SITE 1020</div>
+				<div class="street-address">800 Ave. King Edward.</div>
+				<span class="locality">Ottawa</span>,
+				<abbr title="Ontario" class="region">ON</abbr>,
+				<span class="postal-code">K1N6N5</span>
+
+			</dd>
+			
+			<dt><abbr title="Telephone">Tél</abbr></dt>
+			<dd class="tel">613-562-5918 <span class="hidden">(<span class="type">work</span>)</span></dd>
+
+			
+			<dt>Télec</dt>
+			<dd class="fax">613-562-5187 <span class="hidden">(<span class="type">fax</span>)</span></dd>
+
+			
+			<dt class="accessibility">Email</dt>
+			<dd class="nodt hidden"><a href="mailto:info@engineering.uottawa.ca" class="email">info@engineering.uottawa.ca</a></dd>
+			
+			
+		</dl>
+	
+	
+	</div>
+
+	<div id="contact_panel" class="vcard">
+
+
+
+			<dl>
+				<dt class="hidden">Company</dt>
+				<dd class="hidden org extended-address">Faculté de génie - </dd>
+				<dd class=""><a href="http://www.engineering.uottawa.ca/en/directory/staff" class="fn org url"> Études supérieures</a></dd>
+
+
+				<dt class="accessibility">Address</dt>
+				<dd class="nodt adr">
+					<div class="extended-address">CBY B111</div>
+					<div class="street-address">161 Louis Pasteur</div>
+					<span class="locality">Ottawa</span>,
+					<abbr title="Ontario" class="region">ON</abbr>,
+					<span class="postal-code">K1N6N5</span>
+
+				</dd>
+
+				<dt><abbr title="Telephone">Tél</abbr></dt>
+				<dd class="tel">613-562-5347 <span class="hidden">(<span class="type">work</span>)</span></dd>
+
+
+				<dt>Télec</dt>
+				<dd class="tel">613-562-5129 <span class="hidden">(<span class="type">fax</span>)</span></dd>
+
+
+				<dt class="accessibility">Email</dt>
+				<dd class="nodt hidden"><a href="mailto:info@engineering.uottawa.ca" class="email">info@engineering.uottawa.ca</a></dd>
+
+
+			</dl>
+
+
+		</div>
+
+{if:else}
+<div id="contact_panel" class="vcard">
+		<h3>Contact Information</h3>
+		<a name="contact"></a>
+
+		
+		<dl>
+			<dt class="hidden">Company</dt>
+			<dd class="hidden org extended-address">Faculty of Engineering - </dd>
+			<dd class=""><a href="http://www.engineering.uottawa.ca/en/directory/staff" class="fn org url"> Office of the Dean</a></dd>
+		
+		
+			<dt class="accessibility">Address</dt>
+			<dd class="nodt adr">
+				<div class="extended-address">CBY A306</div>
+				<div class="street-address">161 Louis Pasteur</div>
+				<span class="locality">Ottawa</span>,
+				<abbr title="Ontario" class="region">ON</abbr>,
+				<span class="postal-code">K1N6N5</span>
+
+			</dd>
+			
+			<dt><abbr title="Telephone">Tel</abbr></dt>
+			<dd class="tel">613-562-5682 <span class="hidden">(<span class="type">work</span>)</span></dd>
+
+			
+			<dt>Fax</dt>
+			<dd class="tel">613-562-5174 <span class="hidden">(<span class="type">fax</span>)</span></dd>
+
+			
+			<dt class="accessibility">Email</dt>
+			 <dd class="nodt hidden"><a href="mailto:info@engineering.uottawa.ca" class="email">info@engineering.uottawa.ca</a></dd>
+			 <!-- <dd><a href="http://www.technorati.com/contact/http://www.engineering.uottawa.ca" class="download"><span>Download vCard</span></a></dd> -->
+			
+		</dl>
+		
+		
+</div>
+
+<div id="contact_panel" class="vcard">
+
+	
+	
+		<dl>
+			<dt class="hidden">Company</dt>
+			<dd class="hidden org extended-address">Faculty of Engineering - </dd>
+			<dd class=""><a href="http://www.engineering.uottawa.ca/en/directory/staff" class="fn org url"> Undergraduate Office</a></dd>
+		
+		
+			<dt class="accessibility">Address</dt>
+			<dd class="nodt adr">
+				<div class="extended-address">SITE 1020</div>
+				<div class="street-address">800 King Edward Ave.</div>
+				<span class="locality">Ottawa</span>,
+				<abbr title="Ontario" class="region">ON</abbr>,
+				<span class="postal-code">K1N6N5</span>
+
+			</dd>
+			
+			<dt><abbr title="Telephone">Tel</abbr></dt>
+			<dd class="tel">613-562-5918 <span class="hidden">(<span class="type">work</span>)</span></dd>
+
+			
+			<dt>Fax</dt>
+			<dd class="tel">613-562-5187 <span class="hidden">(<span class="type">fax</span>)</span></dd>
+
+			
+			<dt class="accessibility">Email</dt>
+			<dd class="nodt hidden"><a href="mailto:info@engineering.uottawa.ca" class="email">info@engineering.uottawa.ca</a></dd>
+			
+			
+		</dl>
+	
+	
+	</div>
+
+	<div id="contact_panel" class="vcard">
+
+
+
+			<dl>
+				<dt class="hidden">Company</dt>
+				<dd class="hidden org extended-address">Faculty of Engineering - </dd>
+				<dd class=""><a href="http://www.engineering.uottawa.ca/en/directory/staff" class="fn org url"> Graduate Studies Office</a></dd>
+
+
+				<dt class="accessibility">Address</dt>
+				<dd class="nodt adr">
+					<div class="extended-address">CBY B111</div>
+					<div class="street-address">161 Louis Pasteur</div>
+					<span class="locality">Ottawa</span>,
+					<abbr title="Ontario" class="region">ON</abbr>,
+					<span class="postal-code">K1N6N5</span>
+
+				</dd>
+
+				<dt><abbr title="Telephone">Tel</abbr></dt>
+				<dd class="tel">613-562-5347 <span class="hidden">(<span class="type">work</span>)</span></dd>
+
+
+				<dt>Fax</dt>
+				<dd class="tel">613-562-5129 <span class="hidden">(<span class="type">fax</span>)</span></dd>
+
+
+				<dt class="accessibility">Email</dt>
+				<dd class="nodt hidden"><a href="mailto:info@engineering.uottawa.ca" class="email">info@engineering.uottawa.ca</a></dd>
+
+
+			</dl>
+
+
+		</div>
+{/if}
+
+
+
+

@@ -1,0 +1,24 @@
+<ul id="local-nav">
+
+<!-- home -->
+<li>
+	<h3 class="home"><a class="home" href="{site_url}">Faculté de génie</a> </h3>	
+</li>
+		
+<!-- undergrad-->
+
+<li><h3 class="home"><a href="{path="prospective"}">Futurs étudiants</a> </h3>	</li>
+<li><h3 class="home"><a class="home" href="{path="undergraduate/current_students"}">Étudiants actuels</a> </h3>	</li>
+<li><h3 class="home"><a class="home" href="{path="undergraduate/academic_success"}">Succès scolaire</a> </h3>	</li>
+<li><h3 class="home"><a class="home" href="#">Bourses et finances</a> </h3>	</li>
+
+<li><h3 class="home"><a class="home" href="{path="undergraduate/view/policy_on_special_student_registration"}">Étudiants spéciaux</a> </h3>	</li>
+	
+	
+
+		
+</ul>
+
+
+	
+	

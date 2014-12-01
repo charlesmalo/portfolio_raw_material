@@ -1,0 +1,33 @@
+<div id="events_list"> 
+
+
+<a  class="panel_title_link" href="http://uocal.uottawa.ca/fr/">
+
+<h4 style= "line-height:0.5em"><b>Évènements</b> </h4>
+</a>
+<!-- To change the section title,  simply change the word between <b> ... </b>  above-->
+<ul>	<!-- do not delete this tag-->
+
+
+
+
+
+		  
+<li><a href="http://www.admission.uottawa.ca/Default.aspx?tabid=3207" class="readmore">Journée uOttawa</a></li>
+<li><a href="http://www.admission.uottawa.ca/Default.aspx?tabid=3207" class="readmore">Foire des universités de l’Ontario (OUF)</a></li>            
+<li><a href="http://www.engineering.uottawa.ca/fr/engineering_events_uocal" class="readmore">Évènements de Génie</a></li>
+<li><a href="http://uocal.uottawa.ca/fr/" class="readmore">Calendrier des événements de l'Université</a></li>		
+
+
+
+	
+</ul>			
+
+
+
+
+
+
+
+
+</div>

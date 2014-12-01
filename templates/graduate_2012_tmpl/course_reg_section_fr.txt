@@ -1,0 +1,32 @@
+<div id="course_reg_list"> 
+
+
+<a  class="panel_title_link" href="http://www.etudesup.uottawa.ca/Default.aspx?tabid=1645">
+
+<h4 style= "line-height:0.5em"><b>Enregistrement aux cours</b> </h4>
+</a>
+<!-- ^^TO CHANGE THE SECTION LABEL, CHANGE THE TEXT THAT IS BETWEEN <b> and </b> ABOVE ^^ -->
+
+<ul>	<!-- do not delete this tag-->
+
+
+		  
+<li><a href="http://www.engineering.uottawa.ca/fr/graduate/programs/" class="readmore">Programmes d'études supérieures</a></li>
+<li><a href="http://www.etudesup.uottawa.ca/Default.aspx?tabid=1645" class="readmore">Inscription</a></li>            
+<li><a href="http://www.registrar.uottawa.ca/Default.aspx?tabid=2614" class="readmore">Service du registraire</a></li>
+<li><a href="http://www.engineering.uottawa.ca/fr/graduate/graduate_newly_admitted_students/" class="readmore">Étudiants nouvellement admis</a></li>						
+
+		
+
+
+
+	
+</ul>			
+
+
+
+
+
+
+
+</div>

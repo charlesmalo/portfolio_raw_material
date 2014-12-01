@@ -1,0 +1,29 @@
+<div id="program_options_list"> 
+
+
+<a  class="panel_title_link" href="http://www.engineering.uottawa.ca/en/undergraduate/programs">
+
+<h4 style= "line-height:0.5em"><b>Program Options</b> </h4>
+</a>
+
+<!-- ^^TO CHANGE THE SECTION LABEL, CHANGE THE TEXT THAT IS BETWEEN <b> and </b> ABOVE ^^ -->
+
+<ul>	<!-- do not delete this tag-->
+
+
+
+		  
+<li><a href="http://www.coop.uottawa.ca/en/en-coop-students/en-program.asp" class="readmore">Coop</a></li>
+<li><a href="http://www.international.uottawa.ca/en/index.html" class="readmore">Exchange programs</a></li>            
+<li><a href="http://www.engineering.uottawa.ca/downloads/pdf/eng_man_ent_opt.pdf" class="readmore">Management and Entrepreneurship</a></li>
+<li><a href="http://www.engineering.uottawa.ca/downloads/pdf/computing_technology.pdf" class="readmore">Computing Technology</a></li>		
+	
+</ul>			
+
+
+
+
+
+
+
+</div>

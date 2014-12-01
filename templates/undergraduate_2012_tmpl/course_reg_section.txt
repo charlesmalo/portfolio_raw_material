@@ -1,0 +1,46 @@
+<div id="course_reg_list"> 
+
+
+<a  class="panel_title_link" href="http://www.registrar.uottawa.ca/Default.aspx?tabid=2767">
+
+<h4 style= "line-height:0.5em"><b> Course Registration</b> </h4>
+</a>
+<!-- ^^TO CHANGE THE SECTION LABEL, CHANGE THE TEXT THAT IS BETWEEN <b> and </b> ABOVE ^^ -->
+
+<ul>	<!-- do not delete this tag-->
+
+
+<!-- 
+just below this is a layout example of how to add items
+
+<li><a href= "THIS IS WHERE YOU PUT A COMPLETE URL LINK IN THE DOUBLE QUOTATIONS"  class="readmore">   THIS IS WHERE YOUR TEXT OR LABEL GOES.</a> </li>
+<li><a href= "THIS IS WHERE YOU PUT A COMPLETE URL LINK IN THE DOUBLE QUOTATIONS"  class="readmore">   THIS IS WHERE YOUR TEXT OR LABEL GOES.</a> </li>
+<li><a href= "THIS IS WHERE YOU PUT A COMPLETE URL LINK IN THE DOUBLE QUOTATIONS"  class="readmore">   THIS IS WHERE YOUR TEXT OR LABEL GOES.</a> </li>
+<li><a href= "THIS IS WHERE YOU PUT A COMPLETE URL LINK IN THE DOUBLE QUOTATIONS"  class="readmore">   THIS IS WHERE YOUR TEXT OR LABEL GOES.</a> </li>
+ end of example-->
+
+
+<li  class = "panel_picture"><a href="http://www.registrar.uottawa.ca/Default.aspx?tabid=2767" class="readmore"><img src="http://www.engineering.uottawa.ca/images/uploads/register_panel.jpg" alt="register panel pic" width="230" height="70"></a></li>		  
+<li><a href="http://www.engineering.uottawa.ca/en/undergraduate/programs" class="readmore">Programs of Study and Course Sequence</a></li>
+<li><a href="https://web30.uottawa.ca/v3/SITS/timetable/Search.aspx" class="readmore">Course Timetable</a></li>            
+<li><a href="http://www.engineering.uottawa.ca/en/undergraduate/complementary_electives" class="readmore">Complementary Electives</a></li>
+<li><a href="http://www.engineering.uottawa.ca/en/undergraduate/engineering_electives" class="readmore">Science Electives</a></li>						
+<li><a href="http://www.registrar.uottawa.ca/Default.aspx?tabid=2767" class="readmore">Course Registration</a></li>			
+<li><a href="http://www.registrar.uottawa.ca/Default.aspx?tabid=2775" class="readmore">Rabaska Tutorial</a></li>						
+<li><a href="http://www.registrar.uottawa.ca/Default.aspx?tabid=2613" class="readmore">Office of the Registrar</a></li>	
+<li><a href="http://www.engineering.uottawa.ca/en/undergraduate/view/2012_2013_registration_for_newly_admitted_students/" class="readmore">Newly Admitted Students</a></li>						
+<li><a href="http://www.engineering.uottawa.ca/en/undergraduate/view/policy_on_special_student_registration/" class="readmore">Special Students</a></li>	
+						
+
+
+
+	
+</ul>			
+
+
+
+
+
+
+
+</div>

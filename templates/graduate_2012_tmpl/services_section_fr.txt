@@ -1,0 +1,30 @@
+<div id="services_list"> 
+
+
+<a  class="panel_title_link" href="#">
+
+<h4 style= "line-height:0.5em"><b>Services pour les Étudiants</b> </h4>
+</a>
+<!-- To change the section title,  simply change the word between <b> ... </b>  above-->
+<ul>	<!-- do not delete this tag-->
+
+
+
+		  
+<li><a href="http://www.registraire.uottawa.ca/Default.aspx?tabid=3618" class="readmore">Droits universitaires</a></li>
+<li><a href="http://www.engineering.uottawa.ca/fr/directory/staff/" class="readmore">Mentorat des cycles supérieurs</a></li>            
+<li><a href="http://www.sass.uottawa.ca/mentorat/superieurs/" class="readmore">Mentorship Services</a></li>
+					
+		
+	
+
+	
+</ul>			
+
+
+
+
+
+
+
+</div>

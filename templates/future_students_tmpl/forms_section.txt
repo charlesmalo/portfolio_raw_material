@@ -1,0 +1,42 @@
+<div id="forms_list"> 
+
+
+<a  class="panel_title_link" href="http://www.registrar.uottawa.ca/Default.aspx?tabid=2714">
+
+<h4 style= "line-height:0.5em"><b> Forms</b> </h4>
+</a>
+<!-- ^^TO CHANGE THE SECTION LABEL, CHANGE THE TEXT THAT IS BETWEEN <b> and </b> ABOVE ^^ -->
+
+<ul>	<!-- do not delete this tag-->
+
+
+<!-- 
+just below this is a layout example of how to add items
+
+<li><a href= "THIS IS WHERE YOU PUT A COMPLETE URL LINK IN THE DOUBLE QUOTATIONS"  class="readmore">   THIS IS WHERE YOUR TEXT OR LABEL GOES.</a> </li>
+<li><a href= "THIS IS WHERE YOU PUT A COMPLETE URL LINK IN THE DOUBLE QUOTATIONS"  class="readmore">   THIS IS WHERE YOUR TEXT OR LABEL GOES.</a> </li>
+<li><a href= "THIS IS WHERE YOU PUT A COMPLETE URL LINK IN THE DOUBLE QUOTATIONS"  class="readmore">   THIS IS WHERE YOUR TEXT OR LABEL GOES.</a> </li>
+<li><a href= "THIS IS WHERE YOU PUT A COMPLETE URL LINK IN THE DOUBLE QUOTATIONS"  class="readmore">   THIS IS WHERE YOUR TEXT OR LABEL GOES.</a> </li>
+ end of example-->
+
+
+		  
+
+<li><a href="http://www.registrar.uottawa.ca/Default.aspx?tabid=2714" class="readmore">Forms and procedures from the Registrar</a></li>            
+<li><a href="http://www.engineering.uottawa.ca/en/undergraduate/view/advanced_standing_request/" class="readmore">Advanced Standing Request</a></li>
+<li><a href="http://www.engineering.uottawa.ca/downloads/pdf/Form_DemandeTransfertBIOTECH.pdf" class="readmore"> Request for Transfer to the Faculty of Engineering - Biotech</a></li>						
+<li><a href="http://www.ouac.on.ca/docs/101/b_101_b.pdf" class="readmore">Application Guide for Secondary School Students</a></li>			
+<li><a href="http://www.ouac.on.ca/docs/105/b_105_b.pdf" class="readmore">Admission Guide for Undergraduate Programs</a></li>						
+
+
+
+	
+</ul>			
+
+
+
+
+
+
+
+</div>

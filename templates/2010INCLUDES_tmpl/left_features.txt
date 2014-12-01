@@ -1,0 +1,29 @@
+<div id="leftFeature"> 
+	
+	{exp:weblog:entries weblog="sidebar_features" limit="5" status="bottom left" dynamic="off"}
+
+
+	{if {country_code}_feature_document !=''}
+	<a href="{{country_code}_feature_document}"><img class="features" src="{{country_code}_feature_button}" /></a>
+	{/if}
+
+	{if {country_code}_feature_url !=''}
+	<a href="{{country_code}_feature_url}"><img class="features" src="{{country_code}_feature_button}" /></a>
+	{/if}
+
+	{/exp:weblog:entries}
+	</div> 
+
+<div id="leftFeature-cips"> 
+	<a href="/accreditation/"><img src="/assets/images/CIPS-logo.jpg"width="171" height="49"></a> 
+</div>
+
+<div id="leftFeature-ec"> 
+	<a href="/accreditation/">
+		{if country_code !="en"}
+		<img src="/assets/images/Engineers_Canada_Fr.jpg" width="173">
+		{if:else}
+		<img src="/assets/images/Engineers_Canada_En.jpg" width="173">
+		{/if}
+	</a> 
+</div>

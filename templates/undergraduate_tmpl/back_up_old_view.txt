@@ -1,0 +1,48 @@
+{embed="includes/document_header" title="
+{exp:weblog:entries weblog="undergraduate" limit="1" status="open | academic success | students corner | faq | apply" limit="1"}
+	{if country_code != "en"}
+		{{country_code}_page_title}
+	{if:else}
+		{title}
+	{/if}
+{/exp:weblog:entries}"
+}
+{embed="includes/document_subheader"}
+
+
+<div id="section-details">
+		{if country_code !="en"}{embed="includes/fr_leftnav_undergrad"}{if:else}{embed="includes/left_nav_undergrad"}{/if}
+		{embed="includes/left_features"}
+		{embed="includes/contact_info"}
+</div>
+	
+<div id="main-content" class="has-sidebar">
+<!-- <div id="view_content"> -->
+	
+	
+	
+{exp:weblog:entries weblog="undergraduate" status="open | academic success | students corner | faq | apply " limit="1"}
+<h1 class="pageTitle">{if country_code != "en"}{{country_code}_page_title}
+	{if:else}
+	{title}
+	{/if}
+</h1>
+{{country_code}_page_copy}
+
+{/exp:weblog:entries}
+
+
+
+<!-- </div> -->
+<!-- END:#view_content -->			
+</div><!-- END:#main_content -->	
+
+<div id="sidebar" class="secondary">
+	{embed="includes/side_bar"}	
+</div>
+	
+</div><!-- END: section-container -->
+</div><!-- END: #main-container -->
+
+{embed="includes/document_footer"}
+

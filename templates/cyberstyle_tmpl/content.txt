@@ -1,0 +1,20 @@
+<div id="main-content" class="span-18">
+<!-- added by charles-->
+{exp:weblog:entries limit="1"}
+<h1 class="pageTitle">{if country_code != "en"}{{country_code}_page_title}
+	{if:else}
+	{title}
+	{/if}
+</h1>
+<p>{{country_code}_intro}</p><!-- added by charles-->
+<p>{{country_code}_full}</p>  <!-- added by charles-->
+{{country_code}_page_copy}
+
+{/exp:weblog:entries}
+</div>
+
+</div>
+</div>
+<div id="section-closure"></div>
+</div>
+<!-- /#main-container -->

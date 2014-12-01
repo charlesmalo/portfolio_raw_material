@@ -1,0 +1,89 @@
+<ul id="sub-banner-nav-menu">
+<li>
+	<a  class="head" href="#">About the Faculty</a>
+	<ul class="subnav">
+	 <li><a href="http://www.engineering.uottawa.ca/en/mission_vision_values/">Mission, Vision & Values</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/en/2011_2016_action_plan/">Action Plan</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/en/directory/executive_committee/">Executive Committee Members</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/en/faculty_updates/">Council and Executive Minutes</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/en/accreditation/">Accreditation </a></li>
+         <li><a href="http://www.engineering.uottawa.ca/en/message_from_the_dean/">Message from the Dean</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/downloads/pdf/Booklet_EN.pdf">History of the Faculty</a></li>
+	</ul> 
+   
+</li>
+
+
+<li>
+	<a  class="head" href="#">Research</a>
+	<ul class="subnav">
+		<!-- <li><a href="http://www.engineering.uottawa.ca/en/office_of_research">Office of Research </a></li>
+         <li><a href="http://www.engineering.uottawa.ca/en/research_chairs">Research Chairs</a></li>-->
+         <li><a href="http://www.engineering.uottawa.ca/en/departments/chemical_engineering_research/">Department of Chemical and Biological Engineering</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/en/civil_engineering/research/">Department of Civil Engineering</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/en/departments/mechanical_engineering_research/">Department of Mechanical Engineering</a></li>
+         <li><a href="http://www.eecs.uottawa.ca/eng/research/">School of Electrical Engineering and Computer Science</a></li>
+	</ul> 
+</li>
+<li>
+	<a  class="head" href="#">Academic Units</a>
+	<ul class="subnav">
+		 <li><a href="http://www.engineering.uottawa.ca/en/departments/chemical_engineering/">Department of Chemical and Biological Engineering</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/en/civil_engineering/overview/">Department of Civil Engineering</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/en/departments/mechanical_engineering/">Department of Mechanical Engineering</a></li>
+         <li><a href="http://www.eecs.uottawa.ca/">School of Electrical Engineering and Computer Science </a></li>
+	</ul> 
+</li>
+
+
+<li>
+	<a  class="head" href="#">Professors</a>
+	<ul class="subnav">
+		 <li><a href="http://www.engineering.uottawa.ca/en/S=0fd151eda05ebcefa9ced80d4dede2646cddff76/departments/chemical_engineering_directory/">Department of Chemical and Biological Engineering</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/en/departments/people_cvg/">Department of Civil Engineering</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/en/departments/mechanical_engineering_directory/">Department of Mechanical Engineering</a></li>
+         <li><a href="http://www.site.uottawa.ca/eng/school/people/faculty.html">School of Electrical Engineering and Computer Science</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/en/computing_facilities/professor/">Resources for Professors</a></li>
+	</ul> 
+</li>
+
+ 
+
+<li>
+	<a  class="head" href="#">News</a>
+	<ul class="subnav">
+		 <li><a href="http://www.engineering.uottawa.ca/en/news_articles/long_list/">Latest Faculty News</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/en/in_the_news/view_list/">The Faculty in the News</a></li>
+	</ul> 
+   
+</li>
+
+<li>
+	<a  class="head" href="#">Computing Services</a>
+	<ul class="subnav">
+		 <li><a href="http://www.engineering.uottawa.ca/en/computing_facilities/about_ecf/">Computing Facilities</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/en/computing_facilities/account_information/">Account Information</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/en/computing_facilities/printing/">Printing</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/en/computing_facilities/plotter/">Plotter </a></li>
+         <li><a href="http://www.ccs.uottawa.ca/">uOttawa's Computing Services</a></li>
+	</ul> 
+   
+</li>
+
+<li>
+	<a  class="head" href="#">Health and Safety</a>
+	<ul class="subnav">
+		 <li><a href="http://www.engineering.uottawa.ca/en/health_and_safety/">New at the Faculty</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/en/training/">Training</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/en/facilities/">Risk Management</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/en/emergency/">In case of emergency</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/en/newlinks/">Health and Safety Links</a></li>
+	</ul> 
+   
+</li>
+
+<li><a href="http://www.engineering.uottawa.ca/en/directory/staff/">Contact</a></li>
+
+
+
+</ul>

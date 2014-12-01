@@ -1,0 +1,49 @@
+	{embed="includes/document_header"}
+	{embed="includes/document_subheader"}
+
+
+<div id="section-details">
+		{if country_code !="en"}{embed="includes/fr_left_nav"}{if:else}{embed="includes/left_nav"}{/if}
+		{embed="includes/left_features"}
+		{embed="includes/contact_info"}
+</div>
+	
+<div id="main-content">
+<div id="view_contentArea">
+<div id="view_content"> 
+	
+
+
+       
+
+
+<div id="articles_list"> 
+	{exp:weblog:entries weblog="healthsafety" limit="1" status="open"}       
+
+	
+<h2>{if country_code !="en"}{{country_code}_title}{if:else}{title}{/if}</h2>
+			
+						<p>{{country_code}_intro}</p>
+						<p>{{country_code}_full}</p> 
+
+	
+
+    {/exp:weblog:entries}
+	</div> 
+
+</div><!-- END:tabsbox -->			
+</div><!-- END: contentArea -->
+	
+	
+</div>
+
+<div id="sidebar" class="secondary">
+	
+	{embed="includes/side_bar"}	
+</div>
+	
+</div><!-- END: section-container -->
+</div><!-- END: #main-container -->
+
+{embed="includes/document_footer"}
+

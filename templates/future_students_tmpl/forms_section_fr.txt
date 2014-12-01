@@ -1,0 +1,31 @@
+<div id="forms_list"> 
+
+
+<a  class="panel_title_link" href="http://www.engineering.uottawa.ca/futures/
+">
+
+<h4 style= "line-height:0.5em"><b>Formulaires</b> </h4>
+</a>
+<!-- ^^TO CHANGE THE SECTION LABEL, CHANGE THE TEXT THAT IS BETWEEN <b> and </b> ABOVE ^^ -->
+
+<ul>	<!-- do not delete this tag-->
+
+
+
+		  
+<li><a href="http://www.registrar.uottawa.ca/Default.aspx?tabid=2715" class="readmore">Formulaires et procédures du registraire</a></li>            
+<li><a href="http://www.engineering.uottawa.ca/fr/undergraduate/view/advanced_standing_request/" class="readmore">Demande d'équivalence</a></li>
+<li><a href="http://www.engineering.uottawa.ca/downloads/pdf/Form_DemandeTransfertBIOTECH.pdf" class="readmore">Demande de transfert à la Faculté de génie</a></li>						
+<li><a href="http://www.ouac.on.ca/docs/101/b_101_b.pdf" class="readmore">Guide d’admission pour les élèves du secondaire</a></li>			
+<li><a href="http://www.ouac.on.ca/docs/105/b_105_b.pdf" class="readmore">Trousse d'admission aux programmes de premier cycle</a></li>	
+
+	
+</ul>			
+
+
+
+
+
+
+
+</div>

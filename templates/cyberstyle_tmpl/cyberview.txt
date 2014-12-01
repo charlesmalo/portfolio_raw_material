@@ -1,0 +1,996 @@
+<?php ?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<!-- Created By Charles Malo -->
+<!-- dynamic title based on content title -->
+<meta name="google-site-verification" content="gBdiwJaWA6HfSgab4Bwu4QsjB7MzfJeKhWTTXeWVI7Q" />
+<!-- Google code -->
+{if country_code != "fr"}
+<title>Faculty of Engineering</title>
+{if:else}
+<title>Facult&eacute; de g&eacute;nie</title>
+{/if}
+<link rel="stylesheet" type="text/css" media="screen, projection, print" href="/assets/css/site.css"/>
+
+<link href='http://fonts.googleapis.com/css?family=Arimo:700' rel='stylesheet' type='text/css'/>
+<link rel="SHORTCUT ICON" href="http://web5.uottawa.ca/assets-templates/3/favicon.ico"/>
+<link rel="stylesheet" type="text/css" media="screen, projection, print" href="http://web5.uottawa.ca/assets-templates/3/style.css?6a91f52164c35c05cc87aba54be5c8ba"/>
+<!--[if lt IE 8]>
+<link rel="stylesheet" type="text/css" media="screen, projection, print" href="http://web5.uottawa.ca/assets-templates/3/style-ie7.css?ccb7e83d6e004f3ce9931f22fd9f9af7"/><![endif]-->
+<!--[if lt IE 7]>
+<link rel="stylesheet" type="text/css" media="screen, projection, print" href="http://web5.uottawa.ca/assets-templates/3/style-ie.css?2ae0350734756014236c7cc622551142"><![endif]-->
+<!-- if handheld -->
+<meta name="viewport" content="width=Device-width"/>
+<link rel="stylesheet" type="text/css" media="only screen and (max-device-width: 480px)" href="http://web5.uottawa.ca/assets-templates/3/handheld-480px.css?d41d8cd98f00b204e9800998ecf8427e"/>
+<link rel="stylesheet" type="text/css" media="only screen and (max-device-width: 1024px)" href="http://web5.uottawa.ca/assets-templates/3/handheld-1024px.css?d41d8cd98f00b204e9800998ecf8427e"/>
+<link rel="stylesheet" type="text/css" media="only screen" href="http://web5.uottawa.ca/assets-templates/3/handheld-doublepx.css?d41d8cd98f00b204e9800998ecf8427e"/>
+
+
+
+
+
+<!-- site specific style sheets -->
+<link rel="stylesheet" type="text/css" media="screen" href="/assets/css/jquery.lightbox.css" />
+<!-- RSS Links -->
+{if country_code != "en"}
+<!--<link rel="alternate" type="application/rss+xml" title="Facult de gnie - Actualits" href="{site_url}/site/rss_news_fr/" />
+<link rel="alternate" type="application/rss+xml" title="Facult de gnie - Activits" href="{site_url}/site/rss_events_fr/" />-->
+<link rel="alternate" type="application/rss+xml" title="Facult de gnie - Actualits" href="http://feeds2.feedburner.com/ActualitesUOGenie" />
+<link rel="alternate" type="application/rss+xml" title="Facult de gnie - Activits" href="http://feeds2.feedburner.com/ActivitesUOGenie" />
+{if:else}
+<!--<link rel="alternate" type="application/rss+xml" title="Faculty of Engineering - News Feed" href="{site_url}/site/rss_news/" />
+<link rel="alternate" type="application/rss+xml" title="Faculty of Engineering - Events Feed" href="{site_url}/site/rss_events/" />-->
+<link rel="alternate" type="application/rss+xml" title="Faculty of Engineering - News" href="http://feeds2.feedburner.com/UOGenieLatestNews" />
+<link rel="alternate" type="application/rss+xml" title="Faculty of Engineering - News" href="http://feeds.feedburner.com/UOGenieLatestNewsEn" />
+<link rel="alternate" type="application/rss+xml" title="Faculty of Engineering - Events" href="http://feeds2.feedburner.com/UOGenieUpcomingEvents" />
+{/if}
+<!-- jQuery Google API -->
+<!-- jQuery locals -->
+<script type="text/javascript" src="http://www.uottawa.ca/assets-toplevel/layouts/2.0/js/jquery-1.2.6.min.js"></script>
+<script type="text/javascript" src="/assets/js/jquery-ui-personalized-1.5.3.min.js"></script>
+<script type="text/javascript" src="/assets/js/jquery.swfobject.js"></script>
+<script type="text/javascript" src="/assets/js/facelift-1.2/flir.js"></script>
+<script type="text/javascript" src="/assets/js/jquery.lightbox.js"></script>
+<script type="text/javascript" src="/assets/js/jquery.listen-min.js"></script>
+<script type="text/javascript" src="/assets/js/searchlabel.js"></script>
+
+<!-- nav -->
+<script type="text/javascript">
+		
+		var $j = jQuery.noConflict();	//no conflict insert - attempt to work with ccs lib.js
+					
+				$j().ready(function(){	 //c1open
+					// applying the settings
+					// Left Nav
+					$j('#left-nav').accordion(
+						
+						{  //c2open
+						header: '.head',
+					    active: false, 
+					    alwaysOpen: false,
+					    navigation: true, 
+					    fillSpace: false, 
+						autoHeight: false,
+					    animated: false
+					}); //c2close
+			});
+		
+		</script>
+      
+<!-- directory -->
+<script type="text/javascript"> 
+		jQuery.noConflict();
+			jQuery(document).ready(function($){	 //c1open
+				// applying the settings
+				// Left Nav
+				$('#directory-acc').accordion(
+					
+					{  //c2open
+					header: '.head',
+				    active: false, 
+				    alwaysOpen: false,
+				    navigation: true, 
+				    fillSpace: false, 
+					autoHeight: false,
+				    animated: false
+				});
+				
+			});
+		
+
+		</script>
+<!-- lightbox -->
+<script type="text/javascript">
+		
+	jQuery.noConflict();
+		jQuery(document).ready(function($) {
+        $('#gallery a').lightBox();
+    });	
+
+		</script>
+<!-- wufoo addon -->
+<STYLE type="text/css">
+#visitform {
+	width: 755px;
+	height: 1780px;
+	margin-left: 25px;
+}
+/*body{margin-bottom:-17px;} */
+iframe {
+	/*height:90%;*/
+	width:100%;
+	border:none;
+}
+
+
+
+
+
+
+</style>
+
+<!--slider-->
+<script type="text/javascript" src="/assets/js/jquery-1.3.1.min.js"></script>
+<script type="text/javascript">
+
+$(document).ready(function() {		
+	
+	//Execute the slideShow, set 6 seconds for each images
+	slideShow(6000);
+
+});
+
+function slideShow(speed) {
+
+
+	//append a LI item to the UL list for displaying caption
+	$('ul.slideshow').append('<li id="slideshow-caption" class="caption"><div class="slideshow-caption-container"><h1></h1><p></p></div></li>');
+
+	//Set the opacity of all images to 0
+	$('ul.slideshow li').css({opacity: 0.0});
+	
+	//Get the first image and display it (set it to full opacity)
+	$('ul.slideshow li:first').css({opacity: 1.0});
+	
+	
+	//Get the caption of the first image from REL attribute and display it
+	$('#slideshow-caption h1').html($('ul.slideshow a:first').find('img').attr('title'));
+	$('#slideshow-caption p').html($('ul.slideshow a:first').find('img').attr('alt'));
+		
+	//Display the caption
+	$('#slideshow-caption').css({opacity: 1, bottom:0});
+	
+	//Call the gallery function to run the slideshow	
+	var timer = setInterval('gallery()',speed);
+	
+	//pause the slideshow on mouse over
+	$('ul.slideshow').hover(
+		function () {
+			clearInterval(timer);	
+		}, 	
+		function () {
+			timer = setInterval('gallery()',speed);			
+		}
+	);
+	
+}
+
+function gallery() {
+
+
+	//if no IMGs have the show class, grab the first image
+	var current = ($('ul.slideshow li.show')?  $('ul.slideshow li.show') : $('#ul.slideshow li:first'));
+
+	//Get next image, if it reached the end of the slideshow, rotate it back to the first image
+	var next = ((current.next().length) ? ((current.next().attr('id') == 'slideshow-caption')? $('ul.slideshow li:first') :current.next()) : $('ul.slideshow li:first'));
+		
+	//Get next image caption
+	var title = next.find('img').attr('title');	
+	var desc = next.find('img').attr('alt');	
+
+	//Set the fade in effect for the next image, show class has higher z-index
+	next.css({opacity: 0.0}).addClass('show').animate({opacity: 1.0}, 1000);
+	
+	//Hide the caption first, and then set and display the caption
+	$('#slideshow-caption').slideToggle(300, function () { 
+		$('#slideshow-caption h1').html(title); 
+		$('#slideshow-caption p').html(desc); 
+		$('#slideshow-caption').slideToggle(500); 
+	});		
+
+	//Hide the current image
+	current.animate({opacity: 0.0}, 1000).removeClass('show');
+
+}
+</script>
+  <script type="text/javascript">
+  var quickPicks={init:function(){$("#secondarynav-more > h2").click(function(e){$("#quickpick").siblings('h2').toggleClass('active');$("#quickpick").slideToggle("fast");});$('html').click(function(e){if($(e.target).parent().attr("id")=="secondarynav-more")return;if($("#quickpick").css('display')!='none'){$("#quickpick").siblings('h2').toggleClass('active');$("#quickpick").slideToggle("fast");}});}};$(document).ready(function(){quickPicks.init();});;
+  </script>
+<STYLE type="text/css">
+
+ul#left-menu selected a.selected{
+color:red;
+}
+
+
+ul#left-menu { 
+	background-repeat: repeat-y;
+	height: 1%; /* IE hack  - Holy Hack*/
+	 }
+
+ul#left-menu, ul#left-menu * {
+padding: 0;
+margin: 0;
+list-style: none;
+
+}
+
+
+
+ul#left-menu a {
+	display: block;
+	border-bottom: 1px solid #ccc;
+	padding: 0.6em 20px 0.6em 10px;
+	text-decoration: none;
+	/*font-weight: bold;*/
+}
+
+ul#left-menu a, ul#left-menu a:visited {
+	color :#777;
+        font-size: 129%;
+}
+
+
+
+ul#left-menu a:focus {
+	text-decoration: underline;
+	color:red;
+}
+
+ul#left-menu li ul a {
+	border-bottom: none;
+}
+ul#left-menu li ul {
+	padding: 0.5em 0;
+        display:none;
+}
+
+ul#left-menu > li {
+	background:none;
+}
+ul#left-menu li.expand {
+	border-bottom: 1px solid #ccc;
+}
+
+ul#left-menu li ul a {
+	margin: 0;
+	font-weight: normal;
+	padding-top: 0.5em;
+	padding-bottom: 0.5em;
+	border: none;
+}
+ul#left-menu li ul >li {
+background:none;
+}
+ul#left-menu li.new-group {
+	padding-top: 1px;
+}
+
+ul#left-menu li.new-group a {
+	padding-left:10px;
+	background: #fafafa;
+}
+
+ul#left-menu li.new-group ul li a {
+	border: none;
+}
+#left-menu-div ul li:hover  {
+background-color: #DDDDDD !important;
+}
+#left-menu-div ul li:hover a {
+color: #741026 !important; 
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#signature{
+height:25px;
+width:100%;
+text-align:center;
+font-size:8px;
+color:#EEEEEE;
+font-style:oblique;
+margin-top:25px;
+}
+
+#site-id{
+border-bottom:0.5px solid black !important;
+}
+#section-container{
+background:none !important;
+border:none;
+}
+#slider_content{
+width: 709px;
+height: 230px;
+background: #333;
+position:relative;
+/*margin-top: -19px;*/
+
+}
+.slideshow{
+margin: 0px 0px 10px 0px;
+width: 709px;
+height: 230px;
+
+}
+ul.slideshow {
+	list-style:none;
+	width:709px;
+	height:230px;
+	padding:0;
+position: relative;
+	
+}	
+
+ul.slideshow li {
+	position:absolute;
+	left:0;
+	right:0;
+        bottom:-5px;
+	padding-left: 0px;
+}
+
+ul.slideshow li.show {
+	z-index:500;	
+}
+
+ul img {
+	border:none;	
+}
+
+
+#slideshow-caption {
+	width:709px;
+	height:50px;
+	position:absolute;
+	bottom:-5px;
+	left:0;	
+	color:#fff;
+	background:url("/images/trans.png");
+	z-index:500;
+}
+
+#slideshow-caption .slideshow-caption-container {
+		padding:5px 10px;	
+	z-index:1000;
+}
+
+#slideshow-caption h1 {
+font-size:17px;
+	margin:0 !important;
+	padding:0 !important;	
+	color:white !important;
+
+}
+
+#slideshow-caption p {
+	margin:5px 0 0 0;
+	padding:0;
+	color:#FFF;
+}
+#slideshow-caption a {
+background: url("/images/more.png") no-repeat left;
+    color: white;
+    float:right;
+    font-weight: bold;
+    padding-left: 15px;
+    text-decoration: none;
+	display:inline;
+	
+}
+#middle-body{
+float:right;
+margin-right:10px;
+position:relative;
+height:auto;
+width:709px;
+/*background-color:#AAAAAA;
+background-color: #879FD1;
+min-height: 100px;*/
+}
+
+#sub-banner-nav-menu,
+#sub-banner-nav-menu ul {
+	
+     
+      
+
+}
+#sub-banner-nav-menu {
+    float: left;
+    border: none;
+   width:960px;
+    line-height:2.5;
+
+  margin-top:1px;
+
+
+
+
+  
+}
+
+
+
+#sub-banner-nav-menu > li {
+float: left;
+background:none;
+
+padding-left:0.8%;
+padding-right: 0.8%;
+
+width:auto;
+
+}
+#sub-banner-nav-menu  ul li {
+width:auto;
+
+
+}
+
+#sub-banner-nav-menu  li > a{
+text-align:center;
+padding: 0 8px;
+
+}
+
+#sub-banner-nav-menu > li ul{
+
+
+
+}
+
+#sub-banner-nav-menu > li ul >li{
+
+background:none;
+
+
+}
+
+
+#sub-banner-nav-menu li a {
+display: block;
+    height: 2em;
+    line-height: 2em;  
+}
+
+#sub-banner-nav-menu ul {
+    position: absolute;
+    display: none;
+z-index: 999;
+
+
+}
+#sub-banner-nav-menu ul li a {
+  
+ text-decoration: none;
+ text-align:left;
+
+
+
+}
+
+
+#sub-banner-nav-menu li:hover ul {
+    display: block;
+}
+#sub-banner-nav-menu li:hover {
+ background: #454545;
+
+}
+	
+#sub-banner-nav-menu {
+    font-family: Arial;
+    font-size: 13px;
+     background: #666;  
+    
+}
+#sub-banner-nav-menu > li > a {
+    color: #fff;
+    font-weight: bold;
+text-decoration: none;
+
+}
+
+ 
+/* Submenu
+------------------------------------------*/
+#sub-banner-nav-menu ul {
+    background: #555;
+}
+#sub-banner-nav-menu ul li a {
+    color: #FFFFFF;
+    padding-right:20px;
+font-size:13px;
+
+
+ }
+#sub-banner-nav-menu ul li:hover {
+    background: #FF8800;
+}
+#sidebar-left
+{
+/*margin-top: -19px;*/
+margin-right:10px;
+margin-left:-10px;
+}
+
+#page_title{
+position:relative;
+float:left;
+/*background-color: #bab3ad;*/
+width:100%;
+height:auto;
+/*border: 1px dashed #741026;*/
+margin-top:15px;
+margin-bottom:5px;
+
+
+}
+
+
+#page_title h3{
+color:#CCCCCC;
+font-size:4.5em;
+height:0.5px;
+}
+
+
+#quadrant{
+
+width: 105%;
+float:left; 
+position:relative; 
+height:auto;
+margin-top:0px;
+margin-bottom:5px;
+padding: 10px 0px 10px 0px;
+/*border: 1px dashed #741026;*/
+
+}
+
+#learn_about_list{
+padding: 0px 0px 10px 0px;
+/*padding: 10px 4px 10px 4px;*/
+margin-right: 9.5px;
+width: 230px;
+height:auto;
+/*border: 1px dashed #741026;
+background-color: #695d54;*/
+float:left;
+}
+#learn_about_list  ul{
+margin-bottom:0.5em;
+
+}
+#learn_about_list h4{
+padding:10px 5px;
+color:white;
+background-color: #666;
+line-height: 15px !important;
+margin-bottom: 0.5em;
+}
+#learn_about_list h4:hover{
+background-color: #741026;
+}
+#learn_about_list li > a {
+
+color:black;
+text-decoration:none;
+padding-top:5px;
+}
+#learn_about_list li > a:hover {
+text-decoration: underline;
+color: #741026;
+}
+
+#classroom_list {
+margin-right: 9.5px;
+padding: 0px 0px 10px 0px;
+width: 230px;
+height:auto;
+/*border: 1px dashed #741026;
+background-color: #695d54;*/
+float:left;
+
+}
+#classroom_list ul{
+margin-bottom:0.5em;
+
+}
+#classroom_list h4{
+padding:10px 5px;
+color:white;
+background-color: #666;
+line-height: 15px !important;
+margin-bottom: 0.5em;
+}
+#classroom_list h4:hover{
+background-color: #741026;
+}
+#classroom_list li > a {
+
+color:black;
+text-decoration:none;
+padding-top:5px;
+}
+#classroom_list  li > a:hover {
+text-decoration: underline;
+color: #741026;
+}
+#apply_list {
+
+padding: 0px 0px 10px 0px;
+width: 230px;
+height:auto;
+/*border: 1px dashed #741026;
+background-color: #695d54;*/
+float:left;
+
+}
+#apply_list ul{
+margin-bottom:0.5em;
+
+}
+#apply_list h4{
+
+padding:10px 5px;
+
+color:white;
+background-color: #666;
+line-height: 15px !important;
+margin-bottom: 0.5em;
+}
+#apply_list h4:hover{
+background-color: #741026;
+}
+#apply_list li > a {
+color:black;
+text-decoration:none;
+padding-top:5px;
+}
+#apply_list  li > a:hover {
+text-decoration: underline;
+color: #741026;
+}
+
+#services_list{
+margin-right: 9.5px;
+padding: 0px 0px 10px 0px;
+/*width: 44%;*/
+width: 230px;
+height:auto;
+/*border: 1px dashed #741026;
+background-color: #695d54;*/
+float:left;
+}
+#services_list  ul{
+margin-bottom:0.5em;
+
+}
+#services_list h4{
+padding:10px 5px;
+color:white;
+background-color: #666;
+line-height: 15px !important;
+margin-bottom: 0.5em;
+}
+#services_list h4:hover{
+background-color: #741026;
+}
+#services_list li > a {
+color:black;
+text-decoration:none;
+padding-top:5px;
+}
+#services_list  li > a:hover {
+text-decoration: underline;
+color: #741026;
+}
+
+#events_list {
+margin-right: 9.5px;
+padding: 0px 0px 10px 0px;
+width: 230px;
+height:auto;
+/*border: 1px dashed #741026;
+background-color: #695d54;*/
+float:left;
+}
+#events_list ul{
+margin-bottom:0.5em;
+
+}
+#events_list h4{
+
+padding:10px 5px;
+
+color:white;
+background-color: #666;
+line-height: 15px !important;
+margin-bottom: 0.5em;
+}
+#events_list h4:hover{
+background-color: #741026;
+}
+#events_list li > a {
+color:black;
+text-decoration:none;
+padding-top:5px;
+}
+#events_list  li > a:hover {
+text-decoration: underline;
+color: #741026;
+}
+
+#forms_list {
+
+padding: 0px 0px 10px 0px;
+width: 230px;
+height:auto;
+/*border: 1px dashed #741026;
+background-color: #695d54;*/
+float:left;
+
+}
+#forms_list ul{
+margin-bottom:0.5em;
+
+}
+#forms_list h4{
+
+padding:10px 5px;
+
+color:white;
+background-color:#666;
+line-height: 15px !important;
+margin-bottom: 0.5em;
+}
+#forms_list h4:hover{
+background-color: #741026;
+}
+#forms_list li > a {
+color:black;
+text-decoration:none;
+padding-top:5px;
+}
+#forms_list  li > a:hover {
+text-decoration: underline;
+color: #741026;
+}
+
+
+
+
+
+
+
+.panel_picture {
+margin-top:-7.5px;
+background:none;
+margin-left:-20px;
+width:230px; /* these are back up width and height, the main ones are styled into the image file itself in the html code (see apply_section for example)*/
+height:70px;
+padding-bottom: 10px;
+}
+.panel_title_link{
+color:white;
+text-decoration:none !important;
+
+}
+
+
+
+
+
+
+
+
+#left-nav {
+	float:left;
+margin-top:-19px;
+
+width: 230px;
+
+}
+#site-search {
+height:55px;
+/*background-color: #695d54 !important;*/
+background-color: #666 !important;
+}
+
+
+#sidebar-left #site-search #site-search-label {
+  display: block;
+  left: 20px;
+  top: 17px;
+  width: 190px;
+
+ 
+}
+#sidebar-left #site-search #site-search-label.empty {
+ display: none;
+}
+#leftCol a {
+margin:0px;
+padding:0px;
+}
+#leftCol a img{
+margin:0px ;
+
+padding:0px ;
+border:none;
+}
+
+
+
+
+#social-buttons a{
+padding-left: 7px;
+padding-right: 7px;
+}
+#fbLogo img{
+padding-left:10px;}
+
+</style>
+
+
+ {embed="includes/google_analytics"}
+
+
+
+
+</head>
+ <body {if country_code !="fr"}  lang="en" class="en theme-01 dark"{if:else} lang="fr" class="fr theme-01 dark"{/if}>
+<div id="main-container">
+ 
+<ul id="page-links">
+  <li><a id="skip-to-content" href="#main-content"></a></li>
+
+  <li>
+    <!-- language switcher -->
+<?php
+	function switchLanguage($lang) {
+		if ($lang =="fr") 
+		{
+		$u = explode('/', $_SERVER['REQUEST_URI']);
+			 if(!($u[1]=="en")){ 
+				$u=explode('/', "/en".$_SERVER['REQUEST_URI']);
+				} 
+		$u[1] = $lang;  
+		return implode('/', $u); 	
+				
+		}
+		else{
+			$u = explode('/', $_SERVER['REQUEST_URI']);
+			$u[1] = $lang;
+			return implode('/', $u);
+			}
+	}
+?>
+    {if country_code != "en"} <a id="ch-lang-url" href="<?php echo switchLanguage('en'); ?>" title="English">English</a> {if:else} <a id="ch-lang-url" href="<?php echo switchLanguage('fr'); ?>" title="Franais">Fran&ccedil;ais </a> {/if} </li>
+</ul>{if country_code !="fr"} <?php echo file_get_contents('http://web5.uottawa.ca/assets-templates/3/inc/banner-en.html'); ?> {if:else} <?php echo file_get_contents('http://web5.uottawa.ca/assets-templates/3/inc/banner-fr.html'); ?> {/if}
+<!-- Emergency Banner  -->
+{if country_code !="fr"}
+<script type="text/javascript" src="http://web5.uottawa.ca/emergency/banner/banner-en.js" charset="utf-8"></script>
+{if:else}
+<script type="text/javascript" src="http://web5.uottawa.ca/emergency/banner/banner-fr.js" charset="utf-8"></script>
+
+{/if}
+
+<!-- /header include -->
+<div id="section-container">
+<div id="wrapper" class="container">
+<div id="section-header">
+
+
+{if country_code !="fr"}
+                 <div id="site-id"   onclick="location.href='http://www.engineering.uottawa.ca/en/main_2012/';" style="cursor:pointer; background-image: url(http://www.engineering.uottawa.ca/images/uploads/banner_final_2012.png); width:960px">
+                               <h1>Faculty of Engineering</h1>
+							   </div>
+ {if:else}
+                                <div id="site-id"  onclick="location.href='http://www.engineering.uottawa.ca/fr/main_2012/';" style="cursor:pointer; background-image: url(http://www.engineering.uottawa.ca/images/uploads/banner_final_2012_fr.png); width:960px">
+                               <h1>Faculté de Génie</h1>
+							   </div>
+                                         {/if} 
+
+
+
+
+
+
+  <!-- #section-top -->
+<div id="section-top" style="height: 37px; width:960px; margin-left:0;">
+
+
+{if country_code !="fr"}
+                                {embed="cyberstyle/sub-banner-menu-en"}
+                                     {if:else}
+                                  {embed="cyberstyle/sub-banner-menu-fr"}
+                                         {/if} 
+
+</div>
+<!-- /#section-top -->
+  
+  
+  
+</div>
+
+
+
+
+
+
+
+<!-- /#section-header -->
+
+<?php /*?><?php */?>
+
+
+<!-- #sidebar-left-->
+<div id="sidebar-left" style="float:left" > {if country_code !="fr"}
+{embed="cyberstyle/left-navigation-en"}
+  {if:else}
+{embed="cyberstyle/left-navigation-fr"}
+  {/if} <!-- /#sidebar-left-->
+</div>
+
+<div id="middle-body">
+<!-- this is where custom text will be pulledfrom pages.-->
+
+{embed="cyberstyle/content"}
+
+
+
+
+
+
+
+
+
+
+</div> <!-- end of middle-body-->
+
+
+</div>
+</div>
+
+</div>
+
+<div class="clearHack" style= "float:left;width:100%;height:25px">&nbsp;</div>
+ 
+ 
+
+<p id= "signature"> Created By: Charles Malo</p>
+</body>
+
+
+
+
+</html>

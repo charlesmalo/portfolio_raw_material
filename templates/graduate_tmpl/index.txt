@@ -1,0 +1,117 @@
+{embed="960/head" title="
+
+	{if country_code != "en"}
+		Études supérieures
+	{if:else}
+		Graduate Studies
+	{/if}
+"
+}
+
+
+
+<div id="main-content" class="span-18">
+	
+	<h1 class="genie-subsection-title">{if country_code !="en"}Études supérieures à la Faculté de génie{if:else}Graduate Studies at the Faculty of Engineering{/if}</h1>
+	
+
+
+
+  <div class="span-12 section ">
+    <h2 class="title">{if country_code !="en"}Génie chimique et biologique{if:else}Chemical and Biological Engineering{/if}</h2>
+    <ul>
+{exp:weblog:entries weblog="graduate" status="chg" sort="asc" dynamic="off"}
+				<li>
+					{if en_page_link == ""}
+					<a href="{title_permalink="graduate/view"} ">
+					{if country_code != "en"}{{country_code}_page_title}{if:else}{title}{/if}</a>
+					{if:else}
+					<a href="{{country_code}_page_link}">
+					{if country_code != "en"}{{country_code}_page_title}{if:else}{title}{/if}</a>
+					{/if}
+					</li>
+				{/exp:weblog:entries}
+                
+    </ul>
+  </div>
+
+  <div class="span-12 section ">
+    <h2 class="title">{if country_code !="en"}Génie civil{if:else}Civil Engineering{/if}</h2>
+    <ul>
+	{exp:weblog:entries weblog="graduate" status="cvg" sort="asc" dynamic="off"}
+				<li>
+					{if en_page_link == ""}
+					<a href="{title_permalink="graduate/view"} ">
+					{if country_code != "en"}{{country_code}_page_title}{if:else}{title}{/if}</a>
+					{if:else}
+					<a href="{{country_code}_page_link}">
+					{if country_code != "en"}{{country_code}_page_title}{if:else}{title}{/if}</a>
+					{/if}
+					</li>
+				{/exp:weblog:entries}
+                
+    </ul>
+  </div>
+
+ <div class="span-12 section ">
+    <h2 class="title">{if country_code !="en"}Génie mécanique{if:else}Mechanical Engineering{/if}</h2>
+    <ul>
+		{exp:weblog:entries weblog="graduate" status="mcg" sort="asc" dynamic="off"}
+				<li>
+					{if en_page_link == ""}
+					<a href="{title_permalink="graduate/view"} ">
+					{if country_code != "en"}{{country_code}_page_title}{if:else}{title}{/if}</a>
+					{if:else}
+					<a href="{{country_code}_page_link}">
+					{if country_code != "en"}{{country_code}_page_title}{if:else}{title}{/if}</a>
+					{/if}
+					  </li>
+				{/exp:weblog:entries}
+              
+    </ul>
+  </div>
+
+		 <div class="span-12 section ">
+    <h2 class="title">{if country_code !="en"}École d'ingénierie et de technologie de l'information{if:else}School of Information Technology and Engineering{/if}</h2>
+    <ul>
+			{exp:weblog:entries weblog="graduate" status="site" sort="asc" dynamic="off"}
+				<li>
+					{if en_page_link == ""}
+					<a href="{title_permalink="graduate/view"} ">
+					{if country_code != "en"}{{country_code}_page_title}{if:else}{title}{/if}</a>
+					{if:else}
+					<a href="{{country_code}_page_link}">
+					{if country_code != "en"}{{country_code}_page_title}{if:else}{title}{/if}</a>
+					{/if}
+					</li>
+				{/exp:weblog:entries}
+    </ul>
+  </div>
+<div class="span-12 section ">
+    <h2 class="title">{if country_code !="en"}Études interdisciplinaires{if:else}Interdisciplinary programs{/if}</h2>
+    <ul>
+     {exp:weblog:entries weblog="graduate" status="interdisc" sort="asc" dynamic="off"}
+				<li>
+					{if en_page_link == ""}
+					<a href="{title_permalink="graduate/view"} ">
+					{if country_code != "en"}{{country_code}_page_title}{if:else}{title}{/if}</a>
+					{if:else}
+					<a href="{{country_code}_page_link}">
+					{if country_code != "en"}{{country_code}_page_title}{if:else}{title}{/if}</a>
+					{/if}
+					</li>
+				{/exp:weblog:entries}
+                
+    </ul>
+  </div>
+
+
+</div>
+{if country_code !="fr"} <?php echo file_get_contents("http://web5.uottawa.ca/assets-templates/inc/footer-en.html"); ?> {if:else} <?php echo file_get_contents("http://web5.uottawa.ca/assets-templates/inc/footer-fr.html"); ?> {/if}
+</div>
+</div>
+<div id="section-closure"></div>
+</div>
+<!-- /#main-container -->
+<?php include("../assets/inc/body-bottom.html"); ?>
+</body></html>

@@ -1,0 +1,29 @@
+<div id="further_info_list"> 
+
+
+<a  class="panel_title_link" href="http://www.engineering.uottawa.ca/en/S=c54abedb3b0dbb4883e3d61ab25f6eb4a319c534/search/">
+
+<h4 style= "line-height:0.5em"><b> Plus d'information</b> </h4>
+</a>
+<!-- To change the section title,  simply change the word between <b> ... </b>  above-->
+<ul>	<!-- do not delete this tag-->
+
+
+		  
+<li><a href="http://www.international.uottawa.ca/fr/etudiants/current.html" class="readmore">Étudiants étrangers</a></li>
+<li><a href="http://www.registraire.uottawa.ca/Default.aspx?tabid=3948" class="readmore">Guide pour nouveaux étudiants</a></li>            
+<li><a href="http://www.engineering.uottawa.ca/fr/undergraduate/view/2012_2013_registration_for_newly_admitted_students/" class="readmore">Inscription pour nouveaux admis</a></li>
+<li><a href="http://www.engineering.uottawa.ca/fr//undergraduate/bridgeprogram" class="readmore">Programme de passerelle avec le Collège Algonquin et La Cité collégiale</a></li>						
+
+
+
+	
+</ul>			
+
+
+
+
+
+
+
+</div>

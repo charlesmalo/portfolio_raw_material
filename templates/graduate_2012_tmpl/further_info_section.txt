@@ -1,0 +1,30 @@
+<div id="further_info_list"> 
+
+
+<a  class="panel_title_link" href="#">
+
+<h4 style= "line-height:0.5em"><b> Further Information For </b> </h4>
+</a>
+<!-- To change the section title,  simply change the word between <b> ... </b>  above-->
+<ul>	<!-- do not delete this tag-->
+
+
+
+		  
+<li><a href="http://www.grad.uottawa.ca/Default.aspx?tabid=3783" class="readmore">For International Students</a></li>
+<li><a href="http://www.grad.uottawa.ca/Default.aspx?tabid=1470" class="readmore">Apply for a Teaching assistant or Research assistant position</a></li>            
+<li><a href="http://www.grad.uottawa.ca/Default.aspx?tabid=1458" class="readmore">About Scholarships and financial support</a></li>
+	
+	
+
+
+	
+</ul>			
+
+
+
+
+
+
+
+</div>

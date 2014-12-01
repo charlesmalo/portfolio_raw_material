@@ -1,0 +1,42 @@
+<div id="apply_list"> 
+
+<a  class="panel_title_link" href="http://www.engineering.uottawa.ca/fr/future_students/">
+<h4 style= "line-height:0.5em"><b>Étudiants futurs</b> </h4>
+</a>
+<!-- ^^TO CHANGE THE SECTION LABEL, CHANGE THE TEXT THAT IS BETWEEN <b> and </b> ABOVE ^^ -->
+
+
+
+
+<!-- 
+just below this is a layout example of how to add items
+<ul>
+<li><a href= "http://www.sample.example.uottawa.ca/"  class="readmore">   THIS IS WHERE YOUR TEXT OR LABEL GOES.</a> </li>
+<li><a href= "THIS IS WHERE YOU PUT A COMPLETE URL LINK IN THE DOUBLE QUOTATIONS"  class="readmore">   THIS IS WHERE YOUR TEXT OR LABEL GOES.</a> </li>
+<li><a href= "THIS IS WHERE YOU PUT A COMPLETE URL LINK IN THE DOUBLE QUOTATIONS"  class="readmore">   THIS IS WHERE YOUR TEXT OR LABEL GOES.</a> </li>
+<li  id = "panel_picture"><a href="#" class="readmore"><img src="http://www.engineering.uottawa.ca/images/uploads/grad_logo_en.png" alt="Link to uoCalendar" width="230" height="50"></a></li>
+<li  class = "panel_picture"><a href="#" class="readmore"><img src="http://www.engineering.uottawa.ca/images/uploads/grad_logo_en.png" alt="Link to uoCalendar" ></a></li>
+</ul>
+ end of example
+-->
+
+
+<ul>	<!-- do not delete this tag-->
+
+	<!-- actual "list" of items added below -->	  
+<li  class = "panel_picture"><a href="http://www.engineering.uottawa.ca/fr/future_students/" class="readmore"><img src="http://www.engineering.uottawa.ca/images/uploads/apply_panel.png" alt="apply panel pic" style="width:231px; height:70px" ></a></li>
+<li><a href="http://www.engineering.uottawa.ca/fr/future_students/" class="readmore">Demandez l'admission à la faculté</a></li>    
+<li><a href="http://www.admission.uottawa.ca/Default.aspx?tabid=2540" class="readmore">Premier cycle</a></li>       
+<li><a href="http://www.etudesup.uottawa.ca/Default.aspx?tabid=1657" class="readmore">Études supérieures</a></li>            
+<li><a href="http://www.admission.uottawa.ca/Default.aspx?tabid=2588" class="readmore">International</a></li>
+<li><a href="http://www.admission.uottawa.ca/Default.aspx?tabid=3449" class="readmore">Conditions d'admission au premier cycle</a></li>
+<li><a href="http://www.etudesup.uottawa.ca/Default.aspx?tabid=2000" class="readmore">Conditions d'admission aux études supérieures</a></li>
+					
+		
+						
+
+
+
+	
+</ul>			
+</div>

@@ -1,0 +1,43 @@
+<div id="apply_list"> 
+
+<a  class="panel_title_link" href="http://www.engineering.uottawa.ca/en/future_students/">
+<h4 style= "line-height:0.5em"><b>Future Students</b> </h4>
+</a>
+
+<!-- ^^TO CHANGE THE SECTION LABEL, CHANGE THE TEXT THAT IS BETWEEN <b> and </b> ABOVE ^^ -->
+
+
+
+
+<!-- 
+just below this is a layout example of how to add items
+<ul>
+<li  class = "panel_picture"><a href="#" class="readmore"><img src="http://www.engineering.uottawa.ca/images/uploads/grad_logo_en.png" alt="Link to uoCalendar" width="230" height="50"></a></li>
+
+<li><a href= "http://www.sample.example.uottawa.ca/"  class="readmore">   THIS IS WHERE YOUR TEXT OR LABEL GOES.</a> </li>
+<li><a href= "THIS IS WHERE YOU PUT A COMPLETE URL LINK IN THE DOUBLE QUOTATIONS"  class="readmore">   THIS IS WHERE YOUR TEXT OR LABEL GOES.</a> </li>
+<li><a href= "THIS IS WHERE YOU PUT A COMPLETE URL LINK IN THE DOUBLE QUOTATIONS"  class="readmore">   THIS IS WHERE YOUR TEXT OR LABEL GOES.</a> </li>
+<li><a href= "THIS IS WHERE YOU PUT A COMPLETE URL LINK IN THE DOUBLE QUOTATIONS"  class="readmore">   THIS IS WHERE YOUR TEXT OR LABEL GOES.</a> </li>
+</ul>
+ end of example
+-->
+
+
+<ul>	<!-- do not delete this tag-->
+
+	<!-- actual "list" of items added below -->	  
+
+<li  class = "panel_picture"><a href="http://www.engineering.uottawa.ca/en/future_students/" class="readmore"><img src="http://www.engineering.uottawa.ca/images/uploads/apply_panel.png" alt="apply panel pic" style="width:231px; height:70px" ></a></li>
+<li><a href="http://www.engineering.uottawa.ca/en/future_students/" class="readmore">Apply to the Faculty</a></li>
+<li><a href="http://www.admission.uottawa.ca/Default.aspx?tabid=2539" class="readmore">Undergraduate</a></li>
+<li><a href="http://www.grad.uottawa.ca/Default.aspx?tabid=1624" class="readmore">Graduate</a></li>            
+<li><a href="http://www.admission.uottawa.ca/Default.aspx?tabid=2587" class="readmore">International</a></li>
+<li><a href="http://www.admission.uottawa.ca/Default.aspx?tabid=3384" class="readmore">Undergraduate admission requirements</a></li>
+<li><a href="http://www.grad.uottawa.ca/Default.aspx?tabid=2001" class="readmore">Graduate admission requirements</a></li>
+						
+
+
+
+	
+</ul>			
+</div>

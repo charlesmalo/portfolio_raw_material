@@ -1,0 +1,21 @@
+<?php include("../assets/inc/head-logos.php"); ?>
+	
+<div id="main-content" class="span-18">
+{exp:weblog:entries weblog="site_pages|computing_facilities|academic_success|entrepreneurship_innovation" limit="1" disable="comments|trackbacks"}
+<h1 class="pageTitle">{if country_code != "en"}{{country_code}_page_title}
+	{if:else}{title}
+	{/if}
+</h1>
+{if country_code !="en"}{if fr_page_copy == ""}Cette page sera bientôt disponible en français<br />{en_page_copy}{/if}{/if}
+{{country_code}_page_copy}
+{/exp:weblog:entries}
+</div>
+
+{if country_code !="fr"} <?php echo file_get_contents("http://web5.uottawa.ca/assets-templates/inc/footer-en.html"); ?> {if:else} <?php echo file_get_contents("http://web5.uottawa.ca/assets-templates/inc/footer-fr.html"); ?> {/if}
+</div>
+</div>
+<div id="section-closure"></div>
+</div>
+<!-- /#main-container -->
+<?php include("../assets/inc/body-bottom.html"); ?>
+</body></html>

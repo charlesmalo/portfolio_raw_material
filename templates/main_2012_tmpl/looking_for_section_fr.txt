@@ -1,0 +1,30 @@
+<div id="looking_for_list"> 
+
+
+<a  class="panel_title_link" href="http://www.engineering.uottawa.ca/fr/search/">
+
+<h4 style= "line-height:0.5em"><b> Vous recherchez quoi? </b> </h4>
+</a>
+<!-- To change the section title,  simply change the word between <b> ... </b>  above-->
+<ul>	<!-- do not delete this tag-->
+
+
+
+
+<li><a href="http://www.engineering.uottawa.ca/fr/entrepreneurship/prizes" class="readmore">Concours étudiants des Prix en entrepreneuriat et innovation (PEI)</a></li>		
+<li><a href="http://www.engineering.uottawa.ca/fr/engineering_events_uocal" class="readmore">Évènements à venir</a></li>		     
+<li><a href="http://www.engineering.uottawa.ca/fr/computing_facilities/about_ecf/" class="readmore">Services Informatiques</a></li>
+<li><a href="http://www.engineering.uottawa.ca/fr/computing_facilities/about_ecf/" class="readmore">Heures des laboratoires</a></li>						
+<li><a href="http://www.engineering.uottawa.ca/fr/health_and_safety/" class="readmore">Formulaires Santé & Sécurité</a></li>			
+<li><a href="http://www.engineering.uottawa.ca/fr/undergraduate/programs/" class="readmore">Séquences de cours</a></li>						
+
+<li><a href="http://www.sass.uottawa.ca/carrieres/" class="readmore">Services des carrières</a></li>	
+<li><a href="http://www.admission.uottawa.ca/Default.aspx?tabid=3207" class="readmore">Vous voulez étudier en génie ou informatique? Venez nous voir!</a></li>	
+	
+</ul>			
+
+
+
+
+
+</div>

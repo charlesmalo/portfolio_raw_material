@@ -1,0 +1,26 @@
+<div id="slider">
+  <ul class="navigation">
+    <li><a href="#sites">Sites</a></li>
+    <li><a href="#files">Files</a></li>
+    <li><a href="#editor">Editor</a></li>
+    <li><a href="#preview">Preview</a></li>
+    <li><a href="#css">CSS</a></li>
+    <li><a href="#terminal">Terminal</a></li>
+    <li><a href="#books">Books</a></li>
+  </ul>
+
+  <!-- element with overflow applied -->
+  <div class="scroll">
+    <!-- the element that will be scrolled during the effect -->
+    <div class="scrollContainer">
+      <!-- our individual panels -->
+      <div class="panel" id="sites"> ... </div>
+      <div class="panel" id="files"> ... </div>
+      <div class="panel" id="editor"> ... </div>
+      <div class="panel" id="preview"> ... </div>
+      <div class="panel" id="css"> ... </div>
+      <div class="panel" id="terminal"> ... </div>
+      <div class="panel" id="books"> ... </div>
+    </div>
+  </div>
+</div>

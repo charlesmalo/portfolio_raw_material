@@ -1,0 +1,6 @@
+{embed="undergraduate/view-960/"}
+
+<!-- 
+content of this used to be the code inside back_up_old_view in this same group template. i redirected to view-960 because of expression engine causing issues with calling the right template... 
+Charles Malo Summer 2012
+-->

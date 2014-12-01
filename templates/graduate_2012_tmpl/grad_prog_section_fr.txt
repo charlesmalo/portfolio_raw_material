@@ -1,0 +1,40 @@
+<div id="grad_prog_list"> 
+
+
+<a  class="panel_title_link" href="http://www.engineering.uottawa.ca/fr/graduate/">
+
+<h4 style= "line-height:0.5em"><b>Programmes et Certificats d'études supérieures</b> </h4>
+</a>
+<!-- ^^TO CHANGE THE SECTION LABEL, CHANGE THE TEXT THAT IS BETWEEN <b> and </b> ABOVE ^^ -->
+
+<ul>	<!-- do not delete this tag-->
+
+		  
+<li><a href="http://www.engineering.uottawa.ca/en/graduate/view/chemical_and_biological_engineering/" class="readmore">Génie Chimique M.Sc.A./M.Ing./PhD</a></li>
+<li><a href="http://www.etudesup.uottawa.ca/Default.aspx?tabid=1726&monControl=Renseignements&ProgId=532" class="readmore">Génie civil M.Sc.A./M.Ing./PhD</a></li>                   
+<li><a href="http://www.engineering.uottawa.ca/fr/graduate/view/civil_engineering/  FRENCH  Génie civil et de l'environnement" class="readmore">Génie civil et de l'environnement M.Sc.A./M.Ing./PhD</a></li>
+<li><a href="http://www.grad.uottawa.ca/Default.aspx?tabid=1727&monControl=Programmes&ProgId=542" class="readmore">Génie Méchanique M.Sc.A./M.Ing./PhD</a></li>						
+<li><a href="http://www.etudesup.uottawa.ca/Default.aspx?tabid=1727&monControl=Programmes&ProgId=1147" class="readmore">Matériaux avancés et fabrication M.Sc.A. / M.Ing.</a></li>	
+<li><a href="http://www.etudesup.uottawa.ca/Default.aspx?tabid=1727&monControl=Programmes&ProgId=563" class="readmore">Génie électrique et génie informatique M.Sc.A. / M.Ing.</a></li>
+<li><a href="http://www.etudesup.uottawa.ca/Default.aspx?tabid=1727&monControl=Programmes&ProgId=561" class="readmore">Electrical and Computer Engineering M.Sc.A./M.Ing./PhD</a></li>            
+<li><a href="http://www.etudesup.uottawa.ca/Default.aspx?tabid=1726&monControl=Programmes&ProgId=534" class="readmore">Informatique M.I.</a></li>
+<li><a href="http://www.etudesup.uottawa.ca/Default.aspx?tabid=1726&monControl=Programmes&ProgId=591" class="readmore">Gestion en ingénierie M.Ing.</a></li>						
+<li><a href="http://www.etudesup.uottawa.ca/Default.aspx?tabid=1726&monControl=Programmes&ProgId=641" class="readmore">Technologies d'Internet (Certificat d'études supérieures)</a></li>	
+<li><a href="http://www.etudesup.uottawa.ca/Default.aspx?tabid=1726&monControl=Programmes&ProgId=658" class="readmore">Modélisation et animation en technologie des jeux vidéo (Certificat d'études supérieures)  </a></li>
+<li><a href="http://www.etudesup.uottawa.ca/Default.aspx?tabid=1727&monControl=Programmes&ProgId=636" class="readmore">Gestion de projets technologiques (Certificat d'études supérieures)</a></li>
+<li><a href="http://www.etudesup.uottawa.ca/Default.aspx?tabid=1726&monControl=Programmes&ProgId=1324" class="readmore">Applications pour appareils mobiles (Certificat d'études supérieures)</a></li>
+
+
+	
+
+
+	
+</ul>			
+
+
+
+
+
+
+
+</div>

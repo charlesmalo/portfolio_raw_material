@@ -1,0 +1,27 @@
+<div id="p_and_p_list"> 
+
+
+<a  class="panel_title_link" href="http://web5.uottawa.ca/admingov/reglements-methodes.html">
+
+<h4 style= "line-height:0.5em"><b> Règlements et Procédures </b> </h4>
+</a>
+<!-- To change the section title,  simply change the word between <b> ... </b>  above-->
+<ul>	<!-- do not delete this tag-->
+
+
+	  
+<li><a href="http://www.engineering.uottawa.ca/fr/undergraduate/view/exam_information/" class="readmore"> Examens finaux, de reprise, et différés</a></li>
+<li><a href="http://www.engineering.uottawa.ca/downloads/pdf/FacultyRegulationsFrench2008.pdf" class="readmore">Règlements Facultaires</a></li>            
+<li><a href="http://www.engineering.uottawa.ca/fr/undergraduate/view/regulations/" class="readmore">Code de déontologie des ingénieurs en ONTARIO (PEO)</a></li>
+<li><a href="http://www.engineering.uottawa.ca/fr/undergraduate/view/code_de_deontologie/" class="readmore">Code de déontologie des ingénieurs à QUEBEC (OIQ)</a></li>						
+
+	
+</ul>			
+
+
+
+
+
+
+
+</div>

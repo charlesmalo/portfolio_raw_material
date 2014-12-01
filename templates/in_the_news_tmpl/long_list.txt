@@ -1,0 +1,45 @@
+{embed="960/head" title="
+{exp:weblog:entries weblog="in_the_news" limit="1" status="open | story | top story | top featured story"}
+	{if country_code != "en"}
+		{{country_code}_title}
+	{if:else}
+		{title}
+	{/if}
+{/exp:weblog:entries}"
+}
+	
+tent"> 
+<div id="main-content" class="span-18">
+<div id="articles_list"> 
+	{exp:weblog:entries weblog="in_the_news" limit="4" status="open | story | Featured Story | top featured story" paginate="both"}       
+
+	
+<h1>{if country_code !="en"}{{country_code}_title}{if:else}{title}{/if}</h1>
+<h3 class="date">{if country_code !="en"}{entry_date format="%d %M %Y"}{if:else}{entry_date format="%F %d, %Y"}{/if}</h3> 
+						<p>{{country_code}_intro}</p>
+						<p><a href="{title_permalink="in_the_news/view"}" class="readmore">{if country_code !="en"}Lire la suite{if:else}Read More{/if}</a></p> 
+						{paginate}
+						<br />
+						{if country_code != "en"}
+						<p>Page {current_page} de {total_pages} pages {pagination_links}</p>
+						{if:else}
+						<p>Page {current_page} of {total_pages} pages {pagination_links}</p>
+						{/if}
+						{/paginate}
+					
+						
+	{/exp:weblog:entries}					
+
+</div><!-- END: #articles_list -->
+			
+	
+</div><!-- END:#main_content -->	
+
+{if country_code !="fr"} <?php echo file_get_contents("http://web5.uottawa.ca/assets-templates/inc/footer-en.html"); ?> {if:else} <?php echo file_get_contents("http://web5.uottawa.ca/assets-templates/inc/footer-fr.html"); ?> {/if}
+</div>
+</div>
+<div id="section-closure"></div>
+</div>
+<!-- /#main-container -->
+<?php include("../assets/inc/body-bottom.html"); ?>
+</body></html>

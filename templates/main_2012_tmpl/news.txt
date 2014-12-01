@@ -1,0 +1,28 @@
+<div id="articles_list"> 
+
+
+
+<h3 style= "line-height:0.5em"><b> Latest News </b> </h3>
+
+<ul>	
+{exp:weblog:entries weblog="news_articles" limit="3" status="open | story | Featured Story | top featured story" }       
+
+
+<li><a href="{title_permalink="news_articles/view"}" class="readmore">{if country_code !="en"}{{country_code}_title}{if:else}{title}{/if}</a></li>
+			  
+
+             
+<!-- 
+<li><ul><li>  Sample intro that should be about 1 line long! </li></ul></li>	
+-->
+<li><ul><li> {{country_code}_intro}     </li></ul></li>
+						
+			
+						
+	{/exp:weblog:entries}		
+</ul>
+
+
+
+
+</div><!-- END: #articles_list -->

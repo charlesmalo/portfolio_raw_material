@@ -1,0 +1,44 @@
+<div id="course_reg_list"> 
+
+
+<a  class="panel_title_link" href="http://www.registraire.uottawa.ca/Default.aspx?tabid=2768">
+
+<h4 style= "line-height:0.5em"><b>Enregistrement aux cours</b> </h4>
+</a>
+<!-- ^^TO CHANGE THE SECTION LABEL, CHANGE THE TEXT THAT IS BETWEEN <b> and </b> ABOVE ^^ -->
+
+<ul>	<!-- do not delete this tag-->
+
+
+<!-- 
+just below this is a layout example of how to add items
+
+<li><a href= "THIS IS WHERE YOU PUT A COMPLETE URL LINK IN THE DOUBLE QUOTATIONS"  class="readmore">   THIS IS WHERE YOUR TEXT OR LABEL GOES.</a> </li>
+<li><a href= "THIS IS WHERE YOU PUT A COMPLETE URL LINK IN THE DOUBLE QUOTATIONS"  class="readmore">   THIS IS WHERE YOUR TEXT OR LABEL GOES.</a> </li>
+<li><a href= "THIS IS WHERE YOU PUT A COMPLETE URL LINK IN THE DOUBLE QUOTATIONS"  class="readmore">   THIS IS WHERE YOUR TEXT OR LABEL GOES.</a> </li>
+<li><a href= "THIS IS WHERE YOU PUT A COMPLETE URL LINK IN THE DOUBLE QUOTATIONS"  class="readmore">   THIS IS WHERE YOUR TEXT OR LABEL GOES.</a> </li>
+ end of example-->
+
+
+<li  class = "panel_picture"><a href="http://www.registraire.uottawa.ca/Default.aspx?tabid=2768" class="readmore"><img src="http://www.engineering.uottawa.ca/images/uploads/register_panel.jpg" alt="register panel pic" width="230" height="70"></a></li>			  
+<li><a href="http://www.engineering.uottawa.ca/fr/undergraduate/programs" class="readmore">Programmes d'études et séquences de cours</a></li>
+<li><a href="https://web30.uottawa.ca/v3/SITS/timetable/Search.aspx" class="readmore">Horaires de cours</a></li>            
+<li><a href="http://www.engineering.uottawa.ca/fr/undergraduate/complementary_electives" class="readmore">Cours au choix</a></li>
+<li><a href="http://www.engineering.uottawa.ca/fr/undergraduate/engineering_electives" class="readmore">Cours de science au choix</a></li>					
+<li><a href="http://www.registraire.uottawa.ca/Default.aspx?tabid=2776" class="readmore">Tutoriel Rabaska</a></li>			
+<li><a href="http://www.registraire.uottawa.ca/Default.aspx?tabid=2614" class="readmore">Service du registraire</a></li>		
+<li><a href="http://www.engineering.uottawa.ca/fr/undergraduate/view/2012_2013_registration_for_newly_admitted_students/" class="readmore">Inscription pour nouveaux admis</a></li>		
+<li><a href="http://www.engineering.uottawa.ca/fr/undergraduate/view/policy_on_special_student_registration/" class="readmore">Étudiants spéciaux</a></li>	
+
+
+
+	
+</ul>			
+
+
+
+
+
+
+
+</div>

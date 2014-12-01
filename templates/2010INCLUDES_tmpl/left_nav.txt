@@ -1,0 +1,214 @@
+<!-- <div id="local-nav"> -->
+<ul id="genie-local-nav" class="lnav">
+
+<!-- home -->
+<li>
+	<h3 class="home"><a class="home" href="{site_url}">Home</a> </h3>	
+</li>
+		
+<!-- about -->	
+	
+<li>
+	<h3 class="head"><a href="#">About the Faculty</a> </h3>
+	<ul class="submenu">
+		<li><a href="{path="/message_from_the_dean/"}">Message from the Dean</a></li>
+		<li><a href="{path="/historical_note/"}">Historical Note</a></li>
+		<li><a href="{path="/mission_vision_values/"}">Mission, Vision &amp; Values</a></li>
+		<li><a href="{path="/directory/executive_committee/"}">Executive committee Members</a></li>
+		<li><a href="{path="/faculty_updates/"}">Faculty updates</a></li>
+        <li><a href="{path="/accreditation/"}">Accreditation</a></li>
+		<!-- <li><a href="{path="/accreditation/"}">Accreditation</a></li> -->
+	</ul> 
+</li>
+
+<!-- news/events -->	
+
+<li>
+	<h3 class="head"><a href="#">News &amp; Events</a></h3>
+	<ul class="subnav">
+		<li><a href="{path="news_articles/long_list"}">Latest News</a></li>
+		<li><a href="{path="in_the_news/view_list"}">In the News</a></li>
+		<li><a href="{path="events_calendar/big_calendar"}">Upcoming Events</a></li>
+		<li><a href="{path="events_calendar/annual_events"}">Annual Events</a></li>
+		<li><a href="{path="events_calendar/event_archives"}">View Past Events</a></li>
+		<!-- <li><a href="{path="news_articles/in_the_media"}">In the Media</a></li> -->
+	</ul> 
+</li>
+			
+			
+<!-- directory -->	
+<li>
+	<h3 class="head"><a href="#">Our People</a></h3>
+	<ul class="subnav">
+		<li><a href="{path="directory/profs"}">Professors at the faculty</a></li>
+		<li><a href="{path="directory/staff"}">Administrative and support staff</a></li>
+		<li><a href="{path="directory/executive_committee"}">Executive Committee</a></li>
+		<!-- <li><a href="http://www.site.uottawa.ca/eng/school/people/" target="_blank">SITE</a></li> -->
+	</ul> 
+</li>
+
+
+	<!-- Entrepreneurship & Innovation -->	
+		 <li>
+			<h3 class="head"><a href="{path="entrepreneurship/overview"}">Entrepreneurship</a></h3>
+			 <ul class="subnav">
+					<li><a href="{path="entrepreneurship/overview"}">Overview</a></li>
+					<li><a href="{path="entrepreneurship/prizes"}">Prizes and Fellowships</a></li>
+                    <li><a href="{path="entrepreneurship/resources"}">Resources</a></li>
+					<li><a href="{path="entrepreneurship/advisory_committee"}">Advisory Committee</a></li>
+				</ul> 
+		</li>
+
+		
+<!-- resources for students -->
+
+<li>
+	<h3 class="home"><a class="home" href="{path="/undergraduate/programs"}">Undergraduate Programs</a> </h3>	
+</li>
+
+
+<li>
+	<h3 class="head"><a href="#">Undergraduate Studies</a> </h3>	
+	
+	<ul class="subnav">
+		<li>
+		<li class="ext"><a href="http://www.uottawa.ca/academic/info/regist/calendars/programs/genie.html">Prospective Students</a></li>
+		<li><a href="{path="/undergraduate/current_students"}">Current Students</a></li>
+        <li><a href="{path="/undergraduate/bridgeprogram"}">Bridge Program</a></li>
+		<li><a href="{path="/undergraduate/academic_success/"}">Academic Success</a></li>
+		<li><a href="{path="/undergraduate/scholarships_finance/"}">Scholarships and Finance</a></li>
+		<li><a href="{path="/undergraduate/view/graduating_students/"}">Graduating Students</a></li>
+		<li><a href="{path="/undergraduate/view/policy_on_special_student_registration"}">Special Students</a></li>
+	</ul>
+</li>
+
+
+
+			
+	
+			
+			
+		
+			<!-- programs - grad -->
+
+			<li>
+	<h3 class="home"><a class="home" href="{path="/graduate"}">Graduate Studies</a> </h3>	
+			</li>
+			
+			
+
+			
+	<!-- scholarships -->
+	<!-- <li>
+		<h3 class="head"><a href="#">Scholarships &amp; Finances</a></h3>
+			<ul>
+			<li><a href="scholarships/view/faculty_scholarships">Faculty Scholarships</a></li>
+			<li><a href="scholarships/view/entrepreneurship_innovation">Entrepreneurship &amp; Innovation Fund</a></li>
+			<li><a href="http://www.pretsetbourses.uottawa.ca/Default.aspx?tabid=2859" title="external site for scholarships" target="_blank">Other Scholarships</a></li>
+			<li><a href="http://www.ifinancemystudies.uottawa.ca/en/index.html" title="external site for I finance my studies" target="_blank">I finance my studies</a></li>
+			</ul>
+	</li> -->
+
+
+
+						
+		<!-- Departments CHG-->
+<li>
+<h3 class="home"><a class="home" href="{path="departments/chemical_engineering"}">Department of Chemical and Biological Engineering</a></h3>
+	<!--<ul class="subnav">
+	<li><a href="{path="chemical_engineering/overview"}">Overview</a></li>
+	<li><a href="{path="chemical_engineering/why_choose_us"}">Choosing Us</a></li>
+	<li><a href="{path="chemical_engineering/mission"}">Our Mission</a></li>
+	<li><a href="{path="undergraduate/chemical_engineering"}">Undergraduate Studies</a></li>
+	<li><a href="{path="graduate/view/chemical_and_biological_engineering"}">Graduate Studies</a></li>  
+			</ul> -->
+</li>
+
+		<!-- Departments CVG-->
+<li>
+	<h3 class="head"><a href="#">Department of Civil Engineering</a></h3>
+	<ul class="subnav">
+	<li><a href="{path="civil_engineering/overview"}">Overview</a></li>
+	<li><a href="{path="departments/people_cvg"}">Our People</a></li>
+	<li><a href="{path="undergraduate/civil_engineering"}">Undergraduate Studies</a></li>
+	<li><a href="{path="graduate/view/civil_engineering"}">Graduate Studies</a></li>
+			</ul> 
+</li>
+
+	<!-- Departments MCG-->
+<li><h3 class="home"><a class="home" href="{path="departments/mechanical_engineering"}">Department of Mechanical Engineering</a></h3> </li>
+<!--<h3 class="head"><a href="#">Department of Mechanical Engineering</a></h3>
+<ul class="subnav">
+	<li><a href="{path="mechanical_engineering/overview"}">Overview</a></li>
+	<li><a href="{path="departments/people_mcg"}">Our People</a></li>
+	<li><a href="{path="mechanical_engineering/why_choose_us"}">Choosing Us</a></li>
+	<li><a href="{path="mechanical_engineering/why_choose_mcg"}">About Mechanical Engineering</a></li>
+	<li><a href="{path="mechanical_engineering/why_choose_biomedical_mcg"}">About Biomedical Mechanical Engineering</a></li>
+	<li><a href="http://www.uottawa.ca/academic/info/regist/calendars/genie/MCG.html" target="_blank">Undergraduate Studies</a></li>
+
+-->
+
+					
+<li>
+	<h3 class="home"><a class="home" href="http://www.site.uottawa.ca/eng" target="_blank">School of Information Technology and Engineering</a> </h3>	
+</li>
+						
+
+ <!-- xxxxxxxxxxx  -->
+
+         <!-- Prospective -->	
+		<li>
+			<h3 class="home"><a href="{path="prospective"}">Prospective Students</a> </h3>	
+		</li>
+ <!--  xxxxxxxxxxxxxxxxxxx -->	
+
+	
+		
+		<!-- Alumni -->	
+		<li>
+			<h3 class="home"><a class="home" href="http://www.uottawa.ca/alumni" target="_blank">Alumni</a> </h3>	
+		</li>
+		
+	
+		
+
+		
+		<!-- Careers-->	
+		<li>
+			<h3 class="home"><a class="home" href="{path="careers"}">Careers at the University</a></h3>
+			<!-- <ul class="subnav">
+						<li><a href="#">Academic Careers</a></li>
+						<li><a href="#">Part Time Teaching Positions</a></li>
+						<li><a href="#">Positions for Students</a></li>
+					</ul>  -->
+		</li>
+	
+		
+		<!-- Facilities -->	
+		<li>
+			<h3 class="head"><a href="#">Computing Facilities</a></h3>
+			<ul class="subnav">
+				<li><a href="{path=/computing_facilities/about_ecf}">About ECF</a></li>
+				<li><a href="{path=/computing_facilities/account_information}">Account Information</a></li>
+				<li><a href="{path=/computing_facilities/printing}">Printing</a></li>
+				<li><a href="{path=/computing_facilities/labstatus}">Lab Status</a></li>
+				<li><a href="{path=/computing_facilities/plotter}">Plotter</a></li>
+				<li><a href="{path=/computing_facilities/professor}">Professor Resources</a></li>
+			</ul> 
+		</li>
+		
+					<!-- health and safety-->	
+		<li>
+			<h3 class="head"><a href="/health_safety">Health and Safety</a></h3>
+			 <ul>
+					<li><a href="{path=/health_safety/view/emergency_contact_information}">Emergency contact information</a></li>
+					<li><a href="{path=/health_safety/view/important_links}">Important Links</a></li>
+                    <li><a href="{path=/health_safety/view/environmental_health_and_safety_training}">Training</a></li>
+				</ul>  
+		</li>
+		
+</ul>
+<!-- </div> -->
+
+	
+	

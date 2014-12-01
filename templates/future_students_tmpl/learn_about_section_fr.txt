@@ -1,0 +1,26 @@
+<div id="learn_about_list"> 
+
+
+<a  class="panel_title_link" href="http://www.engineering.uottawa.ca/futures/fr/">
+
+<h4 style= "line-height:0.5em"><b> Génie en bref </b> </h4>
+</a>
+<!-- ^^TO CHANGE THE SECTION LABEL, CHANGE THE TEXT THAT IS BETWEEN <b> and </b> ABOVE ^^ -->
+
+<ul>	<!-- do not delete this tag-->
+
+
+
+<li  class = "panel_picture"><a href="http://www.engineering.uottawa.ca/futures/fr/" class="readmore"><img src="http://www.engineering.uottawa.ca/images/uploads/futures_panel_pic.png" alt="site panel" width="231" height="70"></a></li>			  
+<li><a href="http://www.engineering.uottawa.ca/futures/fr/" class="readmore">Visitez notre site pour futurs étudiants pour vous informer à propos de la Faculté de Génie et les programmes que nous offrons</a></li>
+					
+
+
+
+	
+</ul>			
+
+
+
+
+</div>

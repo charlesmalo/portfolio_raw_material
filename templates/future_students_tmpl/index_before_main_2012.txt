@@ -1,0 +1,70 @@
+{embed="960/head" }
+<div id="main-content" class="span-18">
+  <div id="slider_content">
+    <div id="gallery2" class="slideshow1" style="height:190px;">
+      <ul class="slideshow">
+       {if country_code != "fr"}
+        {exp:gallery:entries gallery="slider" category="17" orderby="date"}
+        
+        {entries}
+    
+        <li {if {count} == "1"} class="show" {/if} >
+        <a href="{custom_field_one}"><img src="http://www.engineering.uottawa.ca/images/slider/{filename}_medium.jpg" width="705" height="190" title="{title}" alt="{caption}"/> </a> {if count > 1} <p>test</p> {/if} </li>
+        {/entries}
+       
+         {/exp:gallery:entries}
+      
+    {/if}
+        
+        {if country_code == "fr"}
+        {exp:gallery:entries gallery="slider" category="18" orderby="date"}
+        
+        {entries}
+    
+        <li {if {count} == "1"} class="show" {/if} >
+        <a href="{custom_field_one}"><img src="http://www.engineering.uottawa.ca/images/slider/{filename}_medium.jpg" width="705" height="190" title="{title}" alt="{caption}"/> </a> {if count > 1} <p>test</p> {/if} </li>
+        {/entries}
+       
+         {/exp:gallery:entries}
+      
+    {/if}
+      
+     </ul>
+    </div>
+  </div>
+      {if country_code != "fr"}
+   <div id="social-buttons" style="float:right; padding-top:5px"><a href="http://www.facebook.com/uottawa.engineering"><img src="/images/fb.png" /></a>&nbsp;&nbsp;<a href="http://twitter.com/uottawaGenie"><img src="/images/tw.png" /></a>&nbsp;&nbsp;<a href="http://feeds2.feedburner.com/UOGenieLatestNewsEn"><img src="/images/rs.png" /></a>&nbsp;&nbsp;<a href="http://engineering-uottawa-memories.tumblr.com/"><img src="/images/tumbler.png" /></a>&nbsp;&nbsp;<a href="http://www.youtube.com/user/FacultyofEngineering"><img src="/images/yt.png"/></a></div> 
+   {/if}
+   {if country_code == "fr"}
+   <div id="social-buttons" style="float:right; padding-top:5px"><a href="http://www.facebook.com/uottawa.engineering"><img src="/images/fb.png" /></a>&nbsp;&nbsp;<a href="http://twitter.com/uottawaGenie"><img src="/images/tw.png" /></a>&nbsp;&nbsp;<a href="http://feeds2.feedburner.com/UOGenieLatestNews"><img src="/images/rs.png" /></a>&nbsp;&nbsp;<a href="http://engineering-uottawa-memories-fr.tumblr.com/"><img src="/images/tumbler.png" /></a>&nbsp;&nbsp;<a href="http://www.youtube.com/user/FacultyofEngineering"><img src="/images/yt.png"/></a></div> 
+   {/if}
+<br/><br/>
+
+
+  <!--site news--> 
+
+<div class="span-6 last" id="sidebar-right" style="float:right">
+<!--##########Change##########-->
+{embed="includes/side_bar-960"}	
+<!--##########End Change##########-->
+</div>
+<!-- /#sidebar-right -->
+<div id="view_content_main" style="width:450px;">
+<div id="cont" style="width:400px">
+<!--##########Change##########-->
+{embed="site/mainpage-960"}
+<!--##########End Change##########-->
+    <!--end site news-->
+    </div>
+    </div>
+  <!-- /#main-content -->
+
+
+{if country_code !="fr"} <?php echo file_get_contents("http://web5.uottawa.ca/assets-templates/inc/footer-en.html"); ?> {if:else} <?php echo file_get_contents("http://web5.uottawa.ca/assets-templates/inc/footer-fr.html"); ?> {/if}
+</div>
+</div>
+<div id="section-closure"></div>
+</div>
+<!-- /#main-container -->
+<?php include("../assets/inc/body-bottom.html"); ?>
+</body></html>

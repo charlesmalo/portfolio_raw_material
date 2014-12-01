@@ -1,0 +1,103 @@
+<div id="leftCol" style="position:relative"> 
+		 {if country_code !="en"}
+				{embed="search/searchform_fr"}
+			{if:else}
+				{embed="search/searchform_en"}
+			{/if}
+<div id= "left-menu-div" style= "height:auto; width:230px">
+<ul id="left-menu">
+
+
+<li>
+	<a  id="future_menu_link" class="head" href="http://www.engineering.uottawa.ca/en/future_students/">Future Students</a>
+</li>
+
+<li>
+	<a  id="undergrad_menu_link" class="head" href="http://www.engineering.uottawa.ca/en/undergraduate_2012/">Undergraduate Students</a>
+</li>
+
+<li>
+	<a  id="grad_menu_link" class="head" href="http://www.engineering.uottawa.ca/en/graduate_2012/">Graduate Students</a>
+</li>
+
+<li>
+	<a  id="alumni_menu_link" class="head" href="http://alumni.uottawa.ca/Page.aspx?pid=405">Alumni</a>
+</li>
+</ul>
+</div>
+
+
+<!--
+<a id="uozoneLink" href="http://uozone.uottawa.ca/en/frontpage/" class="feature">
+				<img width="230" height="55" alt="uozone link" src="http://www.engineering.uottawa.ca/images/uploads/uozone_merge.png" style="margin-top:0px" />
+  </a>
+-->
+
+<a id="uoCal" href="http://uocal.uottawa.ca/en/"><img src="http://www.engineering.uottawa.ca/images/uploads/uoCal1_GATEWAY_960_EN.png"  alt="Link to uoCalendar" width="230" height="60" style="margin-top:-1px" /></a>
+</div> 
+
+<div id="social-buttons" style="float:left; padding-top:10px "><a id="fbLogo" href="http://www.facebook.com/uottawa.engineering"><img src="/images/fb.png" alt="fb logo"/></a>&nbsp;&nbsp;<a href="http://twitter.com/uottawaGenie"><img src="/images/tw.png" alt="twitter logo"/></a>&nbsp;&nbsp;<a href="http://feeds2.feedburner.com/UOGenieLatestNewsEn"><img src="/images/rs.png" alt="feedburner logo"/></a>&nbsp;&nbsp;<a href="http://engineering-uottawa-memories.tumblr.com/"><img src="/images/tumbler.png" alt="tumblr logo"/></a>&nbsp;&nbsp;<a href="http://www.youtube.com/user/FacultyofEngineering"><img src="/images/yt.png" alt="youtube logo"/></a></div>
+
+
+
+<div id="left-nav">
+<div id="contact-info">
+<h2 id="contact-info-title">Contact information</h2>
+
+<p>
+<strong><a href="http://www.engineering.uottawa.ca/en/directory/staff" class="fn org url"> Office of the Dean</a><br/><br/>
+CBY A306 </strong><br>
+161 Louis Pasteur<br>
+Ottawa ON Canada<br>
+K1N 6N5
+</p>
+
+<p>
+<strong>Tel.</strong> 613-562-5682<br>
+<strong>Fax.</strong> 613-562-5174
+</p>
+
+
+<br/>
+
+<p>
+<strong><a href="http://www.engineering.uottawa.ca/en/directory/staff" class="fn org url"> Undergraduate Office</a><br/><br/>
+SITE 1020 </strong><br>
+800 King Edward Ave.<br>
+Ottawa ON Canada<br>
+K1N 6N5
+</p>
+
+<p>
+
+<strong>Tel.</strong> 613-562-5918<br>
+<strong>Fax.</strong> 613-562-5187
+</p>
+<p>
+<a href="mailto:bacinfo@genie.uOttawa.ca">bacinfo@genie.uOttawa.ca</a>
+</p>
+
+<br/>
+
+<p>
+<strong><a href="http://www.engineering.uottawa.ca/en/directory/staff" class="fn org url">Graduate Office</a><br/><br/>
+CBY B111 </strong><br>
+161 Louis Pasteur<br>
+Ottawa ON Canada<br>
+K1N 6N5
+</p>
+
+<p>
+
+<strong>Tel.</strong> 613-562-5347<br>
+<strong>Fax.</strong> 613-562-5129
+</p>
+<p>
+<a href="mailto:gprecept@uottawa.ca">gprecept@uottawa.ca</a>
+</p>
+
+<br/>
+
+
+</div>
+</div>

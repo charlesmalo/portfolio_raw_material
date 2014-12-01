@@ -1,0 +1,92 @@
+<ul id="sub-banner-nav-menu">
+<li>
+	<a  class="head" href="/#">Faculté en Bref</a>
+	<ul class="subnav">
+		 <li><a href="http://www.engineering.uottawa.ca/fr/mission_vision_values/">Mission, Vision &amp; Valeurs</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/fr/directory/executive_committee/">Comité exécutif</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/fr/faculty_updates/">Comptes rendus</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/fr/accreditation/">Agréments </a></li>
+         <li><a href="http://www.engineering.uottawa.ca/fr/message_from_the_dean/">Message du doyen</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/fr/historical_note/">Historique</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/fr/directory/staff/">Personnel de soutien</a></li>
+	</ul> 
+   
+</li>
+
+
+<li>
+	<a  class="head" href="/#">Recherche</a>
+	<ul class="subnav">
+		<!-- <li><a href="http://www.engineering.uottawa.ca/fr/office_of_research">Bureau de la recherche </a></li>
+         <li><a href="http://www.engineering.uottawa.ca/fr/research_chairs">Chaires de recherche</a></li>-->
+         <li><a href="http://www.engineering.uottawa.ca/fr/departments/chemical_engineering_research/">Département de génie chimique et biologique</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/fr/civil_engineering/research/">Département de génie civil</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/fr/departments/mechanical_engineering_research/">Département de génie mécanique</a></li>
+         <li><a href="http://www.sige.uottawa.ca/fra/recherche/">École de science informatique et de génie électrique</a></li>
+	</ul> 
+</li>
+
+<li>
+	<a  class="head" href="/#">Unités scolaires</a>
+	<ul class="subnav">
+		 <li><a href="http://www.engineering.uottawa.ca/fr/departments/chemical_engineering/">Département de génie chimique et biologique</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/fr/civil_engineering/overview/">Département de génie civil</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/fr/departments/mechanical_engineering/">Département de génie mécanique</a></li>
+         <li><a href="http://www.sige.uottawa.ca/">École de science informatique et de génie électrique</a></li>
+	</ul> 
+</li>
+
+
+
+<li>
+	<a  class="head" href="/#">Professeurs</a>
+	<ul class="subnav">
+		 <li><a href="http://www.engineering.uottawa.ca/fr/S=0fd151eda05ebcefa9ced80d4dede2646cddff76/departments/chemical_engineering_directory/">Département de génie chimique et biologique</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/fr/departments/people_cvg/">Département de génie civil</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/fr/departments/mechanical_engineering_directory/">Département de génie mécanique</a></li>
+         <li><a href="http://www.site.uottawa.ca/fra/ecole/personnel/professeurs.html">École de science informatique et de génie électrique</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/fr/computing_facilities/professor/">Ressources pour professeurs</a></li>
+	</ul> 
+</li>
+
+ 
+
+<li>
+	<a  class="head" href="/#">Nouvelles</a>
+	<ul class="subnav">
+		 <li><a href="http://www.engineering.uottawa.ca/fr/news_articles/long_list/">Dernières nouvelles</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/fr/in_the_news/view_list/">La Faculté dans les médias</a></li>
+	</ul> 
+   
+</li>
+
+<li>
+	<a  class="head" href="/#">Services</a>
+	<ul class="subnav">
+		 <li><a href="http://www.engineering.uottawa.ca/fr/computing_facilities/about_ecf/">Computing Facilities</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/fr/computing_facilities/account_information/">Comptes informatiques</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/fr/computing_facilities/printing/">Impression</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/fr/computing_facilities/plotter/">Traceur</a></li>
+         <li><a href="http://www.sic.uottawa.ca/">Services informatiques généraux</a></li>
+	</ul> 
+   
+</li>
+
+<li>
+	<a  class="head" href="/#">Santé et sécurité</a>
+	<ul class="subnav">
+		 <li><a href="http://www.engineering.uottawa.ca/fr/health_and_safety/">Nouveau à la faculté</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/fr/training/">Formation</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/fr/facilities/">Gestion du risque</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/fr/emergency/">En cas d'urgence</a></li>
+         <li><a href="http://www.engineering.uottawa.ca/fr/newlinks/">Santé et sécurité au travail</a></li>
+	</ul> 
+   
+</li>
+
+
+<li><a href="http://www.engineering.uottawa.ca/fr/directory/staff/">Contact</a></li>
+
+
+
+</ul>

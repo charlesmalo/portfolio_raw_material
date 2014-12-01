@@ -1,0 +1,75 @@
+{embed="includes/document_header" title="
+{exp:weblog:entries weblog="programs" limit="1" status="open"}
+	{if country_code != "en"}
+		Programmes d'études
+	{if:else}
+		Programs of Study
+	{/if}
+{/exp:weblog:entries}"
+}
+{embed="includes/document_subheader"}
+
+
+<div id="section-details">
+{if country_code !="en"}{embed="includes/fr_leftnav_undergrad"}{if:else}{embed="includes/left_nav_undergrad"}{/if}
+{embed="includes/left_features"}
+{embed="includes/contact_info"}
+</div>
+
+
+
+<div id="main-content-program">
+	<h1 class="prospective_title">{if country_code !="en"}Programmes d'études et séquences de cours{if:else}Programs of Study and Course Sequence{/if}</h1>
+
+	<table class="programs_table" cellspacing="0" cellpadding="0" summary="This table describes a list of available programs and presents links to view course and detailed information about each program" >
+	  <caption>List of Programs available</caption>
+	  <th>{if country_code != "en"}Programme{if:else}Program{/if}</th>
+	 <!-- <th>{if country_code != "en"}Options{if:else}Options{/if}</th>-->
+	  <!-- <th>{if country_code != "en"}En savoir plus{if:else}More information{/if}</th> -->
+	<!-- <th>{if country_code != "en"}Annuaire (par année){if:else}Course Calendar (by year){/if}</th>-->
+
+{exp:weblog:entries weblog="programs" orderby="title" }	
+<tr>
+  <td width="20%" class="row {switch="odd|even"}">
+	<a href="{page_url}">
+{if country_code != "en" } {{country_code}_program_title} {if:else} {title} {/if}
+</a>	</td>
+ </tr>
+<tr>
+  <td width="60%" class="row {switch="odd|even"}">{{country_code}_program_list}
+	</td>
+
+  <!-- <td width="20%" class="row {switch="odd|even"}">
+ 		<ul>
+ 				<li><a href="{{country_code}_program_link_1}" title="View course Calendar">
+ 					{if country_code != "en"}Annuaire{if:else}View All Course Calendars{/if}</a></li>
+ 				<li><a href="{path=/undergraduate/sequence/}" title="Download PDF Sequence">{if country_code != "en"}Séquence proposée  [PDF]{if:else}Proposed Sequence [PDF]{/if}</a></li>
+ 				
+ 	</td> -->
+<!--	<td width="20%" class="row {switch="odd|even"}">
+		<ul>
+		<li><a href="http://www.uottawa.ca/academic/info/regist/crs/0305/genieEN/progsGENIE.htm" title="2003-2005">2003-2005</a></li>
+		<li><a href="http://www.uottawa.ca/academic/info/regist/0607/calendars/programs/genie.html" title="2006-2007">2006-2007</a></li>
+		<li><a href="http://www.uottawa.ca/academic/info/regist/0708/calendars/programs/genie.html" title="2007-2008">2007-2008</a></li>
+		<li><a href="http://www.uottawa.ca/academic/info/regist/calendars/programs/genie.html" title="2008-2009">2008-2009</a></li>
+		</ul>
+	</td>-->
+
+</tr>
+{/exp:weblog:entries}
+
+	</table>
+
+
+
+</div>
+
+
+
+
+
+	
+</div><!-- END: section-container -->
+</div><!-- END: #main-container -->
+
+{embed="includes/document_footer"}

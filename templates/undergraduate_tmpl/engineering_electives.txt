@@ -1,0 +1,658 @@
+{embed="960/head" title="
+{exp:weblog:entries weblog="undergraduate" limit="1" status="open | academic success | students corner | faq | apply" limit="1"}
+	{if country_code != "en"}
+		{{country_code}_page_title}
+	{if:else}
+		{title}
+	{/if}
+{/exp:weblog:entries}"
+}
+
+
+
+
+<div id="main-content-program">
+
+	
+	<h1 class="prospective_title">{if country_code !="en"}Cours de science au choix pour le programme de génie{if:else}Science electives for engineering programs{/if}</h1>
+<p class="prospective_body">{if country_code !="en"}Les cours de science au choix sont offerts en français ou en anglais et peut être pris dans l'une des deux langues. Certains cours sont offerts dans une seule langue. Seuls les cours sur cette liste sont acceptables en tant que cours de science au choix pour les étudiants de génie de premier cycle.
+{if:else}
+Science electives are offered in both French or English and can be taken in either language. Some courses are only available in one language. Only the courses found on this list are acceptable science electives for undergraduate engineering students.{/if}</p>
+
+
+
+<ul id="directory-acc">
+	<li>
+	    <h3 class="head"><a href="#">Anatomie et physiologie / Anatomy and Physiology</a></h3>
+				<table class="programs_table" summary="This table describes a list of available complementary courses">
+				      
+	<tr> 
+	 <th> Cote du cours </th>
+	  <th>Nom du cours</th>
+	  <th>Credits</th>
+	</tr>
+               <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/ANP.html#ANP1505">ANP1505</a></td>
+		    <td>Anatomie humaine et physiologie I</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/ANP.html#ANP1506">ANP1506</a></td>
+		    <td>Anatomie humaine et physiologie II</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/ANP.html#ANP1507">ANP1507</a></td>
+		    <td>Anatomie humaine et physiologie III</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+	       <tr >
+		   <td width="20%"><b>Course Code</b></td>
+		   <td width="60%"><b>Course Name</b></td>
+	           <td width="20%"><b>Credits</b></td>
+	       </tr>
+               <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/ANP.html#ANP1105">ANP1105</a></td>
+		    <td>Human Anatomy and Physiology I</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/ANP.html#ANP1106">ANP1106</a></td>
+		    <td>Human Anatomy and Physiology II</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/ANP.html#ANP1107">ANP1107</a></td>
+		    <td>Human Anatomy and Physiology III</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+				    </table>
+
+	</li>
+
+<ul id="directory-acc">
+	<li>
+	    <h3 class="head"><a href="#">Biochimie / Biochemistry</a></h3>
+				<table class="programs_table" summary="This table describes a list of available complementary courses">
+				      
+	<tr> 
+	 <th> Cote du cours </th>
+	  <th>Nom du cours</th>
+	  <th>Credits</th>
+	</tr>
+               <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/BCH.html#BCH2733">BCH2733</a></td>
+		    <td>Introduction à la biochimie</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/BCH.html#BCH3520">BCH3520</a></td>
+		    <td>Métabolisme intermédiaire général</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/BCH.html#BCH3525">BCH3525</a></td>
+		    <td>Structure et fonctions des protéines</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+	       <tr >
+		   <td width="20%"><b>Course Code</b></td>
+		   <td width="60%"><b>Course Name</b></td>
+	           <td width="20%"><b>Credits</b></td>
+	       </tr>
+               <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/BCH.html#BCH2333">BCH2333</a></td>
+		    <td>Introduction to Biochemistry</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/BCH.html#BCH3120">BCH3120</a></td>
+		    <td>General Intermediary Metabolism</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/BCH.html#BCH3125">BCH3125</a></td>
+		    <td>Protein Structure and Function</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+				    </table>
+
+	</li>
+
+<li>
+	<h3 class="head"><a href="#">Biologie / Biology</a></h3>
+
+
+		 	<table class="programs_table" summary="This table describes a list of available complementary courses">
+<tr> 
+	 <th> Cote du cours </th>
+	  <th>Nom du cours</th>
+	  <th>Credits</th>
+	</tr>
+
+
+<tr>
+			    <td><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/BIO.html#BIO1530">BIO1530</a></td>
+			    <td>Introduction à la biologie des organismes/td>
+			    <td>3</td>
+		       </tr>
+		       <tr>
+			    <td><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/BIO.html#BIO1540">BIO1540</a></td>
+			    <td>Introduction à la biologie cellulaire</td>
+			    <td>3</td>
+		       </tr>
+		       <tr>
+			    <td><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/BIO.html#BIO2529">BIO2529</a></td>
+			    <td>Écologie</i></td>
+			    <td>3</td>
+		       </tr>
+		       <tr>
+			    <td><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/BIO.html#BIO2533">BIO2533</a></td>
+			    <td>Génétique</td>
+			    <td>3</td>
+		       </tr>
+		       <tr>
+			    <td><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/BIO.html#BIO2535">BIO2535</a></td>
+			    <td>Animaux: structures et fonctions</td>
+			    <td>3</td>
+		       </tr>
+		       <tr>
+			    <td><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/BIO.html#BIO2537">BIO2537</a></td>
+			    <td>Introduction aux végétaux: de la biodiversité à la biotechnologie</td>
+			    <td>3</td>
+		       </tr>
+		       <tr>
+			    <td><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/BIO.html#BIO3515">BIO3515</a></td>
+			    <td>Biologie de la conservation des espèces</td>
+			    <td>3</td>
+		       </tr>
+		       <tr>
+			    <td><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/BIO.html#BIO3517">BIO3517</a></td>
+			    <td>Écologie des écosystèmes</td>
+			    <td>3</td>
+		       </tr>
+		       <tr>
+			    <td><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/BIO.html#BIO3524">BIO3524</a></td>
+			    <td>Microbiologie générale</td>
+			    <td>3</td>
+		       </tr>
+		       <tr>
+			    <td><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/BIO.html#BIO3540">BIO3540</a></td>
+			    <td>Physiologie et biochimie des plantes</i></td>
+			    <td>3</td>
+		       </tr>
+		       <tr>
+			    <td><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/BIO.html#BIO3547">BIO3547</a></td>
+			    <td>Biologie du développement</td>
+			    <td>3</td>
+		       </tr>
+		       <tr>
+			    <td><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/BIO.html#BIO3553">BIO3553</a></td>
+			    <td>Biologie cellulaire</td>
+			    <td>3</td>
+		       </tr>
+		       <tr>
+			    <td><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/BIO.html#BIO3558">BIO3558</a></td>
+			    <td>Zoologie des vertébrés</td>
+			    <td>3</td>
+		       </tr>
+		       <tr>
+			    <td><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/BIO.html#BIO3702">BIO3702</a></td>
+			    <td>Physiologie animale II</td>
+			    <td>3</td>
+		       </tr>
+		       
+
+	       <tr >
+		   <td width="20%"><b>Course Code</b></td>
+		   <td width="60%"><b>Course Name</b></td>
+	           <td width="20%"><b>Credits</b></td>
+	       </tr>
+
+		       <tr>
+			    <td><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/BIO.html#BIO1130">BIO1130</a></td>
+			    <td>Introduction to Organismal Biology</td>
+			    <td>3</td>
+		       </tr>
+ <tr>
+			    <td><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/BIO.html#BIO1140">BIO1140</a></td>
+			    <td>Introduction to Cell Biology</i></td>
+			    <td>3</td>
+		       </tr>
+		       <tr>
+			    <td><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/BIO.html#BIO2129">BIO2129</a></td>
+			    <td>Ecology</td>
+			    <td>3</td>
+		       </tr>
+		       <tr>
+			    <td><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/BIO.html#BIO2133">BIO2133</a></td>
+			    <td>Genetics</td>
+			    <td>3</td>
+		       </tr>
+		       <tr>
+			    <td><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/BIO.html#BIO2135">BIO2135</a></td>
+			    <td>Animal Form and Function</td>
+			    <td>3</td>
+		       </tr>
+		       <tr>
+			    <td><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/BIO.html#BIO2137">BIO2137</a></td>
+			    <td>Introduction to Plant Science: Biodiversity to Biotechnology</td>
+			    <td>3</td>
+		       </tr>
+
+		       <tr>
+			    <td><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/BIO.html#BIO3115">BIO3115</a></td>
+			    <td>Conservation Biology</td>
+			    <td>3</td>
+		       </tr>
+		       <tr>
+			    <td><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/BIO.html#BIO3117">BIO3117</a></td>
+			    <td>Ecosystem Ecology</td>
+			    <td>3</td>
+		       </tr>
+		       <tr>
+			    <td><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/BIO.html#BIO3124">BIO3124</a></td>
+			    <td>General Microbiology</td>
+			    <td>3</td>
+		       </tr>
+		       <tr>
+			    <td><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/BIO.html#BIO3140">BIO3140</a></td>
+			    <td>Plant Physiology and Biochemistry</td>
+			    <td>3</td>
+		       </tr>
+		       <tr>
+			    <td><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/BIO.html#BIO3147">BIO3147</a></td>
+			    <td>Developmental Biology</td>
+			    <td>3</td>
+		       </tr>
+		       <tr>
+			    <td><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/BIO.html#BIO3153">BIO3153</a></td>
+			    <td>Cell Biology</td>
+			    <td>3</td>
+		       </tr>
+		       <tr>
+			    <td><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/BIO.html#BIO3158">BIO3158</a></td>
+			    <td>Vertebrate Zoology</td>
+			    <td>3</td>
+		       </tr>
+		       <tr>
+			    <td><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/BIO.html#BIO3302">BIO3302</a></td>
+			    <td>Animal Physiology II</td>
+			    <td>3</td>
+		       </tr>
+		       <tr>
+			    <td><a href="http://www.uottawa.ca/academic/info/regist/annuaires/cours/BIO.html#BIO3333">BIO3333</a></td>
+			    <td>Entomology</td>
+			    <td>3</td>
+		       </tr>
+
+	    </table>
+	</li>
+
+<li>
+
+	<h3 class="head"><a href="#">Sciences Biopharmaceutiques / Biopharmaceutical Sciences</a></h3>
+   	<table class="programs_table" summary="This table describes a list of available complementary courses">
+	<tr> 
+	 <th> Cote du cours </th>
+	  <th>Nom du cours</th>
+	  <th>Credits</th>
+	</tr>
+	       <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/BPS.html#BPS3101">BPS3501</a></td>
+		    <td>La génomique</td>
+		    <td width="20%">3</td>
+	       </tr>
+       <tr >
+	   <td width="20%"><b>Course Code</b></td>
+	   <td width="60%"><b>Course Name</b></td>
+           <td width="20%"><b>Credits</b></td>
+       </tr>
+	  <tr>
+		    <td><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/BPS.html#BPS3101">BPS3101</a></td>
+		    <td>Genomics</td>
+		    <td>3</td>
+	       </tr>
+    </table>
+		</li>
+<li>
+
+	<h3 class="head"><a href="#">Chimie/Chemistry</a></h3>
+		<table class="programs_table" summary="This table describes a list of available complementary courses">
+   
+   <tr> 
+	 <th> Cote du cours </th>
+	  <th>Nom du cours</th>
+	  <th>Credits</th>
+	</tr>
+                            <tr>
+			    <td><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/CHM.html#CHM1721">CHM1721</a></td>
+			    <td>Chimie organique It</td>
+			    <td>3</td>
+		       </tr>
+		       <tr>
+			    <td><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/CHM.html#CHM2520">CHM2520</a></td>
+			    <td>Chimie organique II</td>
+			    <td>3</td>
+		       </tr>
+		       <tr>
+			    <td><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/CHM.html#CHM2531">CHM2531</a></td>
+			    <td>Thermodynamique chimique des gaz et des solutions</i></td>
+			    <td>3</td>
+		       </tr>
+		       <tr>
+			    <td><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/CHM.html#CHM2711">CHM2711</a></td>
+			    <td>Introduction à la structure et aux liaisons</td>
+			    <td>3</td>
+		       </tr>
+		       <tr>
+			    <td><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/CHM.html#CHM2730">CHM2730</a></td>
+			    <td>Chimie physique : introduction aux propriétés moléculaires de la matière</td>
+			    <td>3</td>
+		       </tr>
+		       <tr>
+			    <td><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/CHM.html#CHM2753">CHM2753</a></td>
+			    <td>Chimie minérale des élements</td>
+			    <td>3</td>
+		       </tr>
+		       <tr>
+			    <td><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/CHM.html#CHM2754">CHM2754</a></td>
+			    <td>Chimie analytique</td>
+			    <td>3</td>
+		       </tr>
+
+    <tr >
+	   <td width="20%"><b>Course Code</b></td>
+	   <td width="60%"><b>Course Name</b></td>
+           <td width="20%"><b>Credits</b></td>
+       </tr>
+	 <tr>
+		    <td><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/CHM.html#CHM1321">CHM1321</a></td>
+		    <td>Organic Chemistry I</td>
+		    <td>3</td>
+	       </tr>
+	       <tr>
+		    <td><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/CHM.html#CHM2120">CHM2120</a></td>
+		    <td>Organic Chemistry II</td>
+		    <td>3</td>
+	       </tr>
+
+	       <tr>
+		    <td><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/CHM.html#CHM2131">CHM2131</a></td>
+		    <td>Chemical Thermodynamics of Gases and Solutions</td>
+		    <td>3</td>
+	       </tr>
+      
+		   <tr>
+		    <td><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/CHM.html#CHM2311">CHM2311</a></td>
+		    <td>Introduction to Structure and Bonding</td>
+		    <td>3</td>
+	       </tr>      
+		   <tr>
+		    <td><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/CHM.html#CHM2330">CHM2330</a></td>
+		    <td>Physical chemistry: Introduction to the molecular properties of matter</td>
+		    <td>3</td>
+	       </tr>
+
+               <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/CHM.html#CHM2353">CHM2353</a></td>
+		    <td>Descriptive Inorganic Chemistry</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/CHM.html#CHM2354">CHM2354</a></td>
+		    <td>Analytical Chemistry</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+
+    </table>
+	   </li>
+
+
+<li>
+	<h3 class="head"><a href="#">Sciences environnementales / Environmental Sciences</a></h3>
+  	<table class="programs_table" summary="This table describes a list of available complementary courses">
+	<tr> 
+	 <th> Cote du cours </th>
+	  <th>Nom du cours</th>
+	  <th>Credits</th>
+	</tr>
+               <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/EVS.html#EVS1501">EVS1501</a></td>
+		    <td>Introduction aux sciences environnementales</td>
+		    <td width="20%">3</td>
+	       </tr>
+
+       <tr >
+	   <td width="20%"><b>Course Code</b></td>
+	   <td width="60%"><b>Course Name</b></td>
+           <td width="20%"><b>Credits</b></td>
+       </tr>
+	  <tr>
+		    <td><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/EVS.html#EVS1101">EVS1101</a></td>
+		    <td>Introduction to Environmental Science</i></td>
+		    <td>3</td>
+	       </tr>
+    </table>
+</li>
+
+<li>
+
+<h3 class="head"><a href="#">Géologie / Geology</a></h3>
+	<table class="programs_table" summary="This table describes a list of available complementary courses">
+	<tr> 
+	 <th> Cote du cours </th>
+	  <th>Nom du cours</th>
+	  <th>Credits</th>
+	</tr> 
+               <tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/GEO.html#GEO1511">GEO1511</a></td>
+		    <td>Introduction aux systèmes terrestres</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/GEO.html#GEO1515">GEO1515</a></td>
+		    <td>Introduction aux matériaux terrestres</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/GEO.html#GEO2563">GEO2563</a></td>
+		    <td>Introduction à la minéralogie</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/GEO.html#GEO2565">GEO2565</a></td>
+		    <td>Stratigraphie et sédimentation</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+<tr>
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/GEO.html#GEO2707">GEO2707</a></td>
+		    <td>Géologie environnementale</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/GEO.html#GEO2734">GEO2734</a></td>
+		    <td>Géologie quaternaire et changement climatique</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+               <tr>
+
+		    <td width="20%"><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/GEO.html#GEO3782">GEO3782</a></td>
+		    <td>Géochimie</td>
+		    <td width="20%">3</td>
+	       </tr>
+	       <!-- cccccccccccccc  -->
+
+ <tr >
+	   <td width="20%"><b>Course Code</b></td>
+	   <td width="60%"><b>Course Name</b></td>
+          <td width="20%"><b>Credits</b></td>
+      </tr>
+	       <tr>
+		    <td><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/GEO.html#GEO1111">GEO1111</a></td>
+		    <td>Introduction to Earth Systems</td>
+		    <td>3</td>
+	       </tr>
+	       <tr>
+		    <td><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/GEO.html#GEO1115">GEO1115</a></td>
+		    <td>Introduction to Earth Materials</td>
+		    <td>3</td>
+	       </tr>
+		    <tr>
+		    <td><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/GEO.html#GEO2163">GEO2163</a></td>
+		    <td>Introduction to Mineralogy</td>
+		    <td>3</td>
+	       </tr>
+	       <tr>
+		    <td><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/GEO.html#GEO2165">GEO2165</a></td>
+		    <td>Stratigraphy and Sedimentation</td>
+		    <td>3</td>
+	       </tr>
+	       <tr>
+		    <td><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/GEO.html#GEO2307">GEO2307</a></td>
+		    <td>Environmental Geology</td>
+		    <td>3</td>
+	       </tr>
+	       <tr>
+		    <td><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/GEO.html#GEO2334">GEO2334</a></td>
+		    <td>Quaternary Geology and Climate Change</td>
+		    <td>3</td>
+	       </tr>
+
+		     <tr>
+		    <td><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/GEO.html#GEO3382">GEO3382</a></td>
+		    <td>Geochemistry</td>
+		    <td>3</td>
+	       </tr>
+
+   </table>
+
+	</li>
+
+<li>
+
+	<h3 class="head"><a href="#">Physique / Physics</a></h3>
+ 	<table class="programs_table" summary="This table describes a list of available complementary courses">
+
+	<tr> 
+	 <th> Cote du cours </th>
+	  <th>Nom du cours</th>
+	  <th>Credits</th>
+	</tr>
+
+
+<tr>
+			    <td><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/PHY.html#PHY2500">PHY2500</a></td>
+			    <td>Principes fondamentaux de physique appliquée III</td>
+			    <td>3</td>
+		       </tr>
+		       <tr>
+			    <td><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/PHY.html#PHY2711">PHY2711</a></td>
+			    <td>Ondes et optique</td>
+			    <td>3</td>
+		       </tr>
+		       <tr>
+			    <td><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/PHY.html#PHY2733">PHY2733</a></td>
+			    <td>Mécanique</td>
+			    <td>3</td>
+		       </tr>
+		       <tr>
+			    <td><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/PHY.html#PHY2761">PHY2761</a></td>
+			    <td>Physique moderne</td>
+			    <td>3</td>
+		       </tr>
+		       <tr>
+			    <td><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/PHY.html#PHY3750">PHY3750</a></td>
+			    <td>Thermodynamique</td>
+			    <td>3</td>
+		       </tr>
+		       <tr>
+			    <td><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/PHY.html#PHY3755">PHY3755</a></td>
+			    <td>Thermodynamique statistique</td>
+			    <td>3</td>
+		       </tr>
+       <tr >
+	   <td width="20%"><b>Course Code</b></td>
+	   <td width="60%"><b>Course Name</b></td>
+           <td width="20%"><b>Credits</b></td>
+       </tr>
+	  <tr>
+		    <td><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/PHY.html#PHY2100">PHY2100</a></td>
+		    <td>Fundamentals of Applied Physics III</td>
+		    <td>3</td>
+	       </tr>
+	       <tr>
+		    <td><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/PHY.html#PHY2311">PHY2311</a></td>
+		    <td>Waves and Optics</td>
+		    <td>3</td>
+	       </tr>
+	       <tr>
+		    <td><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/PHY.html#PHY2333">PHY2333</a></td>
+		    <td>Mechanics</td>
+		    <td>3</td>
+	       </tr>
+		   <tr>
+		    <td><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/PHY.html#PHY2361">PHY2361</a></td>
+		    <td>Modern Physics</td>
+		    <td>3</td>
+	       </tr>       
+		   <tr>
+		    <td><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/PHY.html#PHY3350">PHY3350</a></td>
+		    <td>Thermodynamics <i>(recommended for CVG students)</i></td>
+		    <td>3</td>
+	       </tr>       
+		   <tr>
+		    <td><a href="http://www.uottawa.ca/academic/info/regist/calendars/courses/PHY.html#PHY3355">PHY3355</a></td>
+		    <td>Statistical Thermodynamics</td>
+		    <td>3</td>
+	       </tr>
+    </table>
+</li>
+
+</ul>
+
+</div>
+
+
+
+{if country_code !="fr"} <?php echo file_get_contents("http://web5.uottawa.ca/assets-templates/inc/footer-en.html"); ?> {if:else} <?php echo file_get_contents("http://web5.uottawa.ca/assets-templates/inc/footer-fr.html"); ?> {/if}
+</div>
+</div>
+<div id="section-closure"></div>
+</div>
+<!-- /#main-container -->
+<?php include("../assets/inc/body-bottom.html"); ?>
+</body></html>

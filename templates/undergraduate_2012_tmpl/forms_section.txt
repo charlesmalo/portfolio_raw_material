@@ -1,0 +1,34 @@
+<div id="forms_list"> 
+
+
+<a  class="panel_title_link" href="#">
+
+<h4 style= "line-height:0.5em"><b> Forms</b> </h4>
+</a>
+<!-- ^^TO CHANGE THE SECTION LABEL, CHANGE THE TEXT THAT IS BETWEEN <b> and </b> ABOVE ^^ -->
+
+<ul>	<!-- do not delete this tag-->
+
+
+
+
+		  
+<li><a href="http://www.engineering.uottawa.ca/downloads/pdf/Formulaire_dexemption_du_pr%C3%A9alable.pdf" class="readmore">Request for prerequisite waiver (EP-1) </a></li>
+<li><a href="http://www.registrar.uottawa.ca/Default.aspx?tabid=2714" class="readmore">Registrar’s Forms & Procedures</a></li>            
+<li><a href="http://www.engineering.uottawa.ca/en/undergraduate/view/advanced_standing_request/" class="readmore">Advanced Standing Request</a></li>
+<li><a href="http://www.engineering.uottawa.ca/downloads/pdf/Form_DemandeTransfertBIOTECH.pdf" class="readmore">Request for Transfer to Biotech</a></li>						
+<li><a href="http://www.engineering.uottawa.ca/downloads/pdf/Formulaire_de_demande_de_changement_au_programme.pdf" class="readmore">Request for change to Program of studies [PDF]</a></li>			
+						
+
+
+
+	
+</ul>			
+
+
+
+
+
+
+
+</div>

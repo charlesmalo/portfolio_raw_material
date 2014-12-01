@@ -1,0 +1,236 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" lang ="{country_code}"> 
+
+	<head> 
+	<!-- dynamic title based on content title -->
+<meta name="google-site-verification" content="gBdiwJaWA6HfSgab4Bwu4QsjB7MzfJeKhWTTXeWVI7Q" />
+<!-- Google code -->
+	{if country_code != "fr"}<title>{embed:title} &mdash; Faculty of Engineering</title>{if:else}<title>{embed:title} &mdash; Facult&eacute; de g&eacute;nie</title>{/if}
+	
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+	<!--<meta name="verify-v1" content="Pw06WZ7l1E+OQPlbRDaNHM+g+Zpr/+PXMTg5zUxqYVs=" />-->
+
+<!-- include University Head code - located in /assets-templates -->
+<?php include($_SERVER["DOCUMENT_ROOT"] . "/assets-templates/inc/head-xhtml.html"); ?>
+
+
+<!-- theme and styles -->
+<link type="text/css" rel="stylesheet" media="screen" href="http://web5.uottawa.ca/assets-templates/themes/07/main.css" />	
+<!-- site specific style sheets -->
+<link rel="stylesheet" type="text/css" media="screen" href="/assets/css/jquery.lightbox.css" />
+<link type="text/css" rel="stylesheet" media="screen" href="/assets/css/masterstylesheet.css" />
+<link type="text/css" rel="stylesheet" media="screen" href="/assets/css/main.css" />
+<link type="text/css" rel="stylesheet" media="screen" href="/assets/css/genie-local-nav.css" />
+<link type="text/css" rel="stylesheet" media="screen" href="/assets/css/genie-landing-page.css" />
+<link type="text/css" rel="stylesheet" media="screen" href="/assets/css/genie-layout.css" />
+
+
+
+<!-- RSS Links -->	
+{if country_code != "en"}
+<!--<link rel="alternate" type="application/rss+xml" title="Faculté de génie - Actualités" href="{site_url}/site/rss_news_fr/" />
+<link rel="alternate" type="application/rss+xml" title="Faculté de génie - Activités" href="{site_url}/site/rss_events_fr/" />-->
+
+<link rel="alternate" type="application/rss+xml" title="Faculté de génie - Actualités" href="http://feeds2.feedburner.com/ActualitesUOGenie" />
+<link rel="alternate" type="application/rss+xml" title="Faculté de génie - Activités" href="http://feeds2.feedburner.com/ActivitesUOGenie" />
+{if:else}
+<!--<link rel="alternate" type="application/rss+xml" title="Faculty of Engineering - News Feed" href="{site_url}/site/rss_news/" />
+<link rel="alternate" type="application/rss+xml" title="Faculty of Engineering - Events Feed" href="{site_url}/site/rss_events/" />-->
+
+<link rel="alternate" type="application/rss+xml" title="Faculty of Engineering - News" href="http://feeds2.feedburner.com/UOGenieLatestNews" />
+<link rel="alternate" type="application/rss+xml" title="Faculty of Engineering - Events" href="http://feeds2.feedburner.com/UOGenieUpcomingEvents" />
+{/if}
+
+<!-- jQuery Google API -->
+
+<!-- jQuery locals -->
+
+<script type="text/javascript" src="http://www.uottawa.ca/assets-toplevel/layouts/2.0/js/jquery-1.2.6.min.js"></script>
+<script type="text/javascript" src="/assets/js/jquery-ui-personalized-1.5.3.min.js"></script>
+<script type="text/javascript" src="/assets/js/jquery.swfobject.js"></script>
+
+<script type="text/javascript" src="/assets/js/facelift-1.2/flir.js"></script>
+<script type="text/javascript" src="/assets/js/jquery.lightbox.js"></script>
+<script type="text/javascript" src="/assets/js/jquery.listen-min.js"></script>
+<script type="text/javascript" src="/assets/js/searchlabel.js"></script>
+
+
+
+<!-- include local page tools -->
+<!-- <script type="text/javascript" src="http://web5.uottawa.ca/assets-templates/js/print.js"></script> -->
+<script type="text/javascript" src="http://web5.uottawa.ca/assets-templates/js/send-to-friend.js"></script>
+<!-- nav -->
+
+{if country_code != "en"}	<!-- if site is french load french images in flash-->	
+
+<script type="text/javascript" charset="utf-8">
+var $j = jQuery.noConflict();	
+$j(document).ready(function () {
+	// #flash_content is the selector
+	$j('#flash_content').flash ({
+		// /assets/flash/flash_gallery.swf is the flash document
+		swf:'/assets/flash/flash_gallery.swf',
+		embedSWF:'FlashAlternateContent',
+		width: '585',
+		height: '240',
+		params: {
+				menu: 'false',
+				wmode: 'opaque',
+				flashvars: {
+					xmlfile: '{site_url}/flash_gallery/gallery_fr.xml',
+					xmlFileType: 'Default'
+				}
+			}
+		});
+	});	
+
+</script>
+
+
+{if:else} <!-- if site is english load english images in flash-->
+
+<script type="text/javascript" charset="utf-8">
+var $j = jQuery.noConflict();	
+$j(document).ready(function () {
+	// #flash_content is the selector
+	$j('#flash_content').flash ({
+		// /assets/flash/flash_gallery.swf is the flash document
+		swf:'/assets/flash/flash_gallery.swf',
+		embedSWF:'FlashAlternateContent',
+		width: '585',
+		height: '240',
+		params: {
+				menu: 'false',
+				wmode: 'opaque',
+				flashvars: {
+					xmlfile: '{site_url}/flash_gallery/gallery.xml',
+					xmlFileType: 'Default'
+				}
+			}
+		});
+	});	
+
+</script>
+{/if}
+
+
+<!-- nav -->
+		<script type="text/javascript">
+		
+		var $j = jQuery.noConflict();	//no conflict insert - attempt to work with ccs lib.js
+					
+				$j().ready(function(){	 //c1open
+					// applying the settings
+					// Left Nav
+					$j('#genie-local-nav').accordion(
+						
+						{  //c2open
+						header: '.head',
+					    active: false, 
+					    alwaysOpen: false,
+					    navigation: true, 
+					    fillSpace: false, 
+						autoHeight: false,
+					    animated: false
+					}); //c2close
+			});
+		
+		</script>
+
+<!-- directory -->		
+		 <script type="text/javascript"> 
+		jQuery.noConflict();
+			jQuery(document).ready(function($){	 //c1open
+				// applying the settings
+				// Left Nav
+				$('#directory-acc').accordion(
+					
+					{  //c2open
+					header: '.head',
+				    active: false, 
+				    alwaysOpen: false,
+				    navigation: true, 
+				    fillSpace: false, 
+					autoHeight: false,
+				    animated: false
+				});
+				
+			});
+		
+
+		</script>
+		
+
+
+<!-- lightbox -->
+		<script type="text/javascript">
+		
+	jQuery.noConflict();
+		jQuery(document).ready(function($) {
+        $('#gallery a').lightBox();
+    });	
+
+		</script>
+		
+<!-- wufoo addon -->
+<style type="text/css">
+
+#visitform{width: 755px; height: 1800px; margin-left: 25px;}
+/*body{margin-bottom:-17px;} */
+iframe{height:90%;width:100%;border:none;}
+</style>
+
+
+</head>
+<!-- set univ body class using ee tags - default is en or fr -->
+<body {if country_code !="en"}class="fr"{if:else}class="en"{/if}>
+
+
+<div id="main-container" class="section-home landing-page">
+
+		<ul id="page-links">
+			<li><a id="skip-to-content" href="#main-content">Skip to content</a></li>
+			<li><a id="skip-to-localnav" href="#local-nav">Skip to links</a></li>
+			<li>
+<?php
+	function switchLanguage($lang) {
+		if ($lang =="fr") 
+		{
+		$u = explode('/', $_SERVER['REQUEST_URI']);
+			 if(!($u[1]=="en")){ 
+				$u=explode('/', "/en".$_SERVER['REQUEST_URI']);
+				} 
+		$u[1] = $lang;  
+		return implode('/', $u); 	
+				
+		}
+		else{
+			$u = explode('/', $_SERVER['REQUEST_URI']);
+			$u[1] = $lang;
+			return implode('/', $u);
+			}
+	}
+?>
+
+	{if country_code != "en"}
+	<a id="ch-lang-url" href="<?php echo switchLanguage('en'); ?>" title="English">English</a>
+								
+	{if:else}
+	<a id="ch-lang-url" href="<?php echo switchLanguage('fr'); ?>" title="Français">Français</a>
+								{/if}
+			</li>
+		</ul><!-- /#page-links -->
+
+<!-- include university banner and top nav -->
+{if country_code !="fr"}
+
+<?php include($_SERVER["DOCUMENT_ROOT"] . "/assets-templates/inc/banner-en.html"); ?>
+<!-- /#main-globalnav english -->
+	
+{if:else}
+
+<?php include($_SERVER["DOCUMENT_ROOT"] . "/assets-templates/inc/banner-fr.html"); ?>
+<!-- /#main-globalnav french -->
+
+{/if}
+	

@@ -1,0 +1,27 @@
+<div id="p_and_p_list"> 
+
+
+<a  class="panel_title_link" href="http://web5.uottawa.ca/admingov/reglements-methodes.html">
+
+<h4 style= "line-height:0.5em"><b> Règlements et Procédures </b> </h4>
+</a>
+<!-- To change the section title,  simply change the word between <b> ... </b>  above-->
+<ul>	<!-- do not delete this tag-->
+
+
+	  
+<li><a href="http://www.etudesup.uottawa.ca/Default.aspx?tabid=1337" class="readmore">Soumettre votre thèse</a></li>
+<li><a href="http://web5.uottawa.ca/admingov/reglements-scolaires.html" class="readmore">Règlements Facultaires</a></li>            
+<li><a href="http://www.engineering.uottawa.ca/fr/undergraduate/view/regulations/" class="readmore">Code de déontologie des ingénieurs en ONTARIO (PEO)</a></li>
+<li><a href="http://www.engineering.uottawa.ca/fr/undergraduate/view/code_de_deontologie/" class="readmore">Code de déontologie des ingénieurs à QUEBEC (OIQ)</a></li>						
+
+	
+</ul>			
+
+
+
+
+
+
+
+</div>

@@ -1,0 +1,29 @@
+<div id="program_options_list"> 
+
+
+<a  class="panel_title_link" href="http://www.engineering.uottawa.ca/fr/undergraduate/programs">
+
+<h4 style= "line-height:0.5em"><b> Options du Programme</b> </h4>
+</a>
+<!-- ^^TO CHANGE THE SECTION LABEL, CHANGE THE TEXT THAT IS BETWEEN <b> and </b> ABOVE ^^ -->
+
+<ul>	<!-- do not delete this tag-->
+
+
+		  
+<li><a href="http://www.coop.uottawa.ca/fr/fr-coop-students/fr-program.asp" class="readmore">Régime coop</a></li>
+<li><a href="http://www.international.uottawa.ca/fr/index.html" class="readmore">Programme d'échange</a></li>            
+<li><a href="http://www.engineering.uottawa.ca/downloads/pdf/eng_man_ent_opt_fr.pdf" class="readmore">Option gestion et entrepreneuriat en ingénierie</a></li>				
+<li><a href="http://www.engineering.uottawa.ca/downloads/pdf/computing_technology_fr.pdf" class="readmore">Technologie de l’informatique</a></li>			
+						
+
+	
+</ul>			
+
+
+
+
+
+
+
+</div>

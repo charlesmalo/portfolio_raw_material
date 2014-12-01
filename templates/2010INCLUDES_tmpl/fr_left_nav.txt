@@ -1,0 +1,202 @@
+<!-- <div id="leftNav"> -->
+<ul id="genie-local-nav">
+
+	<!-- home -->
+		<li>
+			<h3 class="home"><a class="home" href="{site_url}">Accueil</a> </h3>	
+		</li>
+		
+	<!-- about -->	
+		<li>
+			<h3 class="head"><a href="#">À propos</a> </h3>
+			<ul class="subnav">
+				<li><a href="{path="/message_from_the_dean/"}">Message du doyen</a></li>
+				<li><a href="{path="/historical_note/"}">Historique</a></li>
+				<li><a href="{path="/mission_vision_values/"}">Mission, Vision &amp; Valeurs</a></li>
+				<li><a href="{path="/directory/executive_committee/"}">Comité exécutif</a></li>
+				<li><a href="{path="/faculty_updates/"}">Mises à jour de la faculté</a></li>
+				 <li><a href="{path="/accreditation/"}">Agréments</a></li> 
+			</ul> 
+		</li>
+		
+			<!-- news/events -->	
+
+			<li>
+				<h3 class="head"><a href="#">Actualités et activités</a></h3>
+				<ul class="subnav">
+				<li><a href="{path="news_articles/long_list"}">Dernières nouvelles</a></li>
+				<li><a href="{path="in_the_news/view_list"}">Dans les médias</a></li>
+				<li><a href="{path="events_calendar/big_calendar"}">Activités à venir</a></li>
+				<li><a href="{path="events_calendar/annual_events"}">Événements annuels</a></li>
+				<li><a href="{path="events_calendar/event_archives"}">Événements passés</a></li>
+		<!-- <li><a href="{path="news_articles/in_the_media"}">Dans les médias</a></li> -->
+				</ul> 
+			</li>
+
+
+			<!-- directory -->	
+			<li>
+				<h3 class="head"><a href="#">Répertoire du personnel</a></h3>
+				<ul class="subnav">
+				<li><a href="{path="directory/profs"}">Professeurs</a></li>
+				<li><a href="{path="directory/staff"}">Personnel administratif</a></li>
+				<li><a href="{path="directory/executive_committee"}">Comité exécutif</a></li>
+				<!-- <li><a href="http://www.site.uottawa.ca/fra/ecole/personnel/" target="_blank">ÉITI</a></li> -->
+				</ul> 
+			</li>
+	<!-- undergrad-->
+	
+    	<!-- Entrepreneurship & Innovation -->	
+		 <li>
+			<h3 class="head"><a href="{path="entrepreneurship/overview"}">Entrepreneuriat</a></h3>
+			 <ul class="subnav">
+					<li><a href="{path="entrepreneurship/overview"}">Aperçu</a></li>
+					<li><a href="{path="entrepreneurship/prizes"}">Prix et bourses</a></li>    
+                    <li><a href="{path="entrepreneurship/resources"}">Ressources</a></li>
+					<li><a href="{path="entrepreneurship/advisory_committee"}">Comité directeur</a></li>
+					
+				</ul> 
+		</li> 
+    
+    
+	<li>
+		<h3 class="home"><a class="home" href="{path="/undergraduate/programs"}">Programmes du 1er cycle</a> </h3>	
+	</li>
+    
+    
+	<li>
+		<h3 class="head"><a class="home" href="/undergraduate/current_students">Études du 1er cycle</a> </h3>	
+
+		<ul class="subnav">
+			
+	<li><a class="home" href="http://www.uottawa.ca/academic/info/regist/annuaires/programmes/genie.html" >Futurs étudiants</a> 	</li>
+	<li><a href="{path="/undergraduate/current_students"}">Étudiants actuels</a> 	</li>
+    <li><a href="{path="/undergraduate/bridgeprogram"}">Programme passerelle</a></li>
+	<li><a href="{path="/undergraduate/academic_success/"}">Succès scolaire</a> 	</li>
+	<li><a class="home" href="http://www.registraire.uottawa.ca/Default.aspx?tabid=2745">Bourses et finances</a> 	</li>
+	<!--<li><a href="{path="/undergraduate/graduating_students/"}">Étudiants finissants</a> 	</li> -->
+	<li><a href="{path="/undergraduate/view/policy_on_special_student_registration"}">Étudiants spéciaux</a> 	</li>
+	
+	
+	</ul>
+	
+	</li>
+	
+			
+	
+		
+			
+	
+			<!-- programs - grad -->
+
+			<li>
+            <h3 class="home"><a class="home" href="{path="/graduate/"}">Études supérieures</a> </h3>
+			</li>
+			
+			
+
+			
+
+
+
+
+<!-- Departments CHG-->
+	<li>
+		<h3 class="home"><a class="home" href="{path="departments/chemical_engineering"}">Département de génie chimique et biologique</a></h3>
+<!--			<ul class="subnav">
+	<li><a href="{path="chemical_engineering/overview"}">Aperçu</a></li>
+	<li><a href="{path="chemical_engineering/why_choose_us"}">Nous choisir</a></li>		
+	<li><a href="{path="chemical_engineering/mission"}">Notre mission</a></li>
+	<li><a href="{path="undergraduate/chemical_engineering"}">Études au 1er cycle</a></li>
+	<li><a href="{path="graduate/view/chemical_and_biological_engineering"}">Études supérieures</a></li>  
+			</ul> -->
+	</li>
+
+			<!-- Departments CVG-->
+	<li>
+		<h3 class="head"><a href="#">Département de génie civil</a></h3>
+		<ul class="subnav">
+			<li><a href="{path="civil_engineering/overview"}">Aperçu</a></li>
+				<li><a href="{path="departments/people_cvg"}">Notre personnel</a></li>
+			<li><a href="{path="undergraduate/civil_engineering"}">Études au 1er cycle</a></li>
+			<li><a href="{path="graduate/view/civil_engineering"}">Études supérieures</a></li>
+		</ul> 
+	</li>
+	
+		<!-- Departments MCG -->
+	<li>
+		<h3 class="head"><a href="#">Département de génie mécanique</a></h3>
+		<ul class="subnav">
+	<li><a href="{path="mechanical_engineering/overview"}">Aperçu</a></li>
+	<li><a href="{path="departments/people_mcg"}">Notre personnel</a></li>
+	<li><a href="{path="mechanical_engineering/why_choose_us"}">Nous choisir</a></li>
+	<li><a href="{path="mechanical_engineering/why_choose_mcg"}">Le génie mécanique</a></li>
+	<li><a href="{path="mechanical_engineering/why_choose_biomedical_mcg"}">Le génie mécanique biomédical</a></li>
+	<li><a href="http://www.uottawa.ca/academic/info/regist/annuaires/genie/MCG.html" target="_blank">Études au 1er cycle</a></li>
+	<!-- <li><a href="{path="undergraduate/mechanical_engineering"}">Études au 1er cycle</a></li> -->
+	<li><a href="{path="graduate/view/mechanical_engineering_-_overview"}">Études supérieures</a></li>
+							
+						</ul> 
+					</li>
+	<li>
+		<h3 class="home"><a class="home" href="http://www.site.uottawa.ca/fra" target="_blank">École d'ingénierie et de technologie de l'information</a> </h3>	
+	</li>
+
+
+											
+
+ <!-- xxxxxxxx  -->
+		<!-- Future Students -->	
+		<li>
+			<h3 class="home"><a href="{path="prospective"}">Futurs étudiants</a> </h3>	
+		</li>	
+<!-- xxxxxxxxxxxx  -->	
+	
+	
+		
+		<!-- Alumni -->	
+		<li>
+			<h3 class="home"><a class="home" href="http://www.uottawa.ca/anciens" target="_blank">Anciens</a> </h3>	
+		</li>
+		
+	
+		
+		<!-- Careers-->	
+		<li>
+			<h3 class="home"><a class="home" href="{path="careers"}">Travailler à l'Université</a></h3>
+			<!-- <ul class="subnav">
+						<li><a href="#">Academic Careers</a></li>
+						<li><a href="#">Part Time Teaching Positions</a></li>
+						<li><a href="#">Positions for Students</a></li>
+					</ul>  -->
+		</li>
+		
+		
+		<!-- Facilities -->	
+			<li>
+				<h3 class="head"><a href="#">Centre informatique</a></h3>
+				<ul class="subnav">
+					<li><a href="{path=/computing_facilities/about_ecf}">À propos du CIG</a></li>
+					<li><a href="{path=/computing_facilities/account_information}">Comptes informatiques</a></li>
+					<li><a href="{path=/computing_facilities/printing}">Impression</a></li>
+					<li><a href="{path=/computing_facilities/labstatus}">Statut des laboratoires</a></li>
+					<li><a href="{path=/computing_facilities/plotter}">Traceur</a></li>
+					<li><a href="{path=/computing_facilities/professor}">Ressources pour professeurs</a></li>
+				</ul> 
+			</li>
+		
+        				<!-- health and safety-->	
+		<li>
+			<h3 class="head"><a href="/health_safety">Santé et sécurité</a></h3>
+			 <ul>
+					<li><a href="{path=/health_safety/view/emergency_contact_information}">En cas d'urgence</a></li>
+					<li><a href="{path=/health_safety/view/important_links}">Liens importants</a></li>
+                    <li><a href="{path=/health_safety/view/environmental_health_and_safety_training}">Formation</a></li>
+				</ul>  
+		</li>
+			
+</ul>
+<!-- </div> -->
+
+	
+	

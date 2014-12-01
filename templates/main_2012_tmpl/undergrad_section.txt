@@ -1,0 +1,41 @@
+<div id="undergrad_list"> 
+
+
+<a  class="panel_title_link" href="http://www.engineering.uottawa.ca/en/undergraduate_2012/">
+
+<h4 style= "line-height:0.5em"><b> Undergraduate Students </b> </h4>
+</a>
+<!-- ^^TO CHANGE THE SECTION LABEL, CHANGE THE TEXT THAT IS BETWEEN <b> and </b> ABOVE ^^ -->
+
+<ul>	<!-- do not delete this tag-->
+
+
+<!-- 
+just below this is a layout example of how to add items
+
+<li><a href= "THIS IS WHERE YOU PUT A COMPLETE URL LINK IN THE DOUBLE QUOTATIONS"  class="readmore">   THIS IS WHERE YOUR TEXT OR LABEL GOES.</a> </li>
+<li><a href= "THIS IS WHERE YOU PUT A COMPLETE URL LINK IN THE DOUBLE QUOTATIONS"  class="readmore">   THIS IS WHERE YOUR TEXT OR LABEL GOES.</a> </li>
+<li><a href= "THIS IS WHERE YOU PUT A COMPLETE URL LINK IN THE DOUBLE QUOTATIONS"  class="readmore">   THIS IS WHERE YOUR TEXT OR LABEL GOES.</a> </li>
+<li><a href= "THIS IS WHERE YOU PUT A COMPLETE URL LINK IN THE DOUBLE QUOTATIONS"  class="readmore">   THIS IS WHERE YOUR TEXT OR LABEL GOES.</a> </li>
+ end of example-->
+
+
+		  
+<li><a href="http://www.engineering.uottawa.ca/en/undergraduate/programs/" class="readmore">Programs</a></li>
+<li><a href="http://www.engineering.uottawa.ca/en/student_groups" class="readmore">Student Groups</a></li>            
+<li><a href="http://www.international.uottawa.ca/en/students/index.html" class="readmore">International Students</a></li>
+<li><a href="http://www.engineering.uottawa.ca/en/undergraduate/view/2012_2013_registration_for_newly_admitted_students/" class="readmore">For Newly Admitted Students</a></li>						
+<li><a href="http://www.engineering.uottawa.ca/en/undergraduate/view/policy_on_special_student_registration/" class="readmore">For Special Students</a></li>				
+
+
+
+	
+</ul>			
+
+
+
+
+
+
+
+</div>

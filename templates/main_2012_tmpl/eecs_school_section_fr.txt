@@ -1,0 +1,27 @@
+<div id="eecs_school_list"> 
+
+
+<a  class="panel_title_link" href="http://www.sige.uottawa.ca/">
+
+<h4 style= "line-height:0.5em"><b>École de SIGE</b> </h4>
+</a>
+<!-- To change the section title,  simply change the word between <b> ... </b>  above-->
+<ul>	<!-- do not delete this tag-->
+
+
+
+
+<li  class = "panel_picture"><a href="http://www.sige.uottawa.ca/" class="readmore"><img src="http://www.engineering.uottawa.ca/images/uploads/site_panel.png" alt="site panel" width="231" height="70"></a></li>			  
+<li><a href="http://www.sige.uottawa.ca/" class="readmore">Offre des programmes en Sciences de l'Informatique, Génie logiciel, Génie électrique et Génie informatique</a></li>
+
+	
+</ul>			
+
+
+
+
+
+
+
+
+</div>

@@ -1,0 +1,74 @@
+<ul id="left-nav">
+<li id="left-nav-overview"><a href="http://www.engineering.uottawa.ca/en/departments/mechanical_engineering/">Overview</a></li>
+<li>
+	<a  class="head" href="#">Undergraduate Studies</a>
+	   <ul class="subnav">
+		<li><a href="http://www.engineering.uottawa.ca/en/undergraduate/mechanical_engineering/">Mechanical Engineering</a></li>
+		<li><a href="http://www.engineering.uottawa.ca/en/undergraduate/biomedical_mechanical_engineering">Biomedical Mechanical Engineering</a></li>
+	  </ul> 
+</li>
+<li>
+	<a  class="head" href="#">Graduate Studiess</a>
+	   <ul class="subnav">
+		<li><a href="http://www.engineering.uottawa.ca/en/departments/mechanical_engineering_graduate_studies">Mechanical Engineering</a></li>
+		<li><a href="http://www.engineering.uottawa.ca/en/departments/biomedical_engineering_graduate_studies">Biomedical Mechanical Engineering</a></li>
+	  </ul> 
+</li>
+<li><a  href="http://www.engineering.uottawa.ca/en/S=1a9be3d69a603a546976de438966fa4f4d55c9ce/departments/mechanical_engineering_research">Research</a></li>
+<li><a  href="http://www.engineering.uottawa.ca/en/departments/mechanical_engineering_directory">Professors and Administrative Staff</a></li>
+</ul>
+
+<div id="contact-info">
+<h2 id="contact-info-title">Contact information</h2>
+
+<p>
+<strong><a href="http://www.engineering.uottawa.ca/en/directory/staff" class="fn org url"> Office of the Dean</a><br/><br/>
+CBY A306 </strong><br>
+161 Louis Pasteur<br>
+Ottawa ON Canada<br>
+K1N 6N5
+</p>
+
+<p>
+<strong>Tel.</strong> 613-562-5682<br>
+<strong>Fax.</strong> 613-562-5174
+</p>
+
+
+<br/>
+
+<p>
+<strong><a href="http://www.engineering.uottawa.ca/en/directory/staff" class="fn org url"> Undergraduate Office</a><br/><br/>
+SITE 1020 </strong><br>
+800 King Edward Ave.<br>
+Ottawa ON Canada<br>
+K1N 6N5
+</p>
+
+<p>
+
+<strong>Tel.</strong> 613-562-5918<br>
+<strong>Fax.</strong> 613-562-5174
+</p>
+<p>
+<a href="mailto:bacinfo@genie.uOttawa.ca">bacinfo@genie.uOttawa.ca</a>
+</p>
+
+<br/>
+
+<p>
+<strong><a href="http://www.engineering.uottawa.ca/en/directory/staff" class="fn org url">Graduate Office</a><br/><br/>
+CBY B111 </strong><br>
+161 Louis Pasteur<br>
+Ottawa ON Canada<br>
+K1N 6N5
+</p>
+
+<p>
+
+<strong>Tel.</strong> 613-562-5347<br>
+<strong>Fax.</strong> 613-562-5129
+</p>
+
+
+</div>
